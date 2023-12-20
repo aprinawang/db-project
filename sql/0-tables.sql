@@ -35,13 +35,13 @@ CREATE TABLE Ingredient (
     Magnesium FLOAT,
     Sodium FLOAT,
     Cholestrl FLOAT,
-    desc VARCHAR(25) NOT NULL,
+    description VARCHAR(25) NOT NULL,
     unit INTEGER,
     volume_quantity INTEGER,
     volume_desc VARCHAR(25),
     weight_quantity INTEGER,
     weight_desc VARCHAR(25),
-    PRIMARY KEY (ingredient_id),
+    PRIMARY KEY (ingredient_id)
 );
 
 DROP TABLE IF EXISTS RecipeIngredientLink;
