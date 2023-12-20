@@ -441,3 +441,5352 @@ recipe_id,ingredient_id,quantity,quantity_desc,variant
 327059,2044,4.0,tablespoons,fresh basil
 327059,43598,1.0,cups,mayonnaise
 327059,11956,5.0,tablespoons,sun-dried tomatoes packed in oil
+504948,11252,2.0,,lettuce
+504948,28394,1.0,,hamburger bun
+504948,22971,1.0,cups,potato salad
+504948,43598,1.0,tablespoons,mayonnaise
+149966,2047,1.0,teaspoons,salt
+149966,12119,2.0,cups,coconut
+149966,2050,1.0,teaspoons,vanilla
+149966,1124,1.0,cups,egg white
+309827,11505,1.0,pounds,sweet potato
+309827,4042,,,peanut oil
+309827,2047,,,salt
+437455,5311,14.0,ounces,chicken broth
+437455,2049,1.0,teaspoons,thyme
+437455,2047,1.0,teaspoons,salt
+437455,11362,6.0,,potatoes
+437455,10218,2.0,pounds,pork tenderloin
+437455,11960,1.0,pounds,baby carrots
+437455,2020,1.0,teaspoons,garlic powder
+437455,2011,1.0,teaspoons,ground cloves
+437455,2024,1.0,teaspoons,ground mustard
+61677,9299,3.0,cups,raisins
+61677,43598,1.0,cups,mayonnaise
+61677,2020,1.0,teaspoons,garlic powder
+61677,11124,3.0,cups,carrots
+61677,1179,1.0,tablespoons,light cream
+61677,2010,1.0,teaspoons,cinnamon
+219233,9152,1.0,tablespoons,lemon juice
+219233,4513,1.0,tablespoons,vegetable oil
+219233,19296,3.0,tablespoons,honey
+219233,7010,1.0,pounds,pork
+219233,6168,5.0,,hot sauce
+219233,11215,4.0,,garlic cloves
+219233,16124,3.0,tablespoons,soy sauce
+219233,2021,1.0,teaspoons,ground ginger
+398291,11979,2.0,tablespoons,pickled jalapeno peppers
+398291,2047,1.0,teaspoons,salt
+398291,2030,1.0,teaspoons,black pepper
+398291,9039,4.0,,avocados
+206557,1017,8.0,ounces,cream cheese
+206557,2009,15.0,ounces,chili
+442142,2047,1.0,teaspoons,salt
+442142,43598,3.0,cups,mayonnaise
+442142,12061,1.0,cups,almonds
+442142,1009,1.0,cups,shredded cheddar cheese
+442142,10123,3.0,,bacon
+29835,19334,1.0,cups,brown sugar
+29835,2050,1.0,teaspoons,vanilla extract
+29835,2047,1.0,teaspoons,salt
+29835,12155,1.0,cups,walnuts
+24513,12119,1.0,cups,coconut
+24513,19334,1.0,cups,brown sugar
+24513,20082,2.0,cups,self-rising flour
+24513,12155,1.0,cups,walnuts
+63706,9202,6.0,,oranges
+244193,9152,1.0,tablespoons,lemon juice
+244193,2047,1.0,teaspoons,salt
+244193,1179,16.0,ounces,sour cream
+244193,2050,1.0,teaspoons,vanilla extract
+244193,1017,40.0,ounces,cream cheese
+226115,10123,1.0,,bacon
+226115,5173,1.0,cups,turkey gizzard
+226115,11143,2.0,,celery ribs
+226115,18069,1.0,,white bread
+183563,16162,250.0,,firm tofu
+183563,4513,600.0,milliliters,vegetable oil
+366307,1179,1.0,cups,sour cream
+366307,1025,1.0,cups,monterey jack cheese
+366307,11156,4.0,tablespoons,chives
+366307,1009,1.0,cups,cheddar cheese
+366307,11353,4.0,,russet potatoes
+366307,10123,4.0,,bacon
+363791,19296,1.0,cups,honey
+363791,2029,1.0,teaspoons,parsley
+363791,4639,1.0,cups,ranch dressing
+399771,1033,1.0,tablespoons,parmesan cheese
+399771,11209,1.0,,eggplant
+399771,2047,,,salt
+399771,6931,8.0,ounces,marinara sauce
+399771,1161,8.0,ounces,mozzarella cheese
+375504,43021,4.0,ounces,caesar salad dressing
+375504,2017,2.0,tablespoons,dill weed
+329008,4639,4.0,ounces,ranch dressing
+329008,2017,2.0,tablespoons,dill weed
+219479,12119,2.0,tablespoons,coconut
+219479,12115,1.0,ounces,coconut cream
+219479,9354,2.0,ounces,pineapple juice
+460069,9404,2.0,ounces,grapefruit juice
+460069,12117,1.0,ounces,coconut milk
+460069,9354,2.0,ounces,pineapple juice
+458360,12117,1.0,cups,coconut milk
+458360,9354,1.0,cups,pineapple juice
+458360,9436,1.0,cups,mango nectar
+298638,2004,,,bay leaf
+298638,2047,,,salt
+298638,11362,10.0,,potatoes
+298638,4053,2.0,tablespoons,olive oil
+298638,2049,,,fresh thyme sprig
+142269,19334,4.0,tablespoons,brown sugar
+142269,19296,4.0,tablespoons,honey
+142269,11482,2.0,,acorn squash
+142269,9502,4.0,,granny smith apples
+67203,2025,1.0,teaspoons,nutmeg
+67203,2047,1.0,teaspoons,salt
+67203,19296,3.0,tablespoons,honey
+67203,11482,3.0,,acorn squash
+67203,11216,1.0,teaspoons,ginger
+170494,11482,1.0,,acorn squash
+206008,11482,350.0,,acorn squash
+206008,1179,1.0,cups,sour cream
+206008,7005,1.0,pounds,sausage
+206008,11240,2.0,cups,mushrooms
+59334,2025,1.0,teaspoons,nutmeg
+59334,2047,1.0,teaspoons,salt
+59334,11482,4.0,,acorn squash
+59334,19334,3.0,cups,brown sugar
+59334,12062,1.0,cups,blanched almond
+59334,2010,1.0,teaspoons,cinnamon
+59334,18621,14.0,ounces,ritz crackers
+117886,2047,1.0,teaspoons,salt
+117886,11482,2.0,,acorn squash
+117886,11215,1.0,,elephant garlic
+117886,2030,1.0,teaspoons,black pepper
+117886,19334,1.0,tablespoons,brown sugar
+117886,4053,1.0,tablespoons,olive oil
+117886,2025,1.0,teaspoons,ground nutmeg
+69990,1033,1.0,cups,parmesan cheese
+69990,2029,2.0,tablespoons,dried parsley
+69990,2047,1.0,teaspoons,salt
+69990,2028,1.0,tablespoons,paprika
+69990,22978,1.0,pounds,chicken tenders
+69990,2027,1.0,tablespoons,dried oregano
+248649,7972,1.0,grams,frozen meatballs
+248649,9081,14.0,ounces,cranberry sauce
+248649,6603,16.0,ounces,picante sauce
+373454,2047,1.0,tablespoons,salt
+373454,2028,1.0,tablespoons,paprika
+373454,11979,1.0,,jalapeno peppers
+373454,2068,1.0,cups,red wine vinegar
+373454,11215,6.0,,garlic cloves
+424551,2031,1.0,teaspoons,cayenne pepper
+424551,2020,1.0,tablespoons,garlic powder
+424551,2030,1.0,tablespoons,black pepper
+424551,2014,1.0,teaspoons,cumin
+424551,2027,1.0,teaspoons,dried oregano
+424551,2026,1.0,tablespoons,onion powder
+11427,1033,1.0,ounces,parmesan cheese
+11427,2049,1.0,,thyme
+11427,19036,1.0,cups,popcorn
+11427,2047,1.0,teaspoons,salt
+11427,2031,3.0,teaspoons,cayenne pepper
+11427,2014,1.0,,cumin
+423604,11156,4.0,teaspoons,chives
+423604,2047,,,salt
+423604,10123,10.0,,bacon
+455187,1004,7.0,ounces,cheese
+455187,2047,,,salt
+455187,20409,9.0,ounces,noodles
+455187,11362,9.0,ounces,potatoes
+455187,11282,2.0,grams,onions
+456715,19095,1.0,pints,vanilla ice cream
+456715,14210,4.0,,brewed espresso
+456715,1225,0.5,cups,dulce de leche liqueur
+500043,2047,,,salt
+500043,11282,2.0,,onions
+136381,9152,1.0,tablespoons,lemon juice
+136381,9206,1.0,cups,orange juice
+136381,9040,5.0,,bananas
+136381,12179,2.0,cups,shredded coconut
+136381,19334,3.0,tablespoons,brown sugar
+136381,4073,1.0,tablespoons,margarine
+173242,9152,1.0,tablespoons,lemon juice
+173242,9206,1.0,cups,orange juice
+173242,9040,5.0,,bananas
+173242,12179,2.0,cups,shredded coconut
+173242,19334,3.0,tablespoons,brown sugar
+348276,2047,,,salt
+348276,11457,2.0,pounds,spinach
+348276,42291,4.0,tablespoons,peanut butter
+348276,11282,2.0,,onions
+293213,9206,2.0,ounces,orange juice
+293213,42040,1.0,ounces,grenadine
+293213,9354,2.0,ounces,pineapple juice
+249761,11578,8.0,,vegetable juice cocktail
+249761,2069,1.0,tablespoons,balsamic vinegar
+249761,6168,2.0,,hot sauce
+249761,2020,1.0,,garlic powder
+421812,2030,,,cracked black pepper
+421812,19912,3.0,teaspoons,agave syrup
+421812,10123,6.0,,bacon
+70278,19334,1.0,cups,brown sugar
+70278,18372,1.0,teaspoons,baking soda
+70278,18039,2.0,cups,oatmeal
+99222,43598,0.25,cups,mayonnaise
+99222,18616,10.0,,10-inch flour tortillas
+99222,11457,1.0,cups,fresh spinach
+99222,11215,2.0,,garlic
+99222,7912,0.25,,roast beef
+99222,1009,6.0,,cheddar cheese
+530270,4679,2.0,,cooking spray
+530270,2047,1.0,teaspoons,salt
+530270,2020,1.0,teaspoons,garlic powder
+530270,1204,4.0,tablespoons,low-fat parmesan cheese
+530270,11413,1.0,pounds,potato
+174217,9206,2.0,ounces,orange juice
+174217,14136,1.0,ounces,ginger ale
+174217,43382,3.0,ounces,cranberry juice
+23252,11362,3.0,cups,potatoes
+23252,2047,1.0,teaspoons,salt
+23252,11282,3.0,tablespoons,onions
+23252,11413,1.0,cups,potato flour
+40658,2029,,,parsley
+40658,2047,,,salt
+40658,9156,1.0,,lemon
+40658,11209,2.0,grams,eggplants
+40658,11215,1.0,,garlic clove
+40658,11821,6.0,,red sweet peppers
+207931,2047,,,salt
+207931,7912,3.0,pounds,beef roast
+207931,2030,1.0,teaspoons,black pepper
+207931,2068,1.0,teaspoons,wine vinegar
+207931,6971,2.0,tablespoons,worcestershire sauce
+207931,6168,1.0,teaspoons,hot sauce
+207931,16124,1.0,tablespoons,soy sauce
+207931,11215,1.0,teaspoons,garlic salt
+181765,9152,1.0,tablespoons,fresh lemon juice
+181765,2048,1.0,cups,cider vinegar
+181765,43598,1.0,cups,mayonnaise
+181765,2031,1.0,teaspoons,cayenne pepper
+181765,2030,1.0,tablespoons,black pepper
+232950,9152,1.0,tablespoons,lemon juice
+232950,2047,1.0,teaspoons,salt
+232950,2048,8.0,ounces,cider vinegar
+232950,43598,8.0,ounces,mayonnaise
+232950,2030,1.0,tablespoons,black pepper
+232950,2031,1.0,teaspoons,cayenne
+316172,35147,15.0,ounces,beef tamales
+316172,19419,8.0,ounces,corn
+316172,4053,1.0,cups,olive
+316172,2009,1.0,teaspoons,chili powder
+316172,27048,8.0,ounces,tomato sauce
+316172,1009,1.0,cups,cheddar cheese
+152031,2030,,,cracked black pepper
+152031,2014,1.0,teaspoons,cumin
+152031,13047,1.0,pounds,ground beef
+152031,1009,,,smoked cheddar cheese
+152031,6971,4.0,,worcestershire sauce
+253037,9272,1.0,cups,frozen pineapple chunks
+253037,12117,2.0,tablespoons,coconut milk
+16165,2025,,,nutmeg
+16165,2050,,,vanilla
+140769,11109,1.0,,cabbage
+140769,2015,1.0,tablespoons,curry powder
+140769,11362,1.0,pounds,potatoes
+140769,11135,1.0,,cauliflower
+140769,11124,0.5,,carrots
+140769,11282,2.0,grams,onions
+308695,2032,1.0,teaspoons,white pepper
+308695,1033,1.0,cups,parmesan cheese
+308695,1053,2.0,cups,heavy cream
+97699,2030,1.0,teaspoons,ground black pepper
+97699,1033,6.0,ounces,parmesan cheese
+97699,1017,8.0,ounces,cream cheese
+97699,2020,2.0,teaspoons,garlic powder
+104734,1033,1.0,cups,parmesan cheese
+104734,1053,1.0,cups,heavy cream
+3258,2047,1.0,teaspoons,salt
+3258,1033,1.0,cups,parmesan cheese
+3258,1053,2.0,cups,heavy cream
+3258,20409,,,noodles
+285862,2028,1.0,teaspoons,paprika
+285862,2048,1.0,tablespoons,vinegar
+285862,2005,1.0,teaspoons,caraway seed
+285862,6168,1.0,,hot pepper
+285862,11124,500.0,grams,carrots
+285862,2030,,,salt and black pepper
+285862,11215,3.0,,garlic cloves
+361524,2069,1.0,tablespoons,balsamic vinegar
+125847,4615,3.0,tablespoons,vegetable shortening
+125847,11143,1.0,cups,celery
+125847,11683,1.0,cups,carrot
+125847,11215,2.0,,garlic cloves
+125847,16124,1.0,cups,soy sauce
+125847,20089,2.0,cups,cooked rice
+125847,2021,1.0,teaspoons,ground ginger
+123758,2048,1.0,tablespoons,vinegar
+123758,4002,2.0,cups,lard
+123758,2047,1.0,teaspoons,salt
+376330,9152,2.0,tablespoons,lemon juice
+376330,11215,4.0,,garlic cloves
+376330,4053,175.0,milliliters,olive oil
+376330,2047,1.0,teaspoons,salt
+150622,9299,1.0,cups,raisins
+150622,2047,1.0,teaspoons,salt
+150622,19335,1.0,cups,granulated sugar
+150622,20038,3.0,cups,oats
+150622,2050,1.0,teaspoons,vanilla
+150622,19334,3.0,cups,brown sugar
+150622,2010,1.0,teaspoons,cinnamon
+150622,18372,1.0,teaspoons,baking soda
+142384,28387,4.0,,hamburger buns
+142384,11282,4.0,,bermuda onions
+142384,2047,1.0,teaspoons,salt
+142384,11935,2.0,teaspoons,catsup
+142384,2020,1.0,teaspoons,garlic powder
+142384,1048,4.0,,process american cheese
+142384,13047,1.0,pounds,ground beef
+328254,9184,1.0,,honeydew melon
+328254,9316,8.0,,strawberries
+328254,9181,1.0,,cantaloupe
+139424,5311,0.5,cups,chicken broth
+139424,4542,5.0,pounds,chicken
+139424,11143,1.0,,celery rib
+139424,11683,1.0,,carrot
+19104,2047,1.0,teaspoons,salt
+216335,1004,1.0,cups,cheese
+216335,43312,2.0,cups,vegetables
+306334,2047,,,salt
+306334,1179,4.0,ounces,sour cream
+306334,11355,4.0,,red potatoes
+306334,11215,1.0,cups,garlic
+306334,2027,1.0,tablespoons,oregano
+306334,1009,1.0,cups,cheddar cheese
+236547,11297,1.0,tablespoons,fresh parsley
+236547,2033,1.0,teaspoons,poppy seed
+236547,1025,2.25,,monterey jack cheese
+236547,18033,1.0,,italian bread
+236547,11215,1.0,teaspoons,garlic salt
+236547,1009,2.25,,cheddar cheese
+121233,16252,8.0,ounces,plain yogurt
+121233,9403,2.0,cups,apricot nectar
+121233,19296,2.0,tablespoons,honey
+121233,9040,3.0,,bananas
+36247,9152,2.0,tablespoons,fresh lemon juice
+36247,2025,,grams,nutmeg
+36247,2010,1.0,teaspoons,ground cinnamon
+36247,1295,0.25,cups,non-fat vanilla frozen yogurt
+36247,9502,0.5,,granny smith apples
+42832,18131,18.25,ounces,white cake mix
+190648,9152,1.0,,lemon juice
+190648,11297,1.0,tablespoons,fresh parsley
+190648,2032,,,fresh ground white pepper
+190648,11156,1.0,tablespoons,fresh chives
+190648,11215,1.0,,garlic clove
+190648,2049,1.0,,fresh thyme
+122299,19334,1.0,tablespoons,brown sugar
+122299,20089,1.0,cups,cooked rice
+122299,9050,,,fresh blueberries
+122299,2010,1.0,teaspoons,ground cinnamon
+251430,4053,2.0,cups,extra virgin olive oil
+251430,2003,1.0,teaspoons,dried basil
+251430,2047,1.0,teaspoons,salt
+251430,2069,1.0,cups,balsamic vinegar
+251430,2020,1.0,teaspoons,garlic powder
+251430,2030,1.0,teaspoons,ground black pepper
+313297,2047,1.0,teaspoons,salt
+313297,2050,1.0,teaspoons,vanilla
+313297,16252,1.0,cups,plain yogurt
+313297,9040,1.0,cups,mashed bananas
+313297,18372,3.0,teaspoons,baking soda
+258672,2025,0.25,teaspoons,nutmeg
+258672,2010,1.0,teaspoons,cinnamon
+258672,2011,0.25,teaspoons,cloves
+348473,9152,2.0,tablespoons,lemon juice
+348473,11011,1.0,pounds,asparagus spears
+348473,2047,,,salt
+348473,12061,1.0,cups,almonds
+348473,4073,1.0,tablespoons,margarine
+340071,19400,1.0,,banana
+340071,14054,1.0,cups,almond milk
+340071,2010,1.0,teaspoons,ground cinnamon
+427714,2042,1.0,teaspoons,dried thyme
+427714,12061,1.0,cups,slivered almonds
+427714,11143,1.0,cups,celery
+427714,2034,1.0,teaspoons,poultry seasoning
+427714,4687,2.0,teaspoons,light margarine
+427714,20090,3.0,cups,brown rice
+369241,12061,1.0,cups,almonds
+369241,2047,1.0,,salt
+330954,2050,1.0,teaspoons,vanilla extract
+330954,19304,1.0,teaspoons,molasses
+330954,19336,1.0,cups,powdered sugar
+330954,12195,1.0,cups,almond butter
+23718,9152,1.0,cups,lemon juice
+23718,12061,1.0,cups,sliced almonds
+157403,43598,1.0,cups,mayonnaise
+157403,12061,3.0,cups,slivered almonds
+157403,18029,1.0,,french bread
+157403,1270,1.0,cups,sharp cheddar cheese
+157403,6971,2.0,teaspoons,worcestershire sauce
+157403,10123,6.0,,bacon
+50240,43598,1.0,cups,mayonnaise
+50240,12061,3.0,cups,slivered almonds
+50240,18029,1.0,,french bread
+50240,1270,1.0,cups,sharp cheddar cheese
+50240,6971,2.0,teaspoons,worcestershire sauce
+50240,10123,6.0,,bacon
+402596,12061,1.0,cups,almonds
+402596,19334,3.0,cups,brown sugar
+402596,2006,1.0,teaspoons,cardamom
+402596,1125,1.0,,egg yolk
+402596,16157,1.0,cups,chickpea flour
+259841,12061,1.0,cups,almonds
+259841,19350,1.0,tablespoons,light corn syrup
+421313,12061,1.0,cups,almonds
+421313,12179,350.0,,shredded coconut
+421313,19902,73.0,,dark chocolate
+166297,1017,6.0,ounces,cream cheese
+166297,9206,2.0,tablespoons,orange juice
+166297,19303,1.0,cups,orange marmalade
+166297,12062,1.0,cups,blanched almond
+22320,9152,1.0,tablespoons,lemon juice
+22320,2032,1.0,,white pepper
+22320,2041,1.0,teaspoons,tarragon
+22320,12061,6.0,ounces,almonds
+22320,11240,4.0,ounces,mushrooms
+22320,11215,1.0,,garlic
+22320,16124,2.0,teaspoons,soy sauce
+22320,1017,2.0,tablespoons,cream cheese
+22320,4073,2.0,tablespoons,margarine
+370125,20084,1.0,cups,cake flour
+370125,12062,1.0,cups,blanched almond
+370125,19336,1.0,cups,powdered sugar
+370125,2047,1.0,,salt
+174555,19296,1.0,cups,honey
+174555,9421,12.0,,dates
+174555,12062,12.0,,blanched almonds
+174555,2030,1.0,,black pepper
+174555,2010,1.0,tablespoons,cinnamon
+317271,16223,1.0,cups,soymilk
+317271,8029,3.0,cups,bran flakes
+317271,12195,1.0,tablespoons,almond butter
+317271,9070,8.0,,cherries
+317271,19400,1.0,grams,banana
+477848,35192,1.0,tablespoons,agave nectar
+477848,2050,1.0,teaspoons,vanilla
+477848,20027,3.0,tablespoons,cornstarch
+477848,14054,2.0,cups,almond milk
+123513,2047,,,salt
+123513,32016,1.0,cups,macaroni noodles
+123513,1009,3.0,tablespoons,cheddar cheese powder
+162362,18069,2.0,,white bread
+162362,4073,,,margarine
+162362,1045,1.0,,american cheese
+31213,19334,2.0,tablespoons,brown sugar
+31213,19296,3.0,tablespoons,honey
+31213,11124,4.0,cups,carrots
+31213,2029,1.0,teaspoons,dried parsley
+292010,6152,1.0,cups,pizza sauce
+292010,1033,1.0,cups,parmesan cheese
+292010,7057,16.0,,pepperoni
+292010,18363,2.0,,tortillas
+292010,2044,1.0,tablespoons,basil
+292010,1161,1.0,cups,mozzarella cheese
+29842,2046,2.0,tablespoons,prepared yellow mustard
+29842,11109,,,cabbage
+29842,11143,,,celery salt
+29842,11683,,,carrot
+29842,4709,2.0,cups,light mayonnaise
+29842,2053,1.0,cups,white distilled vinegar
+86447,11206,1.0,,cucumber
+86447,11282,2.0,,green onions
+86447,15079,15.5,ounces,salmon
+86447,4513,3.0,tablespoons,vegetable oil
+86447,2030,1.0,tablespoons,black pepper
+86447,11215,1.0,tablespoons,garlic
+86447,16124,1.0,cups,soy sauce
+353968,9266,20.0,ounces,pineapple
+353968,18069,8.0,,white bread
+353968,10123,16.0,,bacon
+353968,1009,8.0,,cheddar cheese
+43281,16253,8.0,ounces,strawberry yogurt
+43281,19400,1.0,,banana
+43281,9354,6.0,ounces,pineapple juice
+61114,2047,1.0,teaspoons,salt
+61114,4513,1.0,cups,vegetable oil
+61114,2014,1.0,teaspoons,cumin
+61114,2043,1.0,teaspoons,ground turmeric
+61114,11413,1.0,pounds,potato
+61114,2031,1.0,teaspoons,cayenne
+194409,2047,1.0,teaspoons,salt
+194409,11362,500.0,grams,potatoes
+194409,11156,,,fresh chives
+194409,2030,1.0,teaspoons,black pepper
+194409,2014,1.0,teaspoons,cumin
+194409,2014,2.0,teaspoons,cumin seeds
+194409,2009,1.0,teaspoons,chili powder
+422147,12061,,,sliced almonds
+422147,9021,8.0,ounces,dried apricots
+422147,18236,,,cracker
+422147,1006,5.0,ounces,brie cheese
+264430,1020,2.0,,fontina cheese
+264430,18027,0.5,pounds,bread
+264430,2047,1.0,teaspoons,salt
+264430,2030,1.0,teaspoons,fresh ground black pepper
+264430,11109,5.0,cups,cabbage
+264430,6615,6.0,cups,vegetable broth
+264430,2025,1.0,teaspoons,ground nutmeg
+161115,11282,1.0,cups,red onions
+161115,4053,2.0,tablespoons,olive oil
+161115,16114,5.5,ounces,tempeh burgers
+161115,11353,1.0,,russet potatoes
+161115,11439,1.0,cups,sauerkraut
+181141,12061,3.0,cups,sliced almonds
+181141,2047,1.0,teaspoons,salt
+181141,4513,1.0,cups,vegetable oil
+181141,19296,1.0,cups,honey
+181141,20038,4.0,cups,oats
+181141,2050,4.0,teaspoons,vanilla extract
+181141,2010,1.0,teaspoons,ground cinnamon
+181141,19334,1.0,cups,brown sugar
+181141,4038,1.0,cups,wheat germ
+181141,9079,1.0,cups,dried cranberries
+101371,20061,1.0,ounces,rice flour
+101371,18372,1.0,ounces,baking soda
+101371,18373,2.0,ounces,cream of tartar
+151504,4575,18.0,pounds,turkey
+151504,4053,1.0,cups,olive oil
+151504,2047,1.0,tablespoons,salt
+258647,11355,10.0,,red potatoes
+258647,1179,16.0,ounces,sour cream
+258647,11282,4.0,,green onions
+258647,10123,1.0,pounds,bacon
+354791,4528,4.0,ounces,walnut oil
+354791,12061,8.0,ounces,almonds
+354791,2047,1.0,teaspoons,salt
+354791,19296,2.0,ounces,honey
+91644,1017,8.0,ounces,cream cheese
+91644,2050,1.0,teaspoons,vanilla
+33954,4542,1.0,,chicken
+33954,20061,1.0,cups,white rice
+24149,2010,1.0,teaspoons,cinnamon
+24149,18027,1.0,,bread
+297233,11282,2.0,tablespoons,green onions
+297233,2047,,,salt
+297233,43598,1.0,cups,mayonnaise
+297233,2030,1.0,teaspoons,fresh ground black pepper
+297233,11143,1.0,,celery
+297233,4583,2.0,teaspoons,mustard
+297233,2045,1.0,tablespoons,fresh dill
+36217,2025,1.0,teaspoons,nutmeg
+36217,19304,1.0,cups,molasses
+456752,19095,2.0,cups,vanilla ice cream
+456752,1053,2.0,tablespoons,heavy cream
+249042,20630,1.0,cups,unbleached flour
+249042,2047,1.0,teaspoons,salt
+24452,2025,1.0,,nutmeg
+24452,2010,1.0,teaspoons,cinnamon
+24452,9501,2.0,,golden delicious apples
+24452,18337,,,puff pastry
+354957,1017,6.0,ounces,whipped cream cheese
+354957,11011,1.0,,asparagus
+354957,1033,1.0,cups,parmesan cheese
+354957,18069,1.0,,white bread
+114784,2029,1.0,cups,parsley
+114784,18027,1.0,pounds,bread
+114784,2047,3.0,teaspoons,salt
+114784,2034,1.0,teaspoons,poultry seasoning
+114784,11143,1.0,cups,celery
+401837,7059,2.0,pounds,pork sausage
+401837,6043,10.0,ounces,cream of mushroom soup
+401837,4583,3.0,teaspoons,mustard
+401837,18243,3.0,cups,seasoned croutons
+401837,1040,1.0,cups,swiss cheese
+401837,1009,2.0,cups,shredded cheddar cheese
+398589,2029,1.0,tablespoons,parsley
+398589,4679,,,cooking spray
+398589,1033,3.0,tablespoons,parmesan cheese
+398589,2047,,,salt
+398589,11215,1.0,tablespoons,garlic
+398589,13047,1.0,pounds,ground beef
+398589,11282,3.0,tablespoons,onions
+357941,19296,2.0,tablespoons,honey
+357941,19902,200.0,,dark chocolate
+213144,18042,2.0,,whole wheat bread
+213144,43598,2.0,teaspoons,mayonnaise
+213144,2044,,,fresh basil
+213144,19296,1.0,tablespoons,honey
+213144,9160,1.0,,"lime, juice of"
+213144,16162,3.0,,firm tofu
+213144,4583,1.0,teaspoons,mustard
+213144,4053,1.0,tablespoons,olive oil
+213144,11215,2.0,,garlic cloves
+213144,16124,1.0,teaspoons,soy sauce
+213144,11252,,,lettuce
+213144,1009,2.0,,cheddar cheese
+381328,11282,6.0,grams,vidalia onions
+381328,6147,10.0,ounces,mushroom soup
+381328,1161,2.0,cups,mozzarella cheese
+381328,19411,200.0,,potato chips
+12100,18376,1.0,cups,seasoned bread crumbs
+12100,1033,,grams,parmesan cheese
+12100,1017,3.0,tablespoons,cream cheese
+12100,11240,24.0,grams,mushrooms
+406546,2050,1.0,teaspoons,extract
+406546,2050,1.0,teaspoons,vanilla extract
+31685,18420,1.0,,cake mix
+233025,2047,1.0,teaspoons,salt
+233025,2032,1.0,teaspoons,white pepper
+233025,2028,,,paprika
+233025,2017,1.0,teaspoons,dried dill
+233025,15139,1.0,cups,crab
+233025,1017,8.0,ounces,cream cheese
+234039,19296,3.0,tablespoons,honey
+234039,11935,1.0,cups,catsup
+234039,2047,1.0,teaspoons,salt
+234039,11282,6.0,,onions
+392948,18003,2.0,,bagels
+392948,2050,1.0,teaspoons,vanilla
+392948,2047,1.0,teaspoons,salt
+392948,2010,1.0,teaspoons,cinnamon
+64841,1033,2.0,tablespoons,parmesan cheese
+64841,2047,1.0,teaspoons,salt
+64841,1145,6.0,tablespoons,unsalted butter
+64841,2030,,,ground black pepper
+64841,11215,9.0,,garlic
+64841,18033,1.0,pounds,italian bread
+203790,2047,1.0,teaspoons,salt
+203790,28162,1.0,quarts,corn flakes
+203790,19304,1.0,cups,molasses
+203790,2010,1.0,teaspoons,cinnamon
+203790,11216,1.0,teaspoons,ginger
+265513,2047,1.0,teaspoons,salt
+265513,5115,1.0,,roasting chicken
+272337,2047,1.0,teaspoons,salt
+272337,19335,1.0,cups,granulated sugar
+272337,2050,1.0,teaspoons,vanilla extract
+272337,2011,1.0,teaspoons,ground cloves
+272337,2010,1.0,teaspoons,ground cinnamon
+272337,19334,1.0,cups,brown sugar
+272337,20481,2.0,tablespoons,all-purpose flour
+237760,2010,1.0,teaspoons,cinnamon
+237760,2050,1.0,teaspoons,vanilla
+237760,2047,1.0,,salt
+237760,18412,2.0,cups,dry bread
+499911,2047,1.0,teaspoons,salt
+499911,43598,1.0,cups,mayonnaise
+499911,11090,1.0,,broccoli
+499911,1179,1.0,cups,sour cream
+499911,11135,1.0,,cauliflower
+499911,1009,1.0,cups,shredded cheddar cheese
+499911,10123,1.0,pounds,bacon
+234952,2047,1.0,teaspoons,salt
+234952,18039,3.0,cups,oatmeal
+234952,4556,1.0,cups,shortening
+234952,2050,1.0,teaspoons,vanilla
+234952,19334,1.0,cups,brown sugar
+234952,18372,1.0,teaspoons,baking soda
+272340,2025,1.0,teaspoons,nutmeg
+272340,2047,1.0,teaspoons,salt
+272340,19304,1.0,cups,light molasses
+272340,2011,1.0,teaspoons,ground cloves
+272340,19334,1.0,cups,brown sugar
+272340,2010,1.0,teaspoons,cinnamon
+272340,18372,1.0,teaspoons,baking soda
+51982,19336,1.0,cups,powdered sugar
+51982,4513,1.0,cups,vegetable oil
+51982,12155,2.0,cups,walnuts
+51982,2050,1.0,teaspoons,vanilla
+51982,18372,1.0,teaspoons,baking soda
+51982,18373,1.0,teaspoons,cream of tartar
+411947,2047,1.0,,salt
+411947,1040,1.0,cups,swiss cheese
+411947,19419,2.0,,corn
+411947,2031,1.0,,cayenne pepper
+62367,6159,1.0,,tomato soup
+62367,6043,1.0,,cream of mushroom soup
+62367,7007,1.0,grams,beef
+62367,4053,1.0,tablespoons,olive oil
+62367,20409,1.0,pounds,egg noodles
+5174,9152,2.0,tablespoons,lemon juice
+5174,43598,1.0,cups,mayonnaise
+5174,12155,0.5,cups,walnuts
+5174,15128,6.5,ounces,tuna
+5174,2030,,,black pepper
+5174,4053,1.0,cups,olive
+5174,1017,8.0,ounces,cream cheese
+47804,90480,1.0,cups,syrup
+47804,16399,3.0,cups,creamy peanut butter
+265395,19419,15.25,ounces,corn
+265395,5311,1.5,quarts,chicken broth
+265395,2047,1.0,teaspoons,salt
+47677,18621,4.0,,ritz crackers
+45009,2025,1.0,teaspoons,nutmeg
+45009,18027,4.0,,bread
+45009,2047,1.0,teaspoons,salt
+45009,2050,1.0,teaspoons,vanilla
+45009,2010,3.0,teaspoons,cinnamon
+47844,13350,1.0,pounds,dried beef
+47844,2030,,,black pepper
+397584,12142,1.0,cups,pecans
+397584,2047,1.0,teaspoons,salt
+397584,9040,3.0,,bananas
+397584,18372,1.0,teaspoons,baking soda
+107497,2047,1.0,teaspoons,salt
+107497,4513,1.0,cups,vegetable oil
+107497,2050,2.0,teaspoons,vanilla extract
+107497,2010,2.0,teaspoons,ground cinnamon
+107497,18372,2.0,teaspoons,baking soda
+107497,20481,2.0,cups,all-purpose flour
+247103,1004,1.0,cups,cheese
+247103,18363,4.0,grams,corn tortillas
+247103,11527,0.5,cups,tomatoes and green chilies
+247103,1179,1.0,cups,sour cream
+247103,2014,1.0,teaspoons,cumin
+123651,4582,1.0,cups,canola oil
+123651,2047,,,salt
+123651,2028,,,paprika
+123651,19296,1.0,cups,honey
+123651,2020,,,garlic powder
+123651,16124,4.0,tablespoons,soy sauce
+123651,5115,1.0,,roasting chicken
+161033,9040,3.0,,bananas
+161033,12155,1.0,cups,walnuts
+20140,15001,1.0,,anchovy
+20140,11215,10.0,,garlic
+20140,4053,2.0,tablespoons,olive oil
+20140,1161,,,mozzarella cheese
+305393,19296,150.0,grams,honey
+305393,12061,50.0,grams,almonds
+305393,4058,50.0,grams,sesame
+305393,12155,50.0,grams,walnuts
+379580,27066,3.0,tablespoons,horseradish sauce
+379580,43598,1.0,cups,mayonnaise
+379580,1270,3.0,cups,sharp cheddar cheese
+379580,11945,3.0,tablespoons,sweet relish
+379580,2046,2.0,tablespoons,yellow mustard
+379580,7007,1.0,pounds,bologna
+188540,11143,2.0,,celery
+188540,11124,4.0,,carrots
+188540,11086,1.0,,beet
+59593,20084,3.0,cups,cake flour
+59593,1017,8.0,ounces,cream cheese
+59593,2050,1.0,teaspoons,vanilla
+59593,2047,1.0,teaspoons,salt
+71117,2025,1.0,teaspoons,nutmeg
+71117,18027,1.0,cups,bread
+71117,2047,,,salt
+71117,2042,1.0,teaspoons,dried thyme
+71117,2030,,,black pepper
+71117,7010,1.0,pounds,pork
+71117,13047,1.0,pounds,ground beef
+71117,2032,,,white pepper
+112725,19296,1.0,tablespoons,honey
+112725,19400,1.0,,banana
+430060,11215,1.0,teaspoons,garlic
+430060,11955,250.0,grams,sun-dried tomatoes
+430060,2044,20.0,grams,fresh basil
+96063,4556,1.0,cups,shortening
+96063,2050,1.0,teaspoons,vanilla
+96063,19334,1.0,cups,brown sugar
+96063,18372,1.0,teaspoons,baking soda
+96063,18373,1.0,teaspoons,cream of tartar
+125915,2047,1.0,teaspoons,salt
+125915,4556,0.5,,shortening
+125915,2050,1.0,teaspoons,vanilla
+125915,19334,1.0,cups,brown sugar
+125915,18372,1.0,teaspoons,baking soda
+125915,18373,1.0,teaspoons,cream of tartar
+113402,19335,1.0,cups,granulated sugar
+113402,12142,1.0,cups,pecans
+113402,2050,1.0,teaspoons,vanilla
+113402,19334,1.0,cups,brown sugar
+113402,12110,1.0,cups,flaked coconut
+113402,18609,12.0,ounces,vanilla wafers
+420761,9316,8.0,ounces,strawberries
+420761,9302,8.0,ounces,raspberries
+420761,9042,8.0,ounces,blackberries
+420761,9050,8.0,ounces,blueberries
+420761,18086,1.0,,angel food cake
+374705,16253,6.0,ounces,strawberry yogurt
+374705,9316,,,fresh strawberries
+374705,19336,1.0,cups,powdered sugar
+374705,42135,12.0,ounces,frozen whipped topping
+166813,18086,8.0,,angel food cake
+166813,9316,2.0,quarts,fresh strawberries
+166813,19095,1.0,gallons,vanilla ice cream
+227941,1017,3.0,ounces,cream cheese
+227941,19303,1.0,cups,orange marmalade
+227941,18069,16.0,,white bread
+94098,1033,0.5,,parmesan cheese
+94098,2027,1.0,tablespoons,oregano
+94098,2020,2.0,,garlic powder
+94098,18033,1.0,,crusty italian bread
+118878,1017,16.0,ounces,cream cheese
+118878,19336,1.0,cups,powdered sugar
+118878,9354,3.0,tablespoons,pineapple juice
+118878,12117,3.0,tablespoons,coconut milk
+338711,4073,1.0,cups,margarine
+338711,2050,1.0,teaspoons,vanilla
+338711,42291,3.0,cups,peanut butter
+338711,20038,3.0,cups,quick oats
+56152,2047,1.0,teaspoons,salt
+56152,18039,1.0,cups,oatmeal
+56152,19296,2.0,teaspoons,honey
+56152,1094,4.0,tablespoons,buttermilk
+56152,18372,1.0,teaspoons,baking soda
+190261,2002,1.0,teaspoons,anise
+190261,19719,1.0,cups,apricot preserves
+190261,2047,1.0,teaspoons,salt
+190261,11683,1.0,pounds,carrot
+159203,2002,1.0,teaspoons,anise seed
+159203,19335,1.0,tablespoons,granulated sugar
+69967,1179,2.0,cups,sour cream
+69967,2002,4.0,tablespoons,anise seeds
+69967,2050,1.0,teaspoons,vanilla
+69967,2047,1.0,teaspoons,salt
+123689,9152,1.0,,lemon juice
+123689,2016,1.0,,dill
+123689,2047,1.0,teaspoons,salt
+123689,2068,0.3333333333333333,cups,red wine vinegar
+123689,4053,1.0,cups,olive oil
+123689,11215,1.0,,garlic clove
+123689,2027,1.0,,oregano
+295815,9152,2.0,tablespoons,fresh lemon juice
+295815,12061,2.0,ounces,sliced almonds
+295815,19296,2.0,tablespoons,honey
+295815,2069,3.0,tablespoons,balsamic vinegar
+295815,2050,1.0,teaspoons,vanilla
+295815,9252,3.0,,fresh pears
+295815,9316,1.0,pounds,fresh strawberries
+355605,11252,1.0,,iceberg lettuce
+355605,1179,1.0,pints,sour cream
+355605,2048,4.0,tablespoons,cider vinegar
+262411,2050,1.0,teaspoons,vanilla
+262411,19078,2.0,,unsweetened chocolate
+20937,2047,1.0,teaspoons,salt
+20937,19400,2.0,,banana
+20937,4556,1.0,cups,shortening
+20937,2048,1.0,tablespoons,vinegar
+20937,18372,1.0,teaspoons,baking soda
+439907,2011,1.0,teaspoons,ground cloves
+439907,2021,1.0,teaspoons,ground ginger
+439907,2010,1.0,teaspoons,ground cinnamon
+503429,2042,2.0,teaspoons,dried thyme
+503429,2032,2.0,teaspoons,white pepper
+503429,2030,2.0,teaspoons,cracked black pepper
+503429,2031,1.0,teaspoons,cayenne pepper
+503429,2020,1.0,tablespoons,garlic powder
+503429,2027,1.0,teaspoons,dried oregano
+503429,2026,1.0,tablespoons,onion powder
+316026,4582,1.0,cups,canola oil
+316026,11527,3.0,,green tomatoes
+316026,2047,1.0,,salt
+316026,2028,1.0,teaspoons,paprika
+316026,35131,1.0,cups,cornmeal
+242934,6043,16.0,ounces,cream of mushroom soup
+242934,13047,1.0,pounds,ground beef
+242934,28327,1.0,,biscuits
+242934,1017,4.0,ounces,cream cheese
+242934,6931,0.5,,spaghetti sauce
+368158,2029,3.0,tablespoons,parsley
+368158,2004,1.0,,bay leaf
+368158,2047,1.0,teaspoons,salt
+368158,2044,3.0,tablespoons,basil
+368158,4053,1.0,cups,olive oil
+368158,11282,5.0,tablespoons,onions
+368158,11215,3.0,,garlic cloves
+499406,2047,,,salt
+499406,2030,,,fresh ground black pepper
+499406,11143,1.0,cups,celery
+499406,4133,,,french dressing
+499406,6169,1.0,,tabasco sauce
+499406,1017,8.0,ounces,cream cheese
+499406,11252,,,lettuce
+499406,16091,1.0,cups,peanuts
+71364,9176,1.0,,mango
+71364,9206,8.0,ounces,orange juice
+71364,9050,2.0,ounces,blueberries
+71364,9316,2.0,ounces,strawberries
+401089,19411,1.0,cups,potato chips
+401089,2050,2.0,teaspoons,vanilla
+35277,11143,4.0,,celery ribs
+35277,9299,16.0,,raisins
+35277,42291,4.0,tablespoons,peanut butter
+228323,11143,6.0,,celery
+228323,1017,4.0,tablespoons,cream cheese
+228323,9299,,,raisins
+228323,42291,4.0,tablespoons,peanut butter
+249034,1017,8.0,ounces,cream cheese spread
+249034,9299,0.5,cups,raisins
+249034,11143,3.0,,celery ribs
+215284,18223,4.0,,crackers
+215284,9299,16.0,,raisins
+215284,42291,2.0,tablespoons,peanut butter
+177191,15013,1.0,cups,crisco
+177191,18420,18.0,ounces,cake mix
+312259,4513,1.0,cups,vegetable oil
+312259,18420,18.0,ounces,cake mix
+404550,2050,1.0,teaspoons,vanilla
+404550,1053,1.0,cups,heavy cream
+404550,18420,3.0,cups,cake mix
+73022,19334,1.0,cups,brown sugar
+73022,11215,1.0,tablespoons,garlic
+73022,6971,1.0,tablespoons,worcestershire sauce
+73022,16124,2.0,cups,soy sauce
+73022,11216,1.0,teaspoons,ginger
+384137,2047,1.0,teaspoons,salt
+70049,6094,1.0,grams,dry onion soup mix
+70049,5305,1.0,pounds,ground turkey
+70049,16059,15.0,ounces,chili beans
+70049,27048,15.0,ounces,tomato sauce
+70049,2076,1.0,grams,chili seasoning mix
+327593,20080,2.0,tablespoons,whole wheat flour
+81168,2003,1.0,teaspoons,dried basil
+81168,11215,2.0,,garlic
+81168,4053,1.0,cups,olive oil
+81168,2027,1.0,teaspoons,dried oregano
+312254,18446,1.0,,frozen pie crust
+312254,2047,1.0,teaspoons,salt
+312254,1009,1.0,cups,cheddar cheese
+40270,2010,1.0,teaspoons,cinnamon
+84709,2047,,,salt
+84709,12119,1.0,,coconut
+84709,20088,2.0,grams,rice
+84709,20089,1.0,cups,cooked rice
+84709,18372,0.25,teaspoons,baking soda
+263371,2010,3.0,teaspoons,cinnamon
+263371,2006,1.0,,cardamom
+457823,1004,5.0,ounces,cheese
+457823,2047,,,salt
+457823,11355,2.0,pounds,red potatoes
+457823,4679,,,cooking oil
+457823,10123,3.0,ounces,bacon
+288745,1033,1.0,cups,parmesan cheese
+288745,11955,8.5,ounces,sun-dried tomatoes
+288745,1017,8.0,ounces,cream cheese
+288745,1156,8.0,ounces,goat cheese
+288745,12147,1.0,cups,pine nuts
+288745,4053,3.0,tablespoons,olive oil
+288745,11215,1.0,,garlic clove
+288745,2044,1.0,cups,fresh basil
+62078,6168,1.0,,hot pepper sauce
+62078,11953,4.0,,zucchini
+62078,43598,4.0,tablespoons,mayonnaise
+62078,1270,1.0,cups,sharp cheddar cheese
+155531,2047,1.0,teaspoons,salt
+155531,4513,1.0,cups,vegetable oil
+155531,12142,1.0,cups,pecans
+155531,2050,1.0,teaspoons,vanilla
+155531,2010,1.0,teaspoons,ground cinnamon
+155531,18372,1.0,teaspoons,baking soda
+93924,9206,1.0,cups,orange juice
+93924,2047,1.0,teaspoons,salt
+93924,19334,1.0,tablespoons,brown sugar
+93924,11124,6.0,grams,carrots
+93924,2025,1.0,teaspoons,ground nutmeg
+93924,4073,1.0,tablespoons,margarine
+93924,20481,5.0,tablespoons,all-purpose flour
+118433,11124,4.0,,carrots
+105454,1004,1.0,,cheese
+105454,18228,4.0,,saltine crackers
+370556,19095,4.0,,vanilla ice cream
+370556,9231,3.0,,passion fruit
+370556,9503,4.0,,gala apples
+370556,28327,3.0,,biscuits
+234946,2025,1.0,teaspoons,nutmeg
+234946,2010,1.0,tablespoons,cinnamon
+234946,18029,1.0,,french bread
+234946,2050,1.0,tablespoons,vanilla
+160738,10123,1.0,pounds,bacon
+160738,2049,1.0,teaspoons,thyme
+160738,2047,1.0,teaspoons,salt
+160738,9252,2.0,,pears
+137618,20005,4.0,tablespoons,pearl barley
+137618,1053,1.0,cups,heavy cream
+137618,9152,1.0,tablespoons,lemon juice
+70919,9152,3.0,tablespoons,fresh lemon juice
+70919,11112,4.0,cups,red cabbage
+70919,11609,1.0,cups,pickled beets
+88999,9042,1.0,cups,blackberries
+88999,1145,3.0,cups,unsalted butter
+88999,4679,,,cooking spray
+153362,4679,,,cooking spray
+153362,12061,3.0,tablespoons,slivered almonds
+153362,19334,1.0,cups,brown sugar
+153362,18069,1.0,pounds,frozen white bread dough
+153362,9502,1.25,pounds,granny smith apples
+153362,1006,4.0,ounces,brie cheese
+153362,20481,1.0,teaspoons,all-purpose flour
+317060,2001,,,allspice
+317060,2011,1.0,teaspoons,ground cloves
+317060,2010,2.0,teaspoons,ground cinnamon
+317060,2048,6.0,cups,cider
+317060,11216,,,ginger
+86727,5311,14.5,ounces,chicken broth
+86727,2047,3.0,teaspoons,salt
+86727,2030,1.0,teaspoons,black pepper
+86727,11485,2.0,pounds,butternut squash
+86727,11683,1.0,,carrot
+86727,9502,3.0,grams,granny smith apples
+86727,2049,1.0,teaspoons,fresh thyme
+44445,18338,8.0,ounces,phyllo dough
+44445,9299,1.0,cups,raisins
+44445,2046,1.0,teaspoons,prepared mustard
+44445,1179,1.0,cups,sour cream
+44445,11109,4.0,cups,green cabbage
+44445,1009,1.0,cups,cheddar cheese
+126851,2010,1.0,teaspoons,cinnamon
+126851,12142,1.0,cups,pecans
+126851,2047,1.0,teaspoons,salt
+126851,18372,1.0,teaspoons,baking soda
+218323,28295,6.0,,whole wheat tortillas
+218323,1009,12.0,ounces,low-fat cheddar cheese
+269086,2010,1.0,teaspoons,cinnamon
+269086,20082,2.0,cups,self-rising flour
+269086,1270,1.0,cups,sharp cheddar cheese
+269086,12155,1.0,cups,walnuts
+447040,9152,1.0,teaspoons,lemon juice
+447040,2010,2.0,teaspoons,cinnamon
+447040,20038,3.0,cups,oats
+447040,4073,2.0,tablespoons,margarine
+95608,2010,2.0,teaspoons,cinnamon
+92914,10218,1.0,pounds,pork tenderloin
+92914,2010,1.0,teaspoons,ground cinnamon
+92914,19334,2.0,tablespoons,brown sugar
+92914,9079,2.0,tablespoons,dried cranberries
+92914,20027,2.0,tablespoons,cornstarch
+370966,20452,1.0,cups,short-grain rice
+370966,2010,1.0,teaspoons,cinnamon
+370966,2050,2.0,teaspoons,vanilla
+370966,2047,1.0,teaspoons,salt
+107852,2011,1.0,teaspoons,ground cloves
+107852,1145,2.0,tablespoons,unsalted butter
+107852,2010,1.0,teaspoons,ground cinnamon
+107852,1053,3.0,cups,heavy cream
+107852,2025,1.0,teaspoons,ground nutmeg
+6622,9152,2.0,tablespoons,lemon juice
+6622,43598,1.0,cups,mayonnaise
+6622,11109,3.0,cups,cabbage
+6622,11143,1.0,,celery
+6622,1179,1.0,cups,sour cream
+6622,11143,3.0,teaspoons,celery salt
+6622,11683,1.0,,carrot
+258967,9502,15.0,,granny smith apples
+258967,9202,5.0,,oranges
+48738,9078,1.0,cups,cranberries
+48738,19335,1.0,cups,granulated sugar
+146164,20038,1.0,cups,oats
+146164,12142,1.0,cups,pecans
+146164,19334,3.0,cups,brown sugar
+146164,9078,2.0,cups,cranberries
+146164,20481,1.0,cups,all-purpose flour
+17244,9299,,,raisins
+17244,11143,1.0,teaspoons,celery
+17244,12142,,,pecans
+17244,18044,2.0,,pumpernickel bread
+17244,1009,1.0,tablespoons,shredded cheddar cheese
+17244,1017,1.0,tablespoons,cream cheese
+3496,2047,1.0,,salt
+3496,18039,1.0,cups,oatmeal
+3496,19335,1.0,cups,granulated sugar
+3496,19334,1.0,cups,brown sugar
+3496,9502,6.0,,granny smith apples
+3496,2010,,,cinnamon
+3496,20481,1.0,cups,all-purpose flour
+95355,9206,1.0,cups,orange juice
+95355,2047,1.0,,salt
+95355,2010,1.0,teaspoons,ground cinnamon
+95355,2025,1.0,teaspoons,ground nutmeg
+95355,20481,3.0,cups,all-purpose flour
+358587,20038,1.0,cups,rolled oats
+358587,2047,1.0,teaspoons,salt
+358587,12155,1.0,cups,walnuts
+358587,9152,1.0,,"lemon, juice of"
+358587,2010,1.0,teaspoons,cinnamon
+358587,4073,1.0,cups,margarine
+406699,19334,1.0,cups,brown sugar
+406699,12142,1.0,cups,pecans
+406699,1145,5.0,tablespoons,unsalted butter
+406699,20038,1.0,cups,oats
+317351,19334,2.0,cups,brown sugar
+317351,2010,1.0,teaspoons,cinnamon
+317351,2025,3.0,teaspoons,nutmeg
+317351,20038,1.0,cups,oats
+287382,9152,2.0,teaspoons,lemon juice
+287382,19334,1.0,cups,brown sugar
+287382,2010,1.0,teaspoons,cinnamon
+287382,20481,1.0,cups,all-purpose flour
+482431,19334,3.0,cups,brown sugar
+482431,2004,1.0,teaspoons,spices
+482431,20038,3.0,cups,rolled oats
+390265,9152,2.0,tablespoons,lemon juice
+390265,2047,1.0,,salt
+390265,18039,1.0,cups,oatmeal
+390265,12061,3.0,tablespoons,almonds
+390265,12142,2.0,tablespoons,pecans
+390265,2010,1.0,teaspoons,cinnamon
+390265,2021,1.0,teaspoons,ground ginger
+322176,9008,3.0,cups,sliced apples
+322176,19911,1.0,tablespoons,maple syrup
+322176,2010,1.0,,cinnamon
+201798,2025,1.0,teaspoons,nutmeg
+201798,2047,1.0,teaspoons,salt
+201798,12155,1.0,cups,walnuts
+201798,2010,2.0,teaspoons,cinnamon
+201798,18372,2.0,teaspoons,baking soda
+171829,18420,18.0,ounces,yellow cake mix
+171829,12142,1.0,cups,pecans
+171829,1179,1.0,cups,sour cream
+171829,15013,1.0,cups,crisco
+171829,2010,1.0,teaspoons,cinnamon
+171829,4073,1.0,cups,margarine
+60893,2025,1.0,teaspoons,nutmeg
+60893,2047,1.0,teaspoons,salt
+60893,12155,1.0,cups,walnuts
+60893,2010,1.0,teaspoons,cinnamon
+60893,18372,2.0,teaspoons,baking soda
+140426,4582,1.0,cups,canola oil
+140426,12155,1.0,cups,walnuts
+140426,2050,1.0,teaspoons,vanilla
+140426,2010,1.0,teaspoons,cinnamon
+140426,18372,1.0,teaspoons,baking soda
+508378,20038,1.0,cups,oats
+508378,2010,1.0,teaspoons,ground cinnamon
+508378,19334,1.0,cups,brown sugar
+508378,19908,1.0,cups,turbinado sugar
+508378,20481,1.0,cups,all-purpose flour
+135967,19334,1.0,cups,brown sugar
+135967,2010,1.0,teaspoons,cinnamon
+135967,2047,,,salt
+135967,18039,1.0,cups,oatmeal
+137637,20038,2.0,cups,rolled oats
+137637,12061,1.0,cups,slivered almonds
+137637,9421,1.0,cups,dates
+137637,12119,1.0,cups,coconut
+137637,2010,1.0,teaspoons,cinnamon
+507064,19334,1.0,tablespoons,brown sugar
+507064,9502,6.0,,granny smith apples
+507064,18946,1.0,,pie crust
+507064,2010,1.0,teaspoons,cinnamon
+178187,9152,1.0,tablespoons,lemon juice
+178187,2010,1.0,teaspoons,cinnamon
+178187,2011,7.0,,cloves
+230530,12155,2.0,tablespoons,walnuts
+230530,18047,4.0,,raisin bread
+230530,11143,2.0,tablespoons,celery
+230530,2010,1.0,teaspoons,cinnamon
+230530,1017,1.0,cups,cream cheese
+13379,2025,1.0,teaspoons,nutmeg
+13379,9518,10.0,ounces,frozen raspberries
+13379,1053,,,heavy cream
+13379,9152,,,"lemon, juice of"
+67197,19334,1.0,tablespoons,brown sugar
+67197,7914,1.0,grams,sausage links
+506356,2010,1.0,teaspoons,ground cinnamon
+462729,2025,1.0,teaspoons,nutmeg
+462729,2028,1.0,teaspoons,paprika
+462729,2026,1.0,teaspoons,onion powder
+462729,2047,1.0,teaspoons,salt
+462729,10024,4.0,pounds,pork loin
+462729,2010,1.0,teaspoons,ground cinnamon
+462729,2032,1.0,teaspoons,white pepper
+200964,9152,1.0,tablespoons,lemon juice
+200964,18420,18.25,ounces,yellow cake mix
+200964,1179,1.0,cups,sour cream
+200964,2010,1.0,teaspoons,cinnamon
+180996,2025,1.0,teaspoons,nutmeg
+180996,4053,0.25,cups,extra virgin olive oil
+180996,2047,1.0,teaspoons,salt
+180996,2030,1.0,teaspoons,cracked black pepper
+180996,2010,1.0,teaspoons,ground cinnamon
+180996,2048,2.0,tablespoons,apple cider vinegar
+180996,11215,1.0,,garlic clove
+140850,2047,1.0,teaspoons,salt
+140850,12155,1.0,cups,walnuts
+140850,2050,1.0,teaspoons,vanilla
+140850,2010,1.0,teaspoons,cinnamon
+140850,18372,1.0,teaspoons,baking soda
+22223,18420,18.0,ounces,yellow cake mix
+22223,9008,7.0,cups,sliced apples
+22223,19335,1.0,cups,granulated sugar
+22223,12119,1.0,cups,coconut
+22223,1179,1.0,cups,sour cream
+22223,19334,1.0,cups,brown sugar
+22223,2010,1.0,teaspoons,cinnamon
+40478,18337,1.0,,puff pastry
+274947,9152,1.0,tablespoons,lemon juice
+274947,2010,1.0,teaspoons,cinnamon
+274947,9501,2.0,,golden delicious apples
+274947,11109,2.0,,cabbage leaves
+272034,9152,1.0,tablespoons,lemon juice
+272034,2047,1.0,teaspoons,salt
+272034,43598,1.0,cups,mayonnaise
+272034,12155,1.0,cups,walnuts
+272034,11143,1.0,cups,celery
+272034,9502,3.0,,granny smith apples
+211061,9156,1.0,,lemon
+152450,12061,1.0,cups,almonds
+152450,2010,1.0,teaspoons,cinnamon
+152450,2050,1.0,teaspoons,vanilla extract
+152450,9040,2.0,grams,bananas
+336935,18621,24.0,,ritz crackers
+336935,1045,6.0,,american cheese
+336935,2010,,,ground cinnamon
+287791,9152,1.0,teaspoons,lemon juice
+287791,12155,1.0,cups,walnuts
+287791,19334,1.0,tablespoons,brown sugar
+287791,9044,1.0,cups,dried cherries
+287791,9502,0.5,,granny smith apples
+287791,2010,1.0,teaspoons,cinnamon
+130992,9040,300.0,grams,bananas
+130992,9152,1.0,,"lemon, juice of"
+94593,12142,1.0,cups,pecans
+94593,2047,1.0,teaspoons,salt
+94593,20038,1.0,cups,quick oats
+94593,18372,1.0,teaspoons,baking soda
+158382,19296,2.0,tablespoons,honey
+158382,12061,1.0,cups,almonds
+158382,9070,1.0,cups,cherries
+158382,2010,2.0,teaspoons,cinnamon
+158382,2068,1.0,tablespoons,red wine
+28215,2010,1.0,teaspoons,cinnamon
+28215,9302,1.0,cups,fresh raspberries
+101299,11355,2.0,pounds,red potatoes
+101299,11215,1.0,cups,garlic
+101299,2030,,,salt and black pepper
+101299,1053,1.0,cups,heavy cream
+71922,2025,1.0,teaspoons,nutmeg
+71922,2010,1.0,teaspoons,cinnamon
+71922,9152,2.0,tablespoons,lemon juice
+23499,19334,4.0,tablespoons,brown sugar
+23499,2010,1.0,,cinnamon
+23499,20409,2.0,cups,noodles
+117716,9206,1.0,cups,orange juice
+117716,2050,1.0,teaspoons,vanilla
+117716,19334,2.0,tablespoons,brown sugar
+117716,1186,8.0,ounces,fat free cream cheese
+117716,16091,2.0,tablespoons,peanuts
+276028,19296,,,honey
+276028,9206,200.0,milliliters,fresh orange juice
+276028,9152,1.0,,"lemon, juice of"
+276028,2010,,,cinnamon
+276028,9021,25.0,grams,dried apricots
+246688,9152,1.0,,"lemon, juice and zest of"
+246688,9021,4.0,cups,apricots
+282709,9206,1.0,cups,orange juice
+282709,2047,1.0,teaspoons,salt
+282709,2048,3.0,tablespoons,vinegar
+282709,19334,1.0,tablespoons,brown sugar
+282709,9403,3.0,cups,apricot nectar
+282709,6971,1.0,tablespoons,worcestershire sauce
+282709,27048,1.0,cups,tomato sauce
+282709,6169,1.0,,tabasco sauce
+115225,9206,2.0,tablespoons,orange juice
+115225,12155,3.0,cups,walnuts
+115225,19296,1.0,cups,honey
+115225,12061,3.0,cups,almonds
+115225,4038,1.0,cups,wheat germ
+115225,4530,1.0,cups,apricot
+190934,4679,,,cooking spray
+190934,1124,1.0,grams,egg white
+190934,2047,1.0,teaspoons,salt
+190934,19296,2.0,tablespoons,honey
+190934,2050,1.0,teaspoons,vanilla
+190934,19334,1.0,cups,brown sugar
+190934,9403,1.0,cups,apricot nectar
+190934,16252,8.0,ounces,plain yogurt
+190934,20033,3.0,cups,oat bran
+190934,9021,1.0,cups,dried apricots
+190934,18372,1.0,teaspoons,baking soda
+233830,9152,1.0,teaspoons,lemon juice
+233830,9216,1.0,teaspoons,orange peel
+233830,19719,1.0,cups,apricot preserves
+233830,2025,1.0,teaspoons,ground nutmeg
+233830,11683,1.0,pounds,carrot
+66727,19336,,,powdered sugar
+66727,2047,1.0,,salt
+66727,12155,1.0,cups,walnuts
+66727,4615,1.0,cups,vegetable shortening
+66727,19335,1.0,teaspoons,granulated sugar
+66727,1179,1.0,cups,sour cream
+66727,19719,1.0,cups,apricot preserves
+66727,20481,2.0,cups,all-purpose flour
+315983,9152,1.0,teaspoons,lemon juice
+315983,14327,1.0,cups,apricot juice
+315983,20027,1.0,teaspoons,cornstarch
+183491,9152,,,lemon juice
+183491,9403,12.0,ounces,apricot nectar
+183491,14136,12.0,ounces,ginger ale
+96326,1053,1.0,cups,heavy whipping cream
+96326,9206,1.0,cups,orange juice
+96326,12155,1.0,cups,walnuts
+96326,18029,1.0,pounds,french bread
+96326,2050,1.0,teaspoons,vanilla extract
+96326,19719,12.0,ounces,apricot preserves
+96326,2025,1.0,teaspoons,ground nutmeg
+96326,1017,8.0,ounces,cream cheese
+77315,9152,3.0,tablespoons,lemon juice
+77315,19296,1.0,cups,honey
+77315,2011,1.0,teaspoons,ground cloves
+77315,19719,1.0,cups,apricot preserves
+77315,20027,1.0,tablespoons,cornstarch
+98366,9152,1.0,cups,lemon juice
+98366,9021,8.0,cups,apricots
+151686,9021,4.0,cups,apricots
+151686,9202,2.0,,navel oranges
+163412,2010,1.0,teaspoons,cinnamon
+163412,43132,1.0,ounces,meatballs
+163412,19719,1.0,cups,apricot preserves
+163412,6164,1.0,cups,salsa
+84898,9021,250.0,grams,dried apricots
+84898,9152,1.0,,"lemon, juice of"
+188466,12061,1.0,teaspoons,sliced almonds
+188466,19719,1.0,tablespoons,apricot preserves
+188466,9079,2.0,teaspoons,dried cranberries
+188466,9021,1.0,tablespoons,dried apricots
+188466,1006,6.0,ounces,brie cheese
+382265,9152,1.0,tablespoons,lemon juice
+382265,16223,1.0,cups,soymilk
+382265,2047,1.0,teaspoons,salt
+382265,12117,1.0,cups,coconut milk
+382265,2050,1.0,tablespoons,pure vanilla extract
+382265,19911,2.0,tablespoons,maple syrup
+382265,11697,2.0,tablespoons,arrowroot
+382265,9021,1.0,cups,dried apricots
+200043,2047,1.0,teaspoons,salt
+200043,2020,1.0,teaspoons,garlic powder
+200043,2030,,,black pepper
+200043,19719,3.0,tablespoons,apricot preserves
+200043,11011,1.0,pounds,asparagus spear
+200043,16124,1.0,tablespoons,soy sauce
+502306,2047,,,salt
+502306,10218,1.0,pounds,pork tenderloin
+502306,4583,1.0,cups,mustard
+502306,19719,3.0,tablespoons,apricot preserves
+17304,12142,1.0,tablespoons,pecans
+17304,19719,1.0,cups,apricot preserves
+17304,1007,8.0,ounces,camembert cheese
+211340,9021,18.0,,fresh apricots
+211340,1004,1.0,pounds,blue cheese
+211340,2030,,,salt & freshly ground black pepper
+211340,4053,1.0,cups,olive oil
+211340,9160,1.0,tablespoons,lime juice
+375113,9021,4.0,,apricots
+375113,1009,4.0,,mild cheddar cheese
+375113,18042,2.0,,whole wheat bread
+111229,2014,2.0,tablespoons,cumin
+111229,11215,2.0,teaspoons,garlic
+111229,9160,1.0,cups,fresh lime juice
+111229,16124,1.0,cups,soy sauce
+111229,9354,2.0,cups,pineapple juice
+25819,2014,1.0,teaspoons,cumin
+25819,11215,2.0,,garlic
+25819,11457,400.0,grams,spinach
+25819,16056,425.0,grams,chickpeas
+408620,9152,1.0,teaspoons,lemon juice
+408620,11215,1.0,,garlic
+483327,1004,1.0,cups,cheese
+483327,2049,1.0,grams,thyme
+483327,2047,,,salt
+483327,11362,4.0,grams,potatoes
+483327,10123,2.0,,bacon
+137593,1004,25.0,cups,cheese
+137593,2047,1.0,,salt
+137593,18222,4.0,,wheat toast
+137593,15035,175.0,grams,smoked haddock
+137593,20481,15.0,tablespoons,all-purpose flour
+517347,23657,1.0,pounds,flank steak
+517347,2030,,,black pepper
+517347,4053,1.0,cups,olive oil
+517347,9160,2.0,tablespoons,fresh lime juice
+517347,11215,2.0,,garlic cloves
+517347,16124,2.0,tablespoons,soy sauce
+257678,1017,1.0,cups,cream cheese
+257678,11156,,,chives
+257678,15077,0.25,cups,smoked salmon
+465942,35131,2.0,cups,cornmeal
+465942,18372,1.0,teaspoons,baking soda
+465942,1094,2.0,cups,buttermilk
+465942,2047,1.0,teaspoons,salt
+490283,2020,1.0,teaspoons,garlic powder
+490283,19334,2.0,cups,brown sugar
+490283,11052,15.0,ounces,green beans
+490283,16124,7.0,teaspoons,soy sauce
+490283,10123,12.0,,bacon
+406507,16124,2.0,teaspoons,soy sauce
+406507,12142,1.0,cups,pecans
+406507,6169,6.0,,tabasco sauce
+406507,2047,1.0,teaspoons,salt
+86967,9152,1.0,cups,lemon juice
+86967,2029,1.0,cups,parsley
+86967,2047,1.0,teaspoons,salt
+86967,2042,1.0,teaspoons,dried thyme
+86967,11215,1.0,,garlic
+86967,2023,1.0,teaspoons,dried marjoram
+86967,4679,0.3333333333333333,cups,cooking oil
+86967,31001,1.0,cups,tomato juice
+356244,20444,1.0,cups,long grain white rice
+356244,5311,3.0,cups,chicken broth
+356244,2047,1.0,teaspoons,salt
+356244,4510,1.0,tablespoons,safflower oil
+356244,43114,2.0,ounces,vermicelli
+108933,2029,1.0,,parsley
+108933,9152,3.0,tablespoons,fresh lemon juice
+108933,2047,1.0,teaspoons,salt
+108933,6164,,,salsa
+108933,4053,6.0,tablespoons,olive oil
+108933,11353,2.0,pounds,russet potatoes
+24215,43114,1.0,cups,vermicelli
+24215,5311,1.0,cups,chicken broth
+24215,20088,3.0,cups,rice
+493476,11215,8.0,,garlic cloves
+493476,5311,6.0,cups,chicken broth
+493476,2047,,,salt
+493476,20061,2.0,cups,white rice
+370748,5311,2.0,cups,chicken broth
+370748,11953,0.5,,zucchini
+370748,2047,,,salt
+370748,11821,1.0,,sweet red pepper
+370748,11052,1.0,pounds,green beans
+370748,4053,1.0,cups,olive oil
+370748,20452,1.0,cups,short-grain rice
+370748,11215,1.0,,garlic clove
+247758,2010,,,cinnamon
+247758,9156,1.0,,lemon peel
+247758,20088,1.0,cups,rice
+247758,19335,1.0,cups,granulated sugar
+293262,18027,2.0,,bread
+293262,1040,1.0,,swiss cheese
+293262,11976,,,banana pepper
+293262,1045,1.0,,american cheese
+356720,11215,3.0,,garlic cloves
+356720,18033,1.0,,round loaf italian bread
+356720,1033,1.0,cups,parmesan cheese
+356720,43598,1.0,cups,mayonnaise
+461483,1033,1.0,cups,parmesan cheese
+461483,11007,14.0,ounces,artichokes
+461483,43598,1.0,cups,mayonnaise
+461483,1161,8.0,ounces,mozzarella cheese
+461483,11215,1.0,teaspoons,garlic salt
+22224,2025,1.0,teaspoons,nutmeg
+22224,2047,1.0,teaspoons,salt
+22224,1023,1.0,cups,gruyere
+22224,11215,1.0,,garlic
+22224,11007,1.0,pounds,artichoke
+22224,1053,1.0,cups,heavy cream
+22224,2032,,,white pepper
+44272,11007,14.0,ounces,artichokes
+44272,10123,1.0,,bacon
+432463,9152,1.0,tablespoons,lemon juice
+432463,1033,1.0,cups,parmesan cheese
+432463,11007,2.0,grams,artichokes
+432463,43598,3.0,cups,mayonnaise
+432463,9156,1.0,,lemon
+432463,11297,2.0,tablespoons,fresh parsley
+432463,11215,1.0,teaspoons,garlic
+432463,2044,3.0,tablespoons,fresh basil
+50276,9152,1.0,teaspoons,lemon juice
+50276,5311,1.0,cups,chicken broth
+50276,11007,16.0,ounces,artichokes
+50276,2047,1.0,teaspoons,salt
+50276,11683,1.0,,carrot
+50276,2036,1.0,teaspoons,rosemary
+279676,1017,8.0,ounces,cream cheese
+279676,11282,2.0,tablespoons,green onions
+279676,11007,6.0,ounces,artichokes
+279676,2047,1.0,teaspoons,salt
+279676,43598,1.0,cups,mayonnaise
+279676,2030,1.0,teaspoons,black pepper
+279676,11215,1.0,,garlic clove
+279676,2027,1.0,teaspoons,oregano
+279676,1006,8.0,ounces,brie cheese
+114963,2050,2.0,teaspoons,vanilla
+114963,2047,1.0,teaspoons,salt
+114963,19078,5.0,ounces,unsweetened chocolate
+507298,9206,1.0,cups,orange juice
+507298,42040,1.0,,grenadine
+507298,9354,1.0,cups,pineapple juice
+507298,43382,1.0,cups,cranberry juice
+163600,11959,4.0,ounces,baby arugula
+163600,18069,6.0,,white bread
+163600,1156,4.0,ounces,goat cheese
+166149,9152,2.0,tablespoons,fresh lemon juice
+166149,2047,1.0,teaspoons,salt
+166149,1004,3.0,tablespoons,blue cheese
+166149,2030,1.0,teaspoons,fresh ground black pepper
+166149,4053,2.0,teaspoons,olive oil
+166149,11257,2.0,cups,red leaf lettuce
+166149,11959,1.0,cups,arugula
+166149,9089,1.0,cups,fresh figs
+230068,11304,2.0,cups,green peas
+230068,4513,1.0,cups,vegetable oil
+230068,11147,4.0,cups,swiss chard
+230068,11959,12.0,,arugula
+230068,11291,3.0,,scallions
+233193,1038,1.0,cups,parmesan-romano cheese mix
+233193,12147,1.0,cups,pine nuts
+233193,4053,1.0,cups,olive oil
+233193,11959,1.0,cups,arugula
+233193,11215,6.0,,garlic cloves
+233193,2044,1.0,cups,fresh basil
+473396,6931,1.0,cups,marinara sauce
+473396,28320,2.0,,whole grain english muffins
+473396,11959,1.0,cups,arugula leaf
+473396,1028,1.0,cups,part-skim mozzarella cheese
+473396,7974,1.0,,turkey bacon
+335812,1033,2.0,tablespoons,parmesan cheese
+335812,11297,1.0,cups,fresh parsley
+335812,12147,2.0,tablespoons,pine nuts
+335812,11457,1.0,cups,fresh spinach
+335812,4053,3.0,tablespoons,olive oil
+335812,11959,1.0,cups,arugula
+335812,11215,2.0,grams,garlic cloves
+65417,9152,1.0,teaspoons,fresh lemon juice
+65417,11959,6.0,cups,baby arugula
+65417,4053,2.0,tablespoons,olive oil
+65417,2047,1.0,teaspoons,salt
+254998,4053,3.0,tablespoons,extra virgin olive oil
+254998,11957,1.0,,fennel bulb
+254998,2069,2.0,tablespoons,balsamic vinegar
+254998,2030,,,salt & freshly ground black pepper
+254998,11959,2.0,,arugula
+254998,11291,4.0,,scallions
+254998,9202,3.0,,navel oranges
+184980,9152,2.0,teaspoons,lemon juice
+184980,1033,3.0,ounces,parmesan cheese
+184980,1004,,,blue cheese
+184980,12155,,,walnuts
+184980,2030,,,fresh ground black pepper
+184980,4532,3.0,tablespoons,hazelnut oil
+184980,9252,3.0,,pears
+184980,11959,4.0,ounces,arugula
+260524,19336,,,powdered sugar
+260524,2047,1.0,teaspoons,salt
+260524,4615,1.0,tablespoons,vegetable shortening
+260524,9320,10.0,ounces,frozen sliced strawberries in syrup
+260524,20481,1.0,cups,all-purpose flour
+367885,12061,1.0,cups,almonds
+367885,2068,1.0,cups,red wine
+367885,2010,1.0,teaspoons,cinnamon
+267703,19334,1.0,tablespoons,brown sugar
+267703,27048,8.0,ounces,tomato sauce
+267703,6626,1.0,tablespoons,pesto sauce
+331056,2047,1.0,teaspoons,salt
+331056,12142,1.0,cups,pecans
+331056,2050,1.0,teaspoons,vanilla extract
+331056,19334,1.0,cups,brown sugar
+331056,20038,1.0,cups,quick oats
+331056,9040,3.0,,mashed bananas
+331056,18372,3.0,teaspoons,baking soda
+331056,20080,1.0,cups,whole wheat flour
+508538,10123,1.0,pounds,bacon
+508538,11353,8.0,,russet potatoes
+508538,2020,1.0,teaspoons,garlic powder
+508538,1009,4.0,cups,cheddar cheese
+261850,20038,2.0,cups,rolled oats
+261850,9299,1.0,cups,raisins
+261850,4513,1.0,cups,vegetable oil
+261850,2047,1.0,teaspoons,salt
+261850,12119,1.0,cups,coconut
+261850,2011,1.0,teaspoons,ground cloves
+261850,2010,1.0,teaspoons,ground cinnamon
+261850,19334,1.0,cups,brown sugar
+261850,20581,1.0,cups,unbleached all-purpose flour
+261850,18372,1.0,teaspoons,baking soda
+261850,16091,1.0,cups,peanuts
+204224,5311,4.0,cups,chicken broth
+204224,2047,1.0,teaspoons,salt
+204224,11156,2.0,tablespoons,fresh chives
+204224,20027,1.0,tablespoons,cornstarch
+204224,11216,1.0,teaspoons,ginger
+174296,11215,6.0,grams,garlic cloves
+174296,16124,250.0,,soy sauce
+174296,11216,1.0,tablespoons,ginger
+232396,2031,1.0,tablespoons,cayenne pepper
+232396,13047,1.0,pounds,ground beef
+232396,42291,1.0,cups,peanut butter
+232396,16124,1.0,tablespoons,soy sauce
+232396,9160,1.0,tablespoons,lime juice
+232396,2021,1.0,tablespoons,ground ginger
+232396,4058,1.0,tablespoons,sesame oil
+398131,19034,6.0,cups,popped popcorn
+398131,4058,1.0,teaspoons,sesame oil
+398131,16124,1.0,tablespoons,soy sauce
+398131,2021,1.0,teaspoons,ground ginger
+398131,25071,2.0,cups,rice crackers
+281316,16124,2.0,teaspoons,soy sauce
+281316,4053,1.0,cups,olive oil
+281316,2047,1.0,,salt
+281316,2068,1.0,cups,red wine vinegar
+287499,4513,1.0,tablespoons,vegetable oil
+287499,11457,10.0,ounces,baby spinach
+287499,11215,2.0,,garlic cloves
+287499,16124,1.0,tablespoons,soy sauce
+287499,4058,1.0,teaspoons,sesame oil
+359058,12023,1.0,tablespoons,sesame seeds
+359058,11052,1.0,pounds,green beans
+359058,4053,1.0,tablespoons,olive oil
+359058,16124,,,soy sauce
+359058,4058,1.0,tablespoons,sesame oil
+259154,4513,1.0,tablespoons,vegetable oil
+259154,11011,1.0,pounds,asparagus
+259154,2030,1.0,teaspoons,black pepper
+259154,12061,1.0,cups,natural almonds
+259154,16124,1.0,tablespoons,soy sauce
+259154,11216,1.0,teaspoons,ginger
+296094,4582,3.0,tablespoons,canola oil
+296094,2047,,,salt
+296094,2068,3.0,tablespoons,rice wine vinegar
+296094,11212,10.0,ounces,edamame
+296094,16014,15.0,ounces,black beans
+296094,11052,1.0,,green beans
+296094,19719,100.0,,apricot preserves
+296094,11291,2.0,,scallions
+296094,11216,1.0,teaspoons,gingerroot
+214165,2047,1.0,teaspoons,salt
+214165,2030,1.0,teaspoons,fresh ground black pepper
+214165,11011,2.0,pounds,asparagus
+214165,4053,2.0,tablespoons,olive oil
+214165,2049,2.0,teaspoons,fresh thyme
+330036,9152,1.0,teaspoons,lemon juice
+330036,1004,1.0,cups,cheese
+330036,11953,2.0,,zucchini
+330036,2047,,,salt
+330036,12155,1.0,cups,walnuts
+330036,2030,,,fresh ground black pepper
+330036,11011,1.0,,asparagus
+330036,11362,2.0,,potatoes
+330036,4053,1.0,tablespoons,olive oil
+330036,11215,3.0,,garlic cloves
+330036,2036,1.0,,rosemary
+330036,1179,2.0,tablespoons,light cream
+260531,5311,1.0,cups,chicken broth
+260531,12061,1.0,tablespoons,almonds
+260531,11011,1.0,pounds,fresh asparagus
+260531,9156,2.0,teaspoons,lemon peel
+260531,20027,3.0,teaspoons,cornstarch
+130688,2047,,,salt
+130688,2030,1.0,teaspoons,fresh ground black pepper
+130688,11011,1.0,pounds,asparagus
+130688,4053,1.0,tablespoons,olive oil
+130688,18337,1.0,,frozen puff pastry
+130688,1006,1.0,pounds,brie cheese
+226796,5311,2.0,cups,chicken broth
+226796,11011,1.0,,asparagus spears
+226796,1179,1.0,cups,sour cream
+226796,11355,8.0,ounces,red potatoes
+226796,11215,2.0,,garlic cloves
+226796,4679,4.0,teaspoons,cooking oil
+226796,1009,1.0,cups,cheddar cheese
+226796,20481,3.0,tablespoons,all-purpose flour
+249006,12061,1.0,tablespoons,almonds
+249006,11011,1.0,pounds,fresh asparagus
+249006,19303,1.0,cups,orange marmalade
+216326,11011,1.0,pounds,asparagus
+216326,4053,2.0,tablespoons,olive oil
+216326,2047,1.0,teaspoons,salt
+118312,2047,,,salt
+118312,11011,4.0,,asparagus spears
+118312,2069,1.0,tablespoons,balsamic vinegar
+118312,12147,1.0,teaspoons,pine nuts
+118312,4053,1.0,teaspoons,olive oil
+133919,11011,1.0,,fresh asparagus
+133919,19334,1.0,cups,brown sugar
+133919,11215,1.0,tablespoons,fresh garlic
+133919,6971,1.0,tablespoons,worcestershire sauce
+133919,10123,8.0,,bacon
+41722,2047,2.0,teaspoons,salt
+41722,2042,1.0,teaspoons,dried thyme
+41722,11011,1.0,,fresh asparagus
+41722,2025,1.0,teaspoons,ground nutmeg
+41722,1009,3.0,cups,cheddar cheese
+41722,20481,1.0,cups,all-purpose flour
+166376,1033,1.0,cups,parmesan cheese
+166376,2047,,,salt
+166376,1124,1.0,,egg white
+166376,11011,1.0,,asparagus
+166376,4053,2.0,teaspoons,olive oil
+78220,11011,1.0,pounds,asparagus
+78220,35233,3.0,cups,hazelnuts
+6813,2003,1.0,teaspoons,dried basil
+6813,2047,1.0,teaspoons,salt
+6813,11011,1.0,pounds,asparagus
+6813,6121,1.0,pounds,mushroom
+6813,2030,1.0,,black pepper
+6813,11215,1.0,,garlic
+162549,9152,1.0,tablespoons,fresh lemon juice
+162549,1033,3.0,cups,parmesan cheese
+162549,2003,1.0,tablespoons,dried basil
+162549,11011,2.0,pounds,fresh asparagus
+162549,2030,,,black pepper
+162549,11215,1.0,tablespoons,fresh garlic
+318492,11011,14.5,ounces,asparagus
+318492,1033,1.0,cups,parmesan cheese
+318492,2047,,,salt
+23784,1033,,,parmesan cheese
+23784,2047,,,salt
+23784,2030,,,fresh ground black pepper
+23784,11011,1.0,pounds,fresh asparagus
+23784,2045,3.0,tablespoons,fresh dill
+23784,11457,1.0,pounds,spinach pasta
+422784,1033,1.0,cups,parmesan cheese
+422784,2044,3.0,,fresh basil leaves
+422784,11011,1.0,pounds,fresh asparagus
+422784,12142,1.0,cups,pecans
+422784,11492,8.0,ounces,spaghetti
+422784,4053,3.0,tablespoons,olive oil
+422784,11215,1.0,,garlic clove
+299296,11011,1.0,pounds,asparagus
+299296,1023,3.0,ounces,gruyere cheese
+299296,2047,1.0,teaspoons,salt
+195304,11011,10.0,ounces,asparagus spears
+195304,1004,1.0,tablespoons,blue cheese
+195304,2017,1.0,teaspoons,dill weed
+195304,1179,4.0,tablespoons,sour cream
+195304,2032,1.0,teaspoons,white pepper
+195304,1017,8.0,ounces,cream cheese
+195304,18069,12.0,,white bread
+275084,18338,,,phyllo dough
+275084,11011,1.0,,fresh asparagus
+275084,1033,,,parmesan cheese
+206276,5311,2.0,cups,chicken broth
+206276,11011,12.0,,asparagus spears
+206276,2047,,,salt
+206276,1145,2.0,tablespoons,unsalted butter
+206276,2030,,,ground black pepper
+206276,20481,2.0,tablespoons,all-purpose flour
+17393,11011,2.0,cups,asparagus
+17393,2047,3.0,teaspoons,salt
+163506,1004,1.0,cups,cheese
+163506,11011,2.0,pounds,green asparagus
+190541,10123,12.0,,bacon
+190541,11011,24.0,,asparagus spears
+190541,18069,24.0,,white bread
+190541,1270,24.0,,sharp cheddar cheese
+64846,2047,1.0,teaspoons,salt
+64846,4513,1.0,cups,vegetable oil
+64846,2048,2.0,tablespoons,cider vinegar
+64846,2028,1.0,teaspoons,paprika
+64846,12023,1.0,teaspoons,sesame seeds
+64846,11011,2.0,,fresh asparagus
+64846,2033,1.0,tablespoons,poppy seed
+64846,1004,1.0,cups,blue cheese
+64846,9316,1.0,pints,fresh strawberries
+64846,6971,1.0,teaspoons,worcestershire sauce
+191700,6094,1.25,ounces,dry onion soup mix
+191700,11011,1.0,pounds,asparagus
+191700,1161,1.0,cups,mozzarella cheese
+21414,2047,1.0,teaspoons,salt
+21414,4513,2.0,teaspoons,vegetable oil
+21414,12061,1.0,teaspoons,slivered almonds
+21414,11011,1.0,,asparagus
+21414,11291,2.0,,scallions
+382166,4679,,,cooking spray
+382166,11011,1.0,pounds,asparagus spears
+382166,2047,1.0,teaspoons,salt
+382166,2030,1.0,teaspoons,fresh ground black pepper
+382166,4602,1.0,tablespoons,light butter
+382166,2069,1.0,teaspoons,balsamic vinegar
+382166,11677,2.0,tablespoons,shallots
+60788,9152,1.0,teaspoons,fresh lemon juice
+60788,1033,2.5,ounces,parmesan cheese
+60788,11011,1.0,pounds,asparagus
+60788,11215,1.0,grams,garlic clove
+60788,2044,1.0,teaspoons,fresh basil
+29360,9152,3.0,tablespoons,lemon juice
+29360,11011,2.0,pounds,fresh asparagus
+29360,11297,,,fresh parsley
+303987,11011,1.0,pounds,asparagus spear
+303987,11215,1.0,,garlic clove
+303987,2047,,,salt
+303987,10123,1.0,pounds,bacon
+90072,11011,1.0,,asparagus
+90072,2047,1.0,teaspoons,salt
+90072,1009,1.0,cups,cheddar cheese
+439608,9152,2.0,tablespoons,fresh lemon juice
+439608,2047,,,salt
+439608,9202,2.0,,oranges
+439608,11291,2.0,,spring onions
+439608,4053,6.0,tablespoons,olive oil
+439608,11011,500.0,grams,green asparagus
+439608,2027,1.0,teaspoons,dried oregano
+144921,2047,1.0,teaspoons,salt
+144921,11011,1.25,pounds,asparagus
+144921,2024,1.0,teaspoons,ground mustard
+144921,2032,1.0,teaspoons,white pepper
+144921,1179,1.0,cups,light sour cream
+91282,9152,2.0,tablespoons,lemon juice
+91282,2029,4.0,tablespoons,parsley
+91282,12155,1.0,cups,walnuts
+91282,11011,1.0,pounds,asparagus
+91282,1187,2.0,cups,nonfat yogurt
+91282,4058,1.0,tablespoons,sesame oil
+359975,9152,1.0,teaspoons,lemon juice
+359975,4053,2.0,teaspoons,extra virgin olive oil
+359975,2047,1.0,teaspoons,salt
+359975,2015,1.0,teaspoons,curry powder
+359975,11011,1.0,,asparagus
+359975,11677,1.0,,shallot
+61350,1020,2.0,ounces,fontina cheese
+61350,1033,1.0,cups,parmesan cheese
+61350,2047,,,salt
+61350,11011,2.0,pounds,asparagus
+61350,1145,4.0,tablespoons,unsalted butter
+61350,1053,1.0,cups,heavy cream
+506139,11011,1.0,pounds,asparagus
+506139,1023,1.0,cups,gruyere cheese
+506139,2047,1.0,teaspoons,salt
+291723,9206,2.0,tablespoons,orange juice
+291723,9216,1.0,teaspoons,orange peel
+291723,11011,1.0,pounds,asparagus
+291723,2031,1.0,,cayenne pepper
+291723,9202,4.0,,oranges
+291723,4709,2.0,tablespoons,light mayonnaise
+291723,1256,1.0,cups,plain nonfat yogurt
+362466,2025,1.0,teaspoons,nutmeg
+362466,9156,1.0,,lemon
+362466,11011,16.0,,asparagus spears
+362466,2030,,,salt & freshly ground black pepper
+188041,1033,1.0,cups,parmesan cheese
+188041,2047,,,salt
+188041,2069,1.0,cups,balsamic vinegar
+188041,2030,,,black pepper
+188041,4053,1.0,tablespoons,olive oil
+188041,11011,1.0,pounds,asparagus spear
+6814,2029,1.0,,parsley
+6814,2047,1.0,,salt
+6814,11011,1.0,pounds,asparagus
+6814,4042,3.0,teaspoons,peanut oil
+6814,11677,2.0,,shallots
+330306,4053,2.0,tablespoons,extra virgin olive oil
+330306,12061,1.0,cups,almonds
+330306,11011,2.0,pounds,asparagus
+330306,2030,,,salt & freshly ground black pepper
+330306,11215,2.0,,garlic cloves
+7218,9152,1.0,tablespoons,lemon juice
+7218,2047,1.0,teaspoons,salt
+7218,11011,1.0,pounds,asparagus
+7218,12147,3.0,tablespoons,pine nuts
+7218,2044,1.0,teaspoons,basil
+7218,11215,1.0,,garlic
+7218,4053,1.0,cups,olive oil
+7218,2027,1.0,teaspoons,oregano
+187840,9152,2.0,teaspoons,fresh lemon juice
+187840,43598,1.0,cups,mayonnaise
+187840,11011,3.0,pounds,asparagus
+187840,27064,2.0,teaspoons,wasabi paste
+187840,16124,4.0,teaspoons,soy sauce
+82600,43598,2.0,tablespoons,mayonnaise
+82600,11011,2.0,,asparagus
+82600,2030,,,salt & freshly ground black pepper
+82600,11591,1.0,,watercress
+82600,1179,2.0,tablespoons,light sour cream
+417252,27066,2.0,tablespoons,horseradish
+417252,11011,1.0,,asparagus spears
+417252,9156,1.0,,lemon
+417252,2047,1.0,teaspoons,salt
+417252,2031,,,cayenne pepper
+417252,1053,1.0,cups,heavy cream
+417252,7912,1.0,pounds,roast beef
+207134,11953,0.25,cups,zucchini
+207134,2047,1.0,teaspoons,salt
+207134,11011,9.0,ounces,fresh asparagus
+207134,11297,1.0,tablespoons,fresh italian parsley
+207134,2030,1.0,teaspoons,ground black pepper
+207134,1049,1.0,cups,half-and-half
+207134,11951,0.25,,yellow sweet pepper
+207134,2044,1.0,tablespoons,fresh basil
+317975,2047,1.0,teaspoons,salt
+317975,11011,2.0,,asparagus
+317975,2044,1.0,teaspoons,basil
+317975,2030,1.0,teaspoons,black pepper
+317975,11265,1.0,cups,portabella mushroom
+317975,4053,2.0,tablespoons,olive oil
+317975,11291,2.0,tablespoons,scallions
+317975,11215,1.0,,garlic clove
+317975,2027,1.0,teaspoons,oregano
+100230,2050,1.0,teaspoons,vanilla extract
+100230,2047,1.0,,salt
+361081,5311,1.0,cups,chicken broth
+361081,32020,2.0,pounds,chicken thighs
+361081,11297,2.0,tablespoons,fresh parsley
+361081,2069,1.0,tablespoons,balsamic vinegar
+361081,2023,0.5,teaspoons,dried marjoram
+361081,4053,1.0,tablespoons,olive oil
+361081,11215,2.0,,garlic cloves
+355413,11362,5.0,ounces,potatoes
+355413,11384,5.0,ounces,au gratin potatoes
+355413,10123,1.0,pounds,bacon
+162635,1017,8.0,ounces,cream cheese
+162635,2028,,,paprika
+162635,11362,2.0,pounds,potatoes
+162635,1009,10.75,ounces,condensed cheddar cheese soup
+162635,2025,1.0,teaspoons,ground nutmeg
+162635,11215,1.0,,garlic clove
+65684,1015,12.0,ounces,cottage cheese
+65684,31021,2.0,pounds,hash brown potatoes
+65684,1049,1.0,pints,half-and-half
+65684,1045,9.0,ounces,american cheese
+65684,4073,8.0,tablespoons,margarine
+333825,18376,1.0,cups,seasoned bread crumbs
+333825,11312,3.0,cups,frozen peas
+333825,1009,2.0,cups,cheddar cheese
+487428,2047,,,salt
+487428,11362,4.0,,potatoes
+487428,1270,1.0,cups,sharp cheddar cheese
+487428,4542,1.0,tablespoons,chicken fat
+487428,10123,,,bacon
+59771,19334,1.0,cups,brown sugar
+59771,2010,1.0,teaspoons,cinnamon
+59771,2025,1.0,teaspoons,nutmeg
+59771,18039,1.0,cups,oatmeal
+393664,9152,1.0,tablespoons,lemon juice
+393664,2025,1.0,teaspoons,nutmeg
+393664,9299,2.0,cups,raisins
+393664,19335,1.0,cups,granulated sugar
+393664,12142,1.0,cups,pecans
+393664,2050,1.0,teaspoons,vanilla extract
+393664,19334,1.0,cups,brown sugar
+393664,1053,2.0,tablespoons,heavy cream
+393664,1017,8.0,ounces,cream cheese
+278733,4513,1.0,cups,vegetable oil
+278733,2068,1.0,cups,red wine vinegar
+278733,2044,1.0,teaspoons,basil
+278733,2020,1.0,teaspoons,garlic powder
+278733,16124,1.0,cups,soy sauce
+278733,2027,1.0,teaspoons,oregano
+278733,5057,1.0,pounds,chicken breast
+44848,2047,1.0,teaspoons,salt
+44848,9040,4.0,,bananas
+44848,4556,1.0,cups,shortening
+44848,12142,1.0,cups,pecans
+44848,18372,1.0,teaspoons,baking soda
+117738,2047,1.0,teaspoons,salt
+117738,11109,1.0,,cabbage
+117738,35049,1.0,pounds,meat
+117738,11354,5.0,,white potatoes
+117738,27048,8.0,ounces,tomato sauce
+86362,2025,,,nutmeg
+86362,9299,,,raisins
+86362,2047,1.0,teaspoons,salt
+86362,12155,,,walnuts
+86362,2001,,,allspice
+86362,2010,1.0,teaspoons,cinnamon
+86362,18372,1.0,teaspoons,baking soda
+86362,4073,1.0,cups,margarine
+341305,18372,1.0,teaspoons,baking soda
+341305,2050,1.0,teaspoons,vanilla
+341305,2047,1.0,teaspoons,salt
+341305,9040,4.0,,bananas
+209792,19334,1.0,cups,brown sugar
+209792,12119,1.0,cups,coconut
+209792,20038,1.0,cups,rolled oats
+83785,4582,1.0,cups,canola oil
+83785,2047,1.0,,salt
+83785,28269,15.0,cups,old-fashioned oatmeal
+83785,12061,2.0,cups,slivered almonds
+83785,19296,3.0,cups,honey
+83785,2050,1.0,cups,vanilla
+83785,18066,1.0,cups,wheat bran
+83785,4038,1.0,cups,wheat germ
+83785,19911,3.0,cups,maple syrup
+83785,20033,1.0,cups,oat bran
+226417,2047,1.0,teaspoons,salt
+226417,4556,1.0,cups,shortening
+226417,2050,1.0,teaspoons,vanilla
+226417,1094,1.0,cups,buttermilk
+226417,18372,1.0,teaspoons,baking soda
+388503,1004,2.0,cups,cheese
+388503,4583,1.0,teaspoons,mustard
+388503,2047,1.0,teaspoons,salt
+388503,6971,1.0,teaspoons,worcestershire sauce
+142078,11143,1.0,cups,celery
+142078,11935,1.0,cups,catsup
+142078,4583,2.0,tablespoons,mustard
+142078,2048,1.0,tablespoons,vinegar
+142078,13047,1.0,pounds,ground beef
+292111,6159,10.5,ounces,tomato soup
+292111,2047,1.0,teaspoons,salt
+292111,4513,3.0,cups,vegetable oil
+292111,11935,1.0,cups,catsup
+292111,2048,3.0,cups,vinegar
+292111,11215,1.0,,garlic clove
+75286,2047,1.0,teaspoons,salt
+75286,4513,1.0,cups,vegetable oil
+75286,19335,3.0,cups,granulated sugar
+75286,2050,1.0,teaspoons,vanilla
+75286,20481,2.0,cups,all-purpose flour
+75286,18372,1.0,teaspoons,baking soda
+75286,18373,1.0,teaspoons,cream of tartar
+93100,2046,3.0,tablespoons,prepared mustard
+93100,13023,3.0,pounds,beef brisket
+93100,11935,8.0,ounces,catsup
+93100,19334,3.0,tablespoons,brown sugar
+93100,6971,8.0,ounces,worcestershire sauce
+112871,6010,8.0,ounces,cream of celery soup
+112871,13047,1.0,pounds,ground beef
+112871,2047,1.0,teaspoons,salt
+112871,20038,1.0,cups,quick oats
+155619,4556,1.0,cups,shortening
+155619,2050,1.0,teaspoons,vanilla
+57663,19336,1.0,cups,powdered sugar
+57663,4513,1.0,cups,vegetable oil
+57663,19335,1.0,cups,granulated sugar
+57663,20481,4.0,cups,all-purpose flour
+57663,2050,1.0,tablespoons,pure vanilla extract
+57663,18372,1.0,teaspoons,baking soda
+57663,18373,1.0,teaspoons,cream of tartar
+286322,4582,1.0,cups,canola oil
+286322,9316,20.0,ounces,frozen strawberries in syrup
+286322,2047,1.0,teaspoons,salt
+286322,19335,2.0,cups,granulated sugar
+286322,2010,3.0,teaspoons,ground cinnamon
+286322,18372,1.0,teaspoons,baking soda
+344684,9193,2.0,tablespoons,olives
+344684,2047,,,salt
+344684,43598,1.0,cups,mayonnaise
+344684,4583,2.0,tablespoons,mustard
+344684,11945,3.0,tablespoons,sweet pickle relish
+344684,11282,2.0,tablespoons,onions
+352182,9156,1.0,teaspoons,lemon
+352182,4053,1.0,cups,olive oil
+352182,11215,2.0,,garlic cloves
+352182,17392,8.0,,lamb chops
+352182,2027,1.0,teaspoons,oregano
+370161,9152,2.0,tablespoons,lemon juice
+370161,2047,,,salt
+370161,43598,1.0,cups,mayonnaise
+370161,11109,1.0,,cabbage
+370161,2048,2.0,tablespoons,vinegar
+370161,11683,1.0,,carrot
+110342,19336,,,powdered sugar
+110342,2047,1.0,teaspoons,salt
+110342,20481,1.0,cups,all-purpose flour
+184736,2009,3.0,tablespoons,chili powder
+184736,11215,2.0,,garlic cloves
+184736,7007,2.0,,beef
+184736,4574,2.0,ounces,fat
+471840,2025,,,nutmeg
+471840,18349,2.0,,french rolls
+471840,2047,,,salt
+471840,11297,1.0,tablespoons,fresh parsley
+260654,20131,1.0,cups,barley flour
+260654,20630,3.0,cups,unbleached flour
+260654,2047,3.0,teaspoons,salt
+260654,35131,3.0,tablespoons,cornmeal
+260654,12023,1.5,teaspoons,sesame seeds
+260654,18375,1.0,ounces,active dry yeast
+378981,2047,1.0,teaspoons,salt
+378981,35131,1.0,cups,cornmeal
+378981,11278,1.0,quarts,fresh okra
+378981,4002,,,lard
+378981,20481,2.0,tablespoons,all-purpose flour
+230940,19334,1.0,cups,brown sugar
+230940,1017,8.0,ounces,light cream cheese
+230940,2050,1.0,teaspoons,vanilla
+230940,2010,,,cinnamon
+329490,11098,2.0,cups,brussels sprouts
+329490,11677,1.0,,shallot
+329490,2047,,,salt
+329490,10123,4.0,,bacon
+43099,19335,1.0,cups,granulated sugar
+43099,2002,2.0,teaspoons,anise seeds
+43099,9252,4.0,,pears
+43099,9078,2.0,cups,cranberries
+43099,2010,1.0,teaspoons,cinnamon
+43099,20027,2.0,tablespoons,cornstarch
+43099,2021,1.0,teaspoons,ground ginger
+43099,20481,1.0,cups,all-purpose flour
+76906,2025,2.0,teaspoons,nutmeg
+76906,2010,2.0,teaspoons,cinnamon
+377858,19336,2.0,cups,powdered sugar
+377858,2047,1.0,teaspoons,salt
+377858,1145,1.0,cups,unsalted butter
+377858,19911,1.0,cups,maple syrup
+377858,1125,1.0,,egg yolk
+1923,2025,1.0,teaspoons,nutmeg
+1923,2010,1.0,teaspoons,cinnamon
+1923,20038,1.0,cups,oats
+1923,2001,1.0,teaspoons,allspice
+325336,2035,1.0,teaspoons,pumpkin pie spice
+325336,43572,9.0,ounces,microwave popcorn
+442836,11505,1.0,,sweet potato
+442836,1033,1.0,cups,parmesan cheese
+442836,5311,1.0,cups,chicken broth
+442836,43312,1.0,cups,vegetables
+442836,11413,1.0,,potato
+442836,20027,1.0,teaspoons,cornstarch
+512668,11215,4.0,,garlic cloves
+512668,27027,4.0,tablespoons,pico de gallo
+512668,9039,2.0,,avocados
+341764,28269,1.0,cups,old-fashioned oatmeal
+341764,2010,1.0,,cinnamon
+341764,2050,1.0,teaspoons,vanilla extract
+490725,1033,1.0,cups,parmesan cheese
+490725,11215,1.0,pounds,garlic butter
+490725,18069,1.0,,white bread
+17881,9152,1.0,cups,lemon juice
+17881,2029,1.0,cups,parsley
+17881,2047,1.0,teaspoons,salt
+17881,11215,1.0,tablespoons,fresh garlic
+17881,11215,4.0,,garlic
+17881,2030,1.0,teaspoons,ground black pepper
+17881,2027,1.0,tablespoons,dried oregano
+17881,9039,6.0,,avocados
+533981,1256,100.0,,greek yogurt
+533981,11457,40.0,grams,spinach
+533981,2050,1.0,teaspoons,vanilla extract
+533981,4581,1.0,,avocado
+533981,12115,80.0,grams,coconut cream
+214992,2047,1.0,,salt
+214992,43598,2.0,tablespoons,mayonnaise
+214992,1161,3.0,tablespoons,mozzarella cheese
+214992,4581,1.0,,avocado
+214992,28394,1.0,,hamburger bun
+97094,4581,1.0,,avocado
+97094,9160,3.0,teaspoons,fresh lime juice
+426661,4581,1.0,,avocado
+426661,19296,2.0,tablespoons,clear honey
+449215,4581,1.0,,avocado
+449215,9318,1.0,cups,frozen strawberries
+449215,1295,3.0,ounces,vanilla yogurt
+238494,4581,1.0,,avocado
+238494,18069,4.0,,white bread
+238494,2047,,,salt
+238494,43598,2.0,teaspoons,mayonnaise
+207861,9152,1.0,tablespoons,lemon juice
+207861,11282,2.0,tablespoons,green onions
+207861,2047,1.0,teaspoons,salt
+207861,1179,1.0,cups,sour cream
+207861,10123,12.0,,bacon
+207861,9039,3.0,,avocados
+148356,4581,2.0,,avocado
+148356,43598,2.0,tablespoons,mayonnaise
+148356,9040,2.0,,bananas
+473803,4581,1.0,,avocado
+473803,19400,1.0,,banana
+382841,2030,,,salt & freshly ground black pepper
+382841,4581,1.0,,avocado
+382841,4053,1.0,cups,olive oil
+382841,11215,1.0,,garlic clove
+382841,9160,1.0,,lime juice
+382841,2044,1.0,cups,fresh basil
+241948,9152,4.0,tablespoons,fresh lemon juice
+241948,11297,2.0,tablespoons,fresh parsley
+241948,4581,1.0,cups,avocado
+241948,6971,2.0,teaspoons,worcestershire sauce
+241948,11215,1.0,teaspoons,garlic salt
+364119,4581,1.0,,avocado
+364119,18042,7.0,,whole wheat bread
+364119,1009,,,cheddar cheese
+326076,9152,1.0,tablespoons,fresh lemon juice
+326076,2047,1.0,teaspoons,salt
+326076,4581,1.0,,avocado
+326076,11215,2.0,,garlic cloves
+326076,1017,3.0,ounces,cream cheese
+530683,18027,1.0,,bread
+530683,4053,1.0,tablespoons,extra virgin olive oil
+530683,2047,1.0,,salt
+530683,2030,1.0,,black pepper
+530683,4581,1.0,,avocado
+530683,6168,2.0,teaspoons,hot sauce
+530683,1017,2.0,tablespoons,cream cheese
+232921,9156,1.0,,lemon
+232921,11143,1.0,,celery salt
+232921,31001,1.0,cups,tomato juice
+232921,6169,2.0,,tabasco sauce
+232921,9039,2.0,,avocados
+24017,9152,1.0,cups,lemon juice
+24017,2031,1.0,,cayenne
+24017,2047,1.0,teaspoons,salt
+24017,2026,1.0,,onion powder
+24017,9039,2.0,,avocados
+45788,9156,1.0,,lemon
+45788,2030,1.0,teaspoons,fresh ground black pepper
+45788,19296,2.0,teaspoons,honey
+45788,9160,1.0,,lime
+45788,4581,1.0,,avocado
+45788,11215,4.0,,garlic cloves
+56581,9404,1.0,,pink grapefruit
+56581,4581,1.0,,avocado
+56581,11252,1.0,,lettuce
+56581,43598,1.0,cups,mayonnaise
+170971,2047,,,salt
+170971,9039,1.0,,avocados
+170971,2048,1.0,tablespoons,vinegar
+170971,11215,1.0,teaspoons,dried garlic
+170971,4053,2.0,tablespoons,olive oil
+170971,11252,1.0,,lettuce
+170971,1015,130.0,grams,cottage cheese
+261461,9152,1.0,tablespoons,fresh lemon juice
+261461,1077,1.0,cups,whole milk
+261461,1053,1.0,cups,heavy cream
+261461,9039,12.0,,avocados
+406723,2029,,,parsley
+406723,2047,,,salt
+406723,1179,1.0,cups,sour cream
+406723,9160,1.0,,lime
+406723,2009,,,chili
+406723,4581,1.0,,avocado
+220143,2047,,,salt
+220143,9156,1.0,,lemon
+220143,11362,1.0,pounds,potatoes
+220143,11215,2.0,,garlic cloves
+220143,9039,2.0,,avocados
+202316,4053,1.0,cups,extra virgin olive oil
+202316,2047,1.0,teaspoons,salt
+202316,2031,1.0,,cayenne pepper
+202316,4581,1.0,,avocado
+202316,9152,1.0,,"lemon, juice of"
+512728,4581,1.0,,avocado
+512728,9160,1.0,tablespoons,lime juice
+512728,2047,1.0,,salt
+512728,43598,2.0,tablespoons,mayonnaise
+217025,9152,1.0,tablespoons,fresh lemon juice
+217025,11282,2.0,,green onions
+217025,43598,2.0,cups,mayonnaise
+217025,9039,3.0,,avocados
+173235,1077,1.0,quarts,whole milk
+173235,4581,1.0,,avocado
+173235,19095,2.0,,vanilla ice cream
+480215,18027,4.0,,bread
+480215,2047,,,salt
+480215,9156,1.0,,lemon
+480215,9039,2.0,,avocados
+480215,19911,4.0,tablespoons,maple syrup
+480215,10123,8.0,,bacon
+190939,4581,1.0,,avocado
+190939,18042,2.0,,whole wheat bread
+190939,2047,1.0,,salt
+190939,9160,1.0,,lime
+183914,9152,,,lemon juice
+183914,4053,,,extra virgin olive oil
+183914,2047,,,salt
+183914,1161,250.0,grams,mozzarella cheese
+183914,2023,,,marjoram
+183914,9039,2.0,,avocados
+71856,9152,1.0,tablespoons,lemon juice
+71856,2047,1.0,teaspoons,salt
+71856,43598,1.0,cups,mayonnaise
+71856,2020,1.0,teaspoons,garlic powder
+71856,4581,1.0,,avocado
+71856,2009,1.0,teaspoons,chili powder
+71856,2031,1.0,,cayenne
+33141,15079,7.75,ounces,salmon
+33141,28387,6.0,,hamburger buns
+33141,12023,,,sesame seeds
+33141,1040,6.0,,processed swiss cheese
+33141,4581,1.0,,avocado
+33141,9152,1.0,,"lemon, juice of"
+291086,9152,1.0,teaspoons,lemon juice
+291086,4581,1.0,,avocado
+67916,4581,1.0,,avocado
+67916,18027,2.0,,bread
+67916,2030,,,black pepper
+303491,4581,1.0,,avocado
+303491,9156,1.0,,lemon
+303491,2047,,,salt
+303491,18027,4.0,,bread
+472507,9152,1.0,tablespoons,fresh lemon juice
+472507,11206,1.0,cups,cucumber
+472507,4053,1.0,cups,extra virgin olive oil
+472507,2047,1.0,teaspoons,salt
+472507,16252,2.0,cups,plain yogurt
+472507,11215,1.0,teaspoons,garlic
+472507,4581,1.0,,avocado
+129862,4581,1.0,,avocado
+129862,2069,1.0,tablespoons,balsamic vinegar
+129862,4517,1.0,teaspoons,grapeseed oil
+141780,9152,1.0,tablespoons,lemon juice
+141780,2028,1.0,teaspoons,paprika
+141780,2047,,,salt
+141780,9039,2.0,,avocados
+141780,11156,,,chives
+141780,2031,,,cayenne
+141780,2010,1.0,teaspoons,cinnamon
+141780,16091,2.0,tablespoons,peanuts
+375903,9152,1.0,tablespoons,lemon juice
+375903,4053,1.0,tablespoons,extra virgin olive oil
+375903,2030,,,fresh ground black pepper
+375903,4581,1.0,,avocado
+375903,11215,0.25,,garlic
+375903,16124,1.0,tablespoons,soy sauce
+23757,9152,1.0,teaspoons,fresh lemon juice
+23757,43598,1.0,cups,mayonnaise
+23757,11251,,,romaine lettuce
+23757,15152,1.0,pounds,shrimp
+23757,11591,2.0,tablespoons,watercress
+23757,9039,2.0,,avocados
+153053,2029,2.0,tablespoons,parsley
+153053,9152,2.0,tablespoons,lemon juice
+153053,2047,,,salt
+153053,4581,1.0,,avocado
+153053,11156,1.0,tablespoons,chives
+153053,11215,1.0,,garlic clove
+58454,2047,1.0,,salt
+58454,4513,8.0,tablespoons,vegetable oil
+58454,2068,4.0,tablespoons,red wine vinegar
+58454,19296,2.0,teaspoons,honey
+58454,12155,3.0,tablespoons,walnuts
+58454,2030,1.0,,ground black pepper
+58454,9152,1.0,,"lemon, juice of"
+58454,11252,1.0,,lettuce
+58454,9039,2.0,,avocados
+296919,4581,1.0,,avocado
+296919,16137,4.0,tablespoons,hummus
+296919,18042,8.0,,whole wheat bread
+316766,2047,1.0,teaspoons,salt
+316766,1179,1.0,cups,sour cream
+316766,1094,2.0,cups,buttermilk
+316766,2045,1.0,teaspoons,fresh dill
+316766,4581,1.0,,avocado
+316766,11215,1.0,teaspoons,garlic
+316766,4053,2.0,tablespoons,olive oil
+316766,9160,2.0,tablespoons,fresh lime juice
+316766,2031,1.0,teaspoons,cayenne
+316766,11282,3.0,tablespoons,sweet onions
+243514,9181,1.0,,cantaloupe
+243514,19296,3.0,tablespoons,honey
+243514,2030,,,salt & freshly ground black pepper
+243514,11677,1.0,cups,shallot
+243514,4053,2.0,tablespoons,olive oil
+243514,9160,1.0,cups,fresh lime juice
+243514,9039,2.0,,avocados
+279671,9152,2.0,tablespoons,fresh lemon juice
+279671,2047,1.0,teaspoons,salt
+279671,4581,1.0,grams,avocado
+279671,2032,1.0,teaspoons,white pepper
+279671,1017,8.0,ounces,cream cheese
+386901,9152,1.0,tablespoons,lemon juice
+386901,4581,1.0,,avocado
+71866,9152,,,lemon juice
+71866,1179,,,sour cream
+71866,9039,2.0,,avocados
+71866,6603,,,picante sauce
+319600,18420,18.0,ounces,yellow cake mix
+319600,9239,29.0,ounces,peaches in light syrup
+319600,14130,6.0,ounces,cream soda
+319600,2010,1.0,teaspoons,cinnamon
+268335,1017,12.0,ounces,cream cheese
+268335,7036,1.0,pounds,italian sausage
+268335,1270,1.0,cups,sharp cheddar cheese
+268335,11240,8.0,ounces,mushrooms
+147611,20086,1.0,grams,flour tortilla
+147611,1025,1.0,cups,monterey jack pepper cheese
+147611,11251,3.0,,romaine lettuce
+147611,4639,,,ranch dressing
+147611,2055,,,prepared horseradish
+147611,1017,,,chive & onion cream cheese
+147611,7912,4.0,,roast beef
+647,2047,1.0,teaspoons,salt
+647,12155,1.0,cups,walnuts
+647,2050,1.0,teaspoons,vanilla
+647,2010,1.0,teaspoons,cinnamon
+647,18372,1.0,teaspoons,baking soda
+252484,2010,1.0,teaspoons,cinnamon
+252484,1179,1.0,cups,sour cream
+85492,11011,1.0,pounds,asparagus
+85492,1033,1.0,cups,parmesan cheese
+85492,4053,1.0,teaspoons,olive oil
+85492,2047,1.0,teaspoons,salt
+385053,11282,3.0,,green onions
+385053,43598,1.0,cups,mayonnaise
+385053,1179,1.0,cups,sour cream
+385053,11215,1.0,teaspoons,garlic
+385053,1009,1.0,cups,cheddar cheese
+385053,6169,,,tabasco sauce
+385053,1017,0.3333333333333333,,cream cheese
+385053,10123,1.0,pounds,bacon
+231868,19296,1.0,tablespoons,honey
+231868,19400,1.0,,banana
+231868,1295,1.0,cups,low-fat vanilla yogurt
+231868,12155,1.0,cups,walnuts
+271022,2047,1.0,tablespoons,salt
+271022,2031,1.0,tablespoons,cayenne pepper
+271022,4583,2.0,tablespoons,mustard
+271022,2020,1.0,tablespoons,garlic powder
+271022,2030,1.0,tablespoons,black pepper
+271022,19334,2.0,tablespoons,brown sugar
+271022,6168,2.0,tablespoons,hot sauce
+271022,6971,1.0,tablespoons,worcestershire sauce
+271022,2009,1.0,tablespoons,chili powder
+271022,6150,2.0,cups,barbecue sauce
+237028,2020,1.0,teaspoons,garlic powder
+237028,4581,1.0,,avocado
+237028,11156,1.0,cups,chives
+237028,18003,4.0,,bagels
+237028,1017,2.0,tablespoons,cream cheese
+237028,10123,12.0,,bacon
+237028,1009,4.0,,cheddar cheese
+302737,19334,3.0,cups,brown sugar
+302737,4706,1.0,cups,honey mustard
+302737,10123,1.0,pounds,bacon
+404868,11098,1.0,,brussels sprout
+404868,2047,,,salt
+16912,2047,1.0,teaspoons,salt
+16912,4556,1.0,cups,shortening
+16912,19334,1.0,cups,brown sugar
+16912,4073,0.25,,margarine
+16912,20481,2.0,cups,all-purpose flour
+41797,1033,2.0,tablespoons,parmesan cheese
+41797,43598,1.0,cups,mayonnaise
+41797,18060,1.0,,rye bread
+41797,1025,2.0,cups,colby-monterey jack cheese
+41797,11215,1.0,,garlic clove
+41797,10123,1.0,pounds,bacon
+193720,43598,1.0,cups,mayonnaise
+193720,11094,2.0,cups,frozen broccoli spears
+193720,2015,2.0,tablespoons,curry powder
+193720,19411,1.0,grams,potato chips
+193720,6043,10.0,ounces,cream of mushroom soup
+193720,5057,1.0,pounds,chicken breast
+193720,1009,1.0,cups,cheddar cheese
+256292,1017,12.0,ounces,cream cheese
+256292,19336,1.0,cups,powdered sugar
+256292,2050,1.0,teaspoons,vanilla extract
+222479,2020,1.0,tablespoons,garlic powder
+222479,11052,8.0,ounces,green beans
+222479,2047,1.0,teaspoons,salt
+222479,10123,8.0,,bacon
+244443,1040,1.0,,swiss cheese
+244443,18060,2.0,,rye bread
+244443,4073,2.0,tablespoons,margarine
+244443,1045,1.0,,american cheese
+145046,2030,1.0,tablespoons,fresh black pepper
+145046,5311,3.0,cups,chicken broth
+145046,4053,1.0,cups,olive oil
+145046,5171,16.0,pounds,whole turkey
+142970,1033,,grams,parmesan cheese
+142970,11011,2.0,,asparagus
+142970,1038,,grams,romano cheese
+142970,6626,3.0,tablespoons,pesto sauce
+142970,11215,,,garlic
+142970,4053,2.0,tablespoons,olive oil
+143954,9040,5.0,,bananas
+143954,1179,3.0,cups,sour cream
+143954,2050,2.0,teaspoons,vanilla
+143954,1145,1.0,cups,unsalted butter
+143954,9302,2.0,pints,fresh raspberries
+143954,18372,4.0,teaspoons,baking soda
+19729,6963,3.0,cups,broth
+19729,2029,2.0,tablespoons,dried parsley
+19729,2047,,,salt
+19729,11143,2.0,,celery
+19729,20036,2.0,cups,long-grain rice
+19729,11312,1.0,cups,frozen peas
+19729,11683,2.0,cups,carrot
+19729,16124,2.0,tablespoons,soy sauce
+14178,19097,1.0,gallons,sherbet
+14178,9354,64.0,ounces,pineapple juice
+14178,14136,2.0,liters,ginger ale
+481529,6971,1.0,cups,worcestershire sauce
+481529,2029,1.0,tablespoons,dried parsley flakes
+481529,4053,1.0,cups,olive oil
+481529,11215,2.0,,garlic cloves
+481529,16124,1.0,cups,soy sauce
+481529,6168,1.0,teaspoons,hot pepper sauce
+320575,11252,,,lettuce
+320575,15128,8.0,ounces,tuna
+320575,43598,,,mayonnaise
+320575,18069,2.0,,white bread
+137860,2003,1.0,teaspoons,dried basil
+137860,2047,,,salt
+137860,2036,1.0,teaspoons,dried rosemary
+137860,11215,1.0,teaspoons,garlic
+137860,4053,2.0,tablespoons,olive oil
+137860,27048,16.0,ounces,tomato sauce
+137860,2027,1.0,teaspoons,oregano
+309048,6164,1.0,cups,salsa
+309048,18363,10.0,,tortillas
+309048,11958,1.0,pounds,hamburger
+309048,2075,3.0,ounces,taco seasoning mix
+309048,27048,15.0,ounces,tomato sauce
+309048,1025,1.0,cups,colby-monterey jack cheese
+309048,2027,1.0,teaspoons,oregano
+309048,1015,16.0,ounces,cottage cheese
+264683,19296,2.0,tablespoons,honey
+264683,12142,1.0,cups,pecans
+264683,20038,2.0,cups,oats
+264683,19334,1.0,cups,brown sugar
+264683,2001,1.0,teaspoons,ground allspice
+264683,2010,1.0,teaspoons,cinnamon
+351259,9043,1.0,cups,blackberry
+351259,19400,2.0,,banana
+351259,9206,1.0,cups,fresh orange juice
+413252,19419,8.0,,corn
+413252,9160,1.0,,lime
+413252,2009,1.0,,chili
+413252,2030,,,salt & freshly ground black pepper
+413252,11215,1.0,teaspoons,garlic
+142305,2025,1.0,,nutmeg
+142305,5311,4.0,cups,chicken broth
+142305,11362,8.0,,potatoes
+142305,11246,3.0,,leeks
+142305,1049,1.0,cups,half-and-half
+142305,11215,3.0,,garlic cloves
+142305,10123,1.0,,bacon
+113860,43598,3.0,cups,mayonnaise
+113860,11252,8.0,,iceberg lettuce
+113860,18243,2.0,cups,seasoned croutons
+113860,2020,1.0,teaspoons,garlic powder
+113860,2030,1.0,teaspoons,black pepper
+113860,10123,1.0,pounds,bacon
+324048,2020,1.0,tablespoons,garlic powder
+324048,43598,1.0,cups,mayonnaise
+324048,11209,3.0,,eggplants
+292916,2028,1.0,teaspoons,hungarian paprika
+292916,2047,1.0,teaspoons,salt
+292916,11362,6.0,grams,potatoes
+292916,1179,1.0,cups,sour cream
+292916,1270,1.0,cups,sharp cheddar cheese
+292916,1015,2.0,cups,cottage cheese
+104844,2029,2.0,tablespoons,dried parsley
+104844,2003,1.0,teaspoons,dried basil
+104844,2047,2.0,tablespoons,salt
+104844,2028,3.0,tablespoons,paprika
+104844,2042,1.0,teaspoons,dried thyme
+104844,2020,2.0,teaspoons,garlic powder
+104844,11143,1.0,teaspoons,celery salt
+104844,2030,1.0,teaspoons,ground black pepper
+104844,2027,1.0,teaspoons,dried oregano
+104844,2026,2.0,teaspoons,onion powder
+456618,19334,1.0,cups,brown sugar
+456618,9206,1.0,cups,orange juice
+456618,9152,1.0,tablespoons,lemon juice
+456618,9040,4.0,,bananas
+76087,19334,1.0,tablespoons,brown sugar
+76087,9316,,,strawberries
+76087,12142,1.0,tablespoons,pecans
+76087,1006,1.0,,brie cheese
+37120,9152,1.0,tablespoons,lemon juice
+37120,2029,1.0,tablespoons,parsley
+37120,11960,1.0,pounds,baby carrots
+37120,2047,,,salt
+353290,2050,1.0,teaspoons,vanilla
+15849,2025,1.0,teaspoons,nutmeg
+15849,2047,1.0,teaspoons,salt
+15849,12142,1.0,cups,pecans
+15849,9021,4.75,ounces,baby apricots
+15849,9279,4.75,ounces,baby plums
+15849,18372,1.0,teaspoons,baking soda
+15849,2010,1.0,teaspoons,cinnamon
+75911,20630,1.0,teaspoons,unbleached flour
+75911,2047,,,salt
+75911,43312,,,vegetables
+75911,11413,1.0,grams,potato
+75911,4542,1.0,cups,chicken
+75911,1009,1.0,tablespoons,white cheddar cheese
+383047,19296,2.0,tablespoons,honey
+383047,9152,12.0,,fresh lemon juice
+143398,11291,2.0,,scallions
+143398,12061,1.0,cups,sliced almonds
+143398,19303,2.0,tablespoons,orange marmalade
+143398,11304,2.0,cups,baby green peas
+11164,11215,2.0,,garlic cloves
+11164,11953,8.0,,zucchini
+243092,2005,1.0,teaspoons,caraway seed
+243092,23185,2.0,pounds,beef back ribs
+243092,11439,16.0,ounces,sauerkraut
+243092,19335,1.0,teaspoons,granulated sugar
+317389,20330,20.0,ounces,yellow hominy
+317389,2047,1.0,teaspoons,salt
+317389,10123,1.0,pounds,bacon
+403149,1004,4.0,,cheese
+403149,18027,2.0,,bread
+403149,6626,1.0,teaspoons,pesto sauce
+403149,4053,,,olive oil
+403149,11265,1.0,,portabella mushroom
+403149,10123,4.0,,bacon
+129656,1179,1.0,cups,sour cream
+129656,10123,1.0,pounds,bacon
+129656,43598,1.0,cups,mayonnaise
+464792,19334,4.0,teaspoons,brown sugar
+464792,11124,4.0,,carrots
+464792,10123,2.0,,bacon
+123777,1004,1.0,cups,blue cheese
+123777,2030,,,salt & freshly ground black pepper
+123777,13047,1.0,pounds,ground beef
+123777,6971,2.0,tablespoons,worcestershire sauce
+123777,10123,4.0,,bacon
+102568,1040,4.0,ounces,swiss cheese
+102568,2047,,,salt
+102568,10123,7.0,,bacon
+102568,11297,,,fresh parsley
+460421,18027,1.0,,bread
+460421,43598,1.0,cups,mayonnaise
+460421,2046,2.0,tablespoons,prepared mustard
+460421,1009,2.0,cups,shredded cheddar cheese
+460421,10123,1.0,pounds,bacon
+475298,1251,1.0,tablespoons,four-cheese mexican blend cheese
+475298,10123,1.0,,bacon
+280184,1009,3.0,cups,cheddar cheese
+280184,4583,1.0,tablespoons,mustard
+280184,10123,4.0,,bacon
+285162,1017,3.0,tablespoons,chive & onion cream cheese
+285162,18364,10.0,,flour tortillas
+285162,10123,2.0,,bacon
+285162,6164,3.0,tablespoons,salsa
+214798,28387,6.0,,hamburger buns
+214798,6971,2.0,teaspoons,worcestershire sauce
+214798,1009,250.0,grams,cheddar cheese
+214798,10123,3.0,,bacon
+214798,2034,,,seasoning
+37010,18242,2.0,cups,croutons
+37010,2046,1.0,tablespoons,prepared mustard
+37010,4073,1.0,cups,margarine
+37010,11282,2.0,cups,onions
+37010,10123,10.0,,bacon
+37010,1009,2.0,cups,cheddar cheese
+116152,1004,1.0,ounces,cheese
+116152,2047,,,salt
+116152,10123,6.0,,bacon
+261714,10123,4.0,,bacon
+261714,1179,1.0,cups,sour cream
+261714,2047,1.0,teaspoons,salt
+261714,1009,1.0,cups,cheddar cheese
+115092,5311,4.0,cups,chicken broth
+115092,11362,3.0,cups,potatoes
+115092,6043,10.0,ounces,cream of mushroom soup
+115092,11240,2.0,cups,mushrooms
+115092,11282,2.0,,onions
+115092,10123,10.0,,bacon
+159899,18027,12.0,,bread
+159899,2047,1.0,teaspoons,salt
+159899,6121,1.0,pounds,mushroom
+159899,2030,1.0,teaspoons,black pepper
+159899,1017,4.0,ounces,cream cheese
+159899,10123,6.0,,bacon
+279371,10123,15.0,,bacon
+279371,1179,1.0,cups,sour cream
+279371,20409,12.0,ounces,egg noodles
+279371,1009,1.0,cups,cheddar cheese
+89213,4679,2.0,tablespoons,cooking oil
+89213,10123,1.0,pounds,bacon
+226259,4513,1.0,tablespoons,vegetable oil
+226259,11362,2.0,pounds,potatoes
+226259,2030,,,salt & freshly ground black pepper
+226259,11282,4.0,,onions
+226259,10123,9.0,ounces,bacon
+226259,1009,5.0,ounces,cheddar cheese
+225494,16399,1.0,cups,creamy peanut butter
+225494,10123,6.0,,bacon
+225494,18069,9.0,,white bread
+39642,10123,4.0,,bacon
+39642,11413,1.0,cups,potato
+39642,1009,1.0,cups,cheddar cheese
+136939,2032,,,white pepper
+136939,11362,6.0,,potatoes
+136939,7005,200.0,grams,sausage
+136939,10123,100.0,grams,bacon
+254325,1017,8.0,ounces,cream cheese
+254325,10123,12.0,,bacon
+254325,7059,1.0,pounds,pork sausage
+254325,18069,12.0,,white bread
+86640,1017,8.0,ounces,cream cheese
+86640,10123,6.0,,bacon
+86640,11215,,,garlic salt
+86640,43598,1.0,tablespoons,mayonnaise
+169146,11282,1.0,cups,green onions
+169146,18364,7.0,,flour tortillas
+169146,4513,1.0,tablespoons,vegetable oil
+169146,6164,,,salsa
+169146,4581,1.0,,avocado
+169146,1009,1.0,cups,cheddar cheese
+169146,10123,1.0,pounds,bacon
+423683,20131,2.0,cups,barley flour
+423683,2047,1.0,teaspoons,salt
+423683,10123,5.0,,bacon
+75496,43598,1.0,cups,mayonnaise
+75496,28327,8.0,ounces,biscuits
+75496,1009,2.0,cups,cheddar cheese
+75496,6168,5.0,,hot pepper sauce
+75496,11215,1.0,teaspoons,garlic salt
+75496,10123,8.0,,bacon
+1823,1004,2.0,ounces,cheese
+1823,2047,1.0,,salt
+1823,1009,2.0,ounces,cheddar cheese
+1823,1125,1.0,,egg yolk
+1823,10123,2.0,,bacon
+135634,4609,1.0,teaspoons,bacon grease
+135634,10123,454.0,grams,bacon
+486438,2047,1.0,teaspoons,salt
+486438,1004,3.0,,blue cheese
+486438,2048,1.0,tablespoons,vinegar
+486438,11355,2.0,pounds,red potatoes
+486438,16252,3.0,cups,plain yogurt
+486438,11282,4.0,,onions
+486438,10123,5.0,,bacon
+276978,1009,2.0,cups,cheddar cheese
+276978,18027,1.0,,bread
+276978,10123,1.0,pounds,bacon
+276978,4073,1.0,cups,margarine
+363536,2047,,,salt
+363536,2048,3.0,tablespoons,apple cider vinegar
+363536,11098,1.0,,brussels sprout
+363536,10123,3.0,,bacon
+279957,2047,3.0,teaspoons,salt
+279957,11109,1.0,,cabbage
+279957,2020,1.0,teaspoons,garlic powder
+279957,2024,1.0,teaspoons,ground mustard
+279957,10123,6.0,,bacon
+194420,1033,1.0,cups,parmesan cheese
+194420,11282,4.0,,green onions
+194420,11297,,,fresh parsley
+194420,2030,,,black pepper
+194420,11240,125.0,grams,mushrooms
+194420,14106,0.5,cups,white wine
+194420,11492,500.0,grams,spaghetti
+194420,4053,2.0,tablespoons,olive oil
+194420,1179,300.0,milliliters,light cream
+194420,11215,2.0,,garlic cloves
+194420,10123,3.0,,bacon
+121308,2047,1.0,,salt
+121308,43598,1.0,cups,mayonnaise
+121308,12061,1.0,cups,slivered almonds
+121308,18029,1.0,,french bread
+121308,6971,2.0,teaspoons,worcestershire sauce
+121308,10123,6.0,,bacon
+121308,1009,1.0,cups,cheddar cheese
+109944,43598,1.0,cups,mayonnaise
+109944,11362,2.0,cups,potatoes
+109944,2020,1.0,teaspoons,garlic powder
+109944,11156,4.0,teaspoons,chives
+109944,1009,1.0,cups,cheddar cheese
+109944,10123,3.0,,bacon
+475858,2047,1.0,teaspoons,salt
+475858,1270,3.0,cups,sharp cheddar cheese
+475858,11291,2.0,,scallions
+475858,10123,4.0,,bacon
+475858,20481,1.0,cups,all-purpose flour
+71863,10123,10.0,,bacon
+71863,4025,1.0,cups,salad dressing
+71863,1009,2.0,cups,cheddar cheese
+149124,28387,6.0,,hamburger buns
+149124,2047,1.0,teaspoons,salt
+149124,2020,1.0,teaspoons,garlic powder
+149124,13047,2.0,pounds,ground beef
+149124,10123,9.0,,bacon
+149124,1009,8.0,ounces,cheddar cheese
+43412,18027,10.0,,bread
+43412,43598,4.0,tablespoons,mayonnaise
+43412,11143,1.0,teaspoons,celery salt
+43412,1040,1.0,cups,swiss cheese
+43412,10123,8.0,,bacon
+125263,2047,1.0,teaspoons,salt
+125263,6971,1.0,tablespoons,worcestershire sauce
+125263,11156,1.0,cups,chives
+125263,20089,3.0,cups,cooked rice
+125263,10123,3.0,,bacon
+21610,2048,1.0,teaspoons,cider vinegar
+21610,43598,3.0,cups,mayonnaise
+21610,11109,4.0,cups,cabbage
+21610,11112,1.0,cups,red cabbage
+21610,10123,4.0,,bacon
+21610,16091,1.0,cups,peanuts
+436914,2047,1.0,teaspoons,salt
+436914,19334,3.0,cups,brown sugar
+436914,19911,4.0,teaspoons,maple syrup
+436914,18372,1.0,teaspoons,baking soda
+436914,10123,1.0,pounds,bacon
+138406,1033,1.0,cups,parmesan cheese
+138406,10123,1.0,pounds,bacon
+138406,18223,24.0,,crackers
+206978,11282,2.0,tablespoons,green onions
+206978,9299,1.0,cups,raisins
+206978,43598,1.0,cups,mayonnaise
+206978,11109,3.0,cups,cabbage
+206978,2015,1.0,teaspoons,curry powder
+206978,2048,1.0,tablespoons,vinegar
+206978,10123,4.0,,bacon
+206978,16091,1.0,cups,peanuts
+221422,1017,8.0,ounces,cream cheese
+221422,11297,1.0,tablespoons,fresh parsley
+221422,2027,1.0,teaspoons,dried oregano
+221422,1019,1.0,cups,feta cheese
+221422,10123,5.0,,bacon
+221422,20481,1.0,cups,all-purpose flour
+52190,11282,6.0,,green onions
+52190,2020,1.0,,garlic powder
+52190,16124,2.0,tablespoons,soy sauce
+52190,20089,4.0,cups,cooked rice
+52190,10123,2.0,,bacon
+301964,2047,1.0,teaspoons,salt
+301964,2028,1.0,teaspoons,paprika
+301964,2020,1.0,teaspoons,garlic powder
+301964,31021,4.0,cups,hash brown potatoes
+301964,10123,12.0,,bacon
+184935,10130,6.0,,canadian bacon
+184935,18364,6.0,,flour tortillas
+184935,6164,1.0,cups,salsa
+184935,1025,1.0,cups,monterey jack pepper cheese
+184935,11390,2.0,cups,frozen hash brown potatoes
+184935,4053,1.0,tablespoons,olive oil
+4395,1179,1.0,cups,sour cream
+4395,43212,1.0,cups,bacon bits
+4395,2055,1.0,cups,prepared horseradish
+4395,43598,1.0,cups,mayonnaise
+403891,2029,1.0,tablespoons,dried parsley
+403891,43598,1.0,cups,mayonnaise
+403891,1179,1.0,cups,sour cream
+403891,2055,1.0,cups,prepared horseradish
+403891,10123,4.0,,bacon
+392356,10123,,,bacon
+392356,2030,1.0,,black pepper
+468194,1004,4.0,,cheese
+468194,2047,1.0,teaspoons,salt
+468194,10123,2.0,,bacon
+61155,1017,1.0,cups,cream cheese
+61155,11252,1.0,cups,lettuce
+61155,18364,6.0,,flour tortillas
+61155,10123,8.0,,bacon
+135519,11282,2.0,tablespoons,green onions
+135519,4513,2.0,teaspoons,vegetable oil
+135519,11362,6.0,grams,potatoes
+135519,1179,1.0,cups,sour cream
+135519,2009,1.0,teaspoons,chili powder
+135519,10123,2.0,cups,bacon
+135519,1009,4.0,ounces,cheddar cheese
+89048,1020,1.0,,fontina cheese
+89048,2030,,,salt & freshly ground black pepper
+89048,1049,3.0,tablespoons,half-and-half
+89048,2063,1.0,teaspoons,fresh rosemary
+89048,4053,1.0,tablespoons,olive oil
+89048,7974,4.0,,turkey bacon
+148881,11297,2.0,tablespoons,fresh parsley
+148881,1179,12.0,ounces,sour cream
+148881,1040,8.0,ounces,swiss cheese
+148881,18946,1.0,,pie crust
+148881,21005,1.0,pounds,breakfast sausage
+148881,10123,1.0,pounds,bacon
+432837,1025,1.0,cups,monterey jack cheese
+432837,18033,1.0,,italian bread
+432837,10123,4.0,,bacon
+431932,19334,,,brown sugar
+431932,10123,8.0,,bacon
+431932,6962,,,hot chili sauce
+285509,11007,12.0,quarts,marinated artichokes
+285509,10123,1.0,pounds,bacon
+94739,12063,24.0,,unsalted almonds
+94739,9421,24.0,grams,dates
+94739,10123,24.0,,bacon
+94739,1156,4.0,ounces,goat cheese
+225805,9421,24.0,,dates
+225805,12142,24.0,,whole pecans
+225805,10123,8.0,,bacon
+441514,9421,16.0,,dates
+441514,1019,2.0,ounces,feta cheese
+441514,10123,8.0,,bacon
+116610,11297,1.0,tablespoons,fresh parsley
+116610,11011,1.0,pounds,fresh asparagus
+116610,11215,4.0,,garlic
+116610,4053,1.0,cups,olive oil
+116610,2030,,,salt and black pepper
+116610,10123,1.0,pounds,bacon
+308221,4582,1.0,tablespoons,canola oil
+308221,9272,14.0,ounces,pineapple chunks
+308221,10123,0.5,,bacon
+308221,15152,12.0,grams,shrimp
+66899,10218,2.0,pounds,pork tenderloin
+66899,2047,,,salt
+66899,10123,1.0,pounds,bacon
+66899,2034,,,seasoning
+451277,2049,1.0,teaspoons,thyme
+451277,2036,1.0,teaspoons,rosemary
+451277,10218,1.0,pounds,pork tenderloin
+451277,2069,1.0,cups,balsamic vinegar
+451277,19911,2.0,tablespoons,maple syrup
+451277,11215,1.0,,garlic clove
+451277,10123,5.0,,bacon
+513221,11215,1.0,,garlic
+513221,2063,4.0,,fresh rosemary
+513221,4053,2.0,tablespoons,olive oil
+513221,2068,1.0,cups,red wine
+513221,23441,1.0,,beef tenderloin
+513221,10123,1.0,pounds,bacon
+161428,2047,1.0,teaspoons,salt
+161428,2048,1.0,tablespoons,vinegar
+161428,6168,3.0,,hot sauce
+161428,11253,,,lettuce leaf
+161428,10123,6.0,,bacon
+161428,9039,2.0,,avocados
+113789,1004,2.0,,cheese
+113789,18027,1.0,,bread
+113789,19400,1.0,,banana
+113789,10123,2.0,,bacon
+317713,20409,6.0,ounces,egg noodles
+317713,2047,,,salt
+317713,10123,2.0,pounds,bacon
+317713,11109,1.0,,cabbage
+502632,1004,1.0,,cheese
+502632,43598,1.0,tablespoons,mayonnaise
+502632,10123,4.0,,bacon
+502632,18069,2.0,,white bread
+39467,2003,1.0,teaspoons,dried basil
+39467,4053,3.0,tablespoons,olive oil
+39467,11282,6.0,,red onions
+39467,18042,6.0,,whole wheat pita bread
+39467,10123,10.0,,bacon
+39467,1009,1.0,cups,cheddar cheese
+485363,28387,4.0,,hamburger buns
+485363,2030,,,salt & freshly ground black pepper
+485363,13047,1.0,pounds,ground beef
+485363,6168,1.0,teaspoons,hot sauce
+485363,11215,1.0,,garlic clove
+485363,11252,,,lettuce
+314083,2029,2.0,tablespoons,parsley
+314083,18027,4.0,,bread
+314083,11282,2.0,tablespoons,green onions
+314083,4581,1.0,,avocado
+314083,1017,2.0,tablespoons,cream cheese
+314083,10123,4.0,,bacon
+237394,1009,1.0,cups,cheddar cheese
+237394,10130,6.0,,canadian bacon
+237394,2047,,,salt
+237394,28327,6.0,,biscuits
+289582,19056,1.0,,tortilla
+289582,10123,1.0,tablespoons,bacon
+289582,1009,1.0,cups,cheddar cheese
+289582,6603,,,picante sauce
+470629,18027,2.0,,bread
+470629,10123,2.0,,bacon
+470629,2047,,,salt
+470629,4073,1.5,tablespoons,margarine
+44741,11215,2.0,,garlic
+44741,11312,10.0,ounces,frozen peas
+44741,10123,7.0,,bacon
+44741,11297,,,fresh parsley
+321119,10123,1.0,pounds,bacon
+321119,18044,6.0,,pumpernickel bread
+321119,2055,4.0,teaspoons,prepared horseradish
+321119,1186,1.0,cups,fat free cream cheese
+218711,11233,150.0,,kale
+218711,4053,2.0,tablespoons,olive oil
+218711,10123,400.0,grams,bacon
+218711,11246,2.0,,leeks
+175067,4639,1.0,cups,ranch salad dressing
+175067,18236,,,cracker
+175067,11143,1.0,cups,celery
+175067,11253,,,lettuce leaf
+175067,11282,2.0,tablespoons,onions
+175067,1017,8.0,ounces,cream cheese
+175067,10123,6.0,,bacon
+97612,1033,1.0,cups,parmesan cheese
+97612,10123,1.0,,bacon
+97612,4053,1.0,tablespoons,olive oil
+97612,2044,1.0,cups,fresh basil
+365951,2030,1.0,teaspoons,black pepper
+365951,11240,24.0,,mushrooms
+365951,11215,1.0,teaspoons,garlic
+365951,43274,8.0,ounces,low-fat cream cheese
+365951,10123,1.0,pounds,bacon
+331874,1004,1.0,cups,cheese
+331874,2047,1.0,teaspoons,salt
+331874,11090,1.0,,broccoli
+331874,11362,2.0,cups,potatoes
+331874,10123,5.0,,bacon
+100964,1004,3.0,,cheese
+100964,18027,1.0,,bread
+100964,10123,,,bacon
+423738,2005,1.0,,caraway seed
+423738,10123,3.0,,bacon
+423738,1007,3.0,,camembert cheese
+509739,1017,8.0,,philadelphia cream cheese
+509739,18236,,,cracker
+509739,11090,1.0,cups,broccoli floret
+509739,10123,6.0,,bacon
+509739,1009,1.0,cups,cheddar cheese
+77709,11282,2.0,,green onions
+77709,18236,,,cracker
+77709,1178,16.0,ounces,reduced-fat sour cream
+77709,1009,2.0,,reduced-fat sharp cheddar cheese
+77709,10123,1.0,cups,bacon
+41018,28069,1.0,,club crackers
+41018,10123,1.0,pounds,bacon
+20133,11238,2.0,,fresh shiitake mushrooms
+20133,11677,1.0,,shallot
+20133,1145,1.0,tablespoons,unsalted butter
+20133,10123,2.0,,bacon
+500133,11090,12.0,ounces,broccoli florets
+500133,2047,1.0,teaspoons,salt
+500133,10123,2.0,,bacon
+500133,2030,1.0,teaspoons,fresh ground black pepper
+151527,18003,2.0,,bagels
+151527,4639,,,ranch salad dressing
+151527,1161,1.0,cups,mozzarella cheese
+151527,10123,2.0,,bacon
+357327,18042,8.0,,whole wheat bread
+357327,1179,4.0,tablespoons,sour cream
+357327,1161,4.0,,mozzarella cheese
+357327,11282,4.0,tablespoons,onions
+357327,2027,1.0,teaspoons,dried oregano
+357327,10123,8.0,,bacon
+357327,1009,4.0,,cheddar cheese
+327888,2026,1.0,teaspoons,onion powder
+327888,10123,1.0,pounds,bacon
+327888,11215,1.0,teaspoons,garlic salt
+327888,11100,16.0,ounces,frozen brussels sprouts
+225329,11011,1.0,pounds,fresh asparagus
+225329,10123,8.0,,bacon
+486479,1004,1.0,cups,cheese
+486479,35049,1.0,cups,meat
+486479,10123,12.0,,bacon
+486479,43312,1.0,cups,vegetables
+105670,1009,2.0,cups,shredded cheddar cheese
+105670,1017,14.0,ounces,cream cheese
+105670,10123,16.0,ounces,bacon
+105670,11979,25.0,,fresh jalapeno peppers
+238380,10218,1.0,pounds,pork tenderloin
+238380,10123,1.0,,bacon
+83154,18223,10.0,ounces,crackers
+83154,18044,,,pumpernickel bread
+83154,10123,8.0,,bacon
+111362,2025,1.0,teaspoons,nutmeg
+111362,2029,1.0,tablespoons,parsley
+111362,2047,1.0,teaspoons,salt
+111362,11362,750.0,grams,potatoes
+111362,4002,50.0,grams,lard
+257521,18003,1.0,,bagels
+257521,2004,1.0,teaspoons,spices
+257521,4053,2.0,tablespoons,olive oil
+257521,2047,,,salt
+143209,2009,,,chili powder
+143209,18003,4.0,,bagels
+143209,2047,,,salt
+179298,6152,14.0,ounces,pizza sauce
+179298,1033,1.0,cups,parmesan cheese
+179298,2047,1.0,teaspoons,salt
+179298,11297,1.0,cups,fresh parsley
+179298,7033,6.0,ounces,cheese spread
+179298,13047,2.0,pounds,ground beef
+179298,18003,24.0,,bagels
+179298,11215,1.0,teaspoons,garlic salt
+39175,43598,2.0,tablespoons,mayonnaise
+39175,15128,7.0,ounces,tuna
+39175,11821,2.0,tablespoons,red peppers
+39175,1040,4.0,,swiss cheese
+39175,6971,1.0,teaspoons,worcestershire sauce
+39175,11282,2.0,tablespoons,red onions
+39175,18003,2.0,,bagels
+346324,15077,3.0,ounces,smoked salmon
+346324,11156,1.0,cups,fresh chives
+346324,1040,2.0,cups,swiss cheese
+346324,18003,4.0,,bagels
+346324,1015,1.0,cups,cottage cheese
+403157,2047,1.0,teaspoons,salt
+403157,1124,1.0,,egg white
+403157,4513,2.0,tablespoons,vegetable oil
+403157,20061,3.0,cups,white flour
+403157,18375,1.0,tablespoons,active dry yeast
+55220,9152,1.0,teaspoons,lemon juice
+55220,6600,1.0,teaspoons,taco sauce
+55220,18042,2.0,,whole wheat bread
+55220,2047,1.0,,salt
+55220,4581,1.0,,avocado
+55220,43274,2.0,tablespoons,low-fat cream cheese
+8562,19334,1.0,tablespoons,brown sugar
+8562,11482,1.0,,acorn squash
+262654,2025,,,nutmeg
+262654,4582,,,canola oil
+262654,9299,,,raisins
+262654,11482,2.0,,acorn squash
+262654,2010,,,cinnamon
+284008,19296,4.0,teaspoons,honey
+284008,2010,4.0,teaspoons,ground cinnamon
+284008,12155,1.0,cups,walnuts
+15017,18027,12.0,,bread
+15017,2050,2.0,teaspoons,vanilla
+15017,19334,1.0,cups,brown sugar
+15017,9502,3.0,grams,granny smith apples
+15017,1017,8.0,ounces,cream cheese
+15017,2010,1.0,teaspoons,cinnamon
+7494,2025,1.0,teaspoons,nutmeg
+7494,9299,1.0,cups,raisins
+7494,19334,1.0,cups,brown sugar
+7494,19911,1.0,cups,maple syrup
+7494,2010,2.0,teaspoons,cinnamon
+304159,2010,2.0,tablespoons,cinnamon
+304159,9502,4.0,grams,granny smith apples
+304159,18337,4.0,,puff pastry
+109722,19335,1.0,cups,granulated sugar
+109722,9500,2.0,,red delicious apples
+109722,2010,2.0,tablespoons,ground cinnamon
+109722,19334,1.0,cups,brown sugar
+109722,14157,6.0,ounces,root beer
+375314,9156,1.0,,lemon
+375314,9095,5.0,,dried figs
+375314,2010,1.0,teaspoons,ground cinnamon
+375314,19334,2.0,tablespoons,brown sugar
+375314,35233,20.0,,hazelnuts
+135544,12061,2.0,tablespoons,slivered almonds
+135544,19719,1.0,cups,apricot preserves
+135544,1006,8.0,ounces,brie cheese
+277445,19334,3.0,cups,brown sugar
+277445,9021,15.0,ounces,apricots
+277445,18621,50.0,,ritz crackers
+277445,2010,,,cinnamon
+172102,19296,4.0,tablespoons,honey
+172102,12061,4.0,tablespoons,slivered almonds
+172102,9021,4.0,,apricots
+172102,19095,,,vanilla ice cream
+172102,2021,1.0,,ground ginger
+129785,2047,1.0,teaspoons,salt
+129785,18228,6.0,,saltine crackers
+129785,6971,2.0,teaspoons,worcestershire sauce
+129785,4053,1.0,tablespoons,olive oil
+129785,11282,2.0,,onions
+129785,1009,2.0,cups,cheddar cheese
+129785,2032,1.0,teaspoons,white pepper
+129785,6169,12.0,,tabasco sauce
+129785,11007,6.0,ounces,marinated artichokes
+129785,10123,6.0,,bacon
+187790,10123,18.0,pounds,bacon
+173405,19078,100.0,grams,unsweetened chocolate squares
+173405,1238,4.0,,ice cream
+173405,9040,4.0,,bananas
+173405,12155,2.0,tablespoons,walnuts
+231910,19296,2.0,teaspoons,honey
+231910,2010,,,cinnamon
+231910,19400,1.0,,banana
+220592,19334,2.0,tablespoons,brown sugar
+220592,9206,1.0,cups,orange juice
+220592,9216,2.0,teaspoons,orange peel
+220592,9040,2.0,,firm bananas
+115754,28295,10.0,,whole wheat tortillas
+115754,12023,2.0,teaspoons,sesame seeds
+115754,2020,1.0,teaspoons,garlic powder
+115754,4053,2.0,teaspoons,olive oil
+115754,6150,1.0,cups,barbecue sauce
+513817,20005,1.0,cups,pearl barley
+513817,2049,1.0,teaspoons,thyme
+513817,11955,8.0,,sun-dried tomatoes
+513817,2047,1.0,teaspoons,salt
+513817,2030,1.0,teaspoons,fresh ground black pepper
+513817,11677,2.0,,shallots
+513817,6615,1.0,cups,vegetable broth
+513817,11124,2.0,,carrots
+513817,4053,2.0,teaspoons,olive oil
+513817,11265,2.0,,portabella mushrooms
+513817,1028,3.0,cups,part-skim mozzarella cheese
+471046,18021,2.0,,brown bread
+471046,16005,1.0,cups,baked beans
+147790,16009,16.0,ounces,pork & beans
+147790,11945,3.0,tablespoons,sweet relish
+147790,19334,1.0,cups,brown sugar
+147790,2055,2.0,tablespoons,prepared horseradish
+147790,10123,8.0,,bacon
+147790,6150,1.0,cups,barbecue sauce
+263683,18337,,,puff pastry
+263683,7059,0.5,pounds,pork sausage
+263683,16005,8.0,ounces,baked beans
+26931,2048,2.0,tablespoons,cider vinegar
+26931,16005,21.0,ounces,baked beans
+26931,2046,1.0,tablespoons,prepared mustard
+26931,6971,1.0,tablespoons,worcestershire sauce
+26931,19719,1.0,cups,apricot preserves
+293117,22899,9.0,ounces,cheese ravioli
+293117,1161,1.0,cups,mozzarella cheese
+293117,11457,9.0,ounces,frozen spinach
+293117,13047,1.0,pounds,ground beef
+293117,6931,14.0,ounces,spaghetti sauce
+122613,11080,0.5,,beets
+70909,19334,2.0,cups,brown sugar
+70909,1179,2.0,cups,sour cream
+70909,2050,2.0,tablespoons,vanilla
+70909,9050,4.0,cups,blueberries
+418968,18029,1.0,,french bread
+418968,1179,1.0,cups,sour cream
+418968,2050,1.0,teaspoons,vanilla extract
+418968,2010,1.0,teaspoons,ground cinnamon
+418968,16252,1.0,cups,plain yogurt
+418968,1031,12.0,ounces,neufchatel cheese
+418968,9050,1.0,cups,blueberries
+418968,19911,1.0,cups,maple syrup
+43756,1017,3.0,ounces,cream cheese
+43756,1006,8.0,ounces,brie cheese
+177503,12061,1.0,cups,sliced almonds
+177503,18337,17.5,ounces,frozen puff pastry
+177503,1006,8.0,ounces,brie cheese
+18148,19334,2.0,tablespoons,brown sugar
+18148,1179,1.0,cups,sour cream
+18148,12142,2.0,tablespoons,pecans
+18148,1006,8.0,ounces,brie cheese
+276220,19334,2.0,teaspoons,brown sugar
+276220,9413,1.0,,red pears
+276220,12142,1.0,tablespoons,pecans
+276220,1006,8.0,ounces,brie cheese
+201622,11956,1.0,tablespoons,sun-dried tomato packed in oil
+201622,1006,8.0,ounces,brie cheese
+201622,12147,1.0,tablespoons,pine nuts
+201622,11297,1.0,tablespoons,fresh parsley
+61874,9152,1.0,teaspoons,lemon juice
+61874,2047,1.0,teaspoons,salt
+61874,5732,1.0,ounces,turkey breast
+61874,1049,1.0,cups,half-and-half
+61874,11090,8.0,ounces,broccoli stems
+61874,1009,1.0,cups,cheddar cheese
+61874,20481,2.0,tablespoons,all-purpose flour
+180875,5311,2.0,cups,chicken broth
+180875,9299,1.0,cups,raisins
+180875,2015,1.0,teaspoons,curry powder
+180875,12061,1.0,cups,slivered almonds
+180875,2011,1.0,,ground cloves
+180875,20452,1.0,cups,short-grain rice
+180875,2010,1.0,teaspoons,cinnamon
+373481,9152,1.0,tablespoons,lemon juice
+373481,19334,1.0,cups,brown sugar
+373481,2001,1.0,teaspoons,ground allspice
+373481,9040,4.0,,bananas
+90483,19334,1.0,cups,brown sugar
+90483,11482,2.0,,acorn squash
+90483,2010,1.0,teaspoons,ground cinnamon
+262343,2049,,,thyme
+262343,2038,,,sage
+262343,4053,1.0,tablespoons,olive oil
+262343,9079,1.0,cups,dried cranberries
+262343,2010,1.0,,cinnamon
+262343,43382,1.0,cups,cranberry juice
+262343,11485,1.0,,butternut squash
+11915,6043,10.25,ounces,cream of mushroom soup
+11915,2047,,,salt
+11915,11109,1.0,,cabbage
+371586,2047,1.0,teaspoons,salt
+371586,19034,1.0,,popped popcorn
+371586,2050,1.0,teaspoons,vanilla
+371586,19334,2.0,cups,brown sugar
+371586,19350,1.0,cups,light corn syrup
+371586,18372,1.0,teaspoons,baking soda
+64585,19334,1.0,cups,brown sugar
+64585,19911,2.0,tablespoons,maple syrup
+64585,2050,1.0,teaspoons,vanilla
+64585,2047,1.0,teaspoons,salt
+149599,5311,4.0,cups,chicken broth
+149599,27066,1.0,cups,horseradish sauce
+149599,11960,2.0,pounds,baby carrots
+149599,19411,1.0,cups,potato chips
+388065,2047,,,salt
+388065,2030,,,fresh ground black pepper
+388065,2049,1.0,,fresh thyme leave
+388065,11960,1.0,pounds,baby carrots
+388065,2014,1.0,teaspoons,cumin seed
+388065,14160,5.0,ounces,chardonnay wine
+459115,11135,1.0,,cauliflower
+459115,1033,2.0,tablespoons,parmesan cheese
+459115,2047,,,salt
+479742,5311,2.0,cups,chicken broth
+479742,2047,1.0,teaspoons,salt
+479742,2042,1.0,teaspoons,dried thyme
+479742,11297,2.0,tablespoons,fresh parsley
+479742,11143,1.0,,celery
+479742,1145,4.0,tablespoons,unsalted butter
+479742,2030,1.0,teaspoons,black pepper
+479742,2023,1.0,teaspoons,dried marjoram
+479742,11282,2.0,,onions
+479742,20027,1.0,tablespoons,cornstarch
+119632,18236,,,cracker
+119632,43598,2.0,tablespoons,mayonnaise
+119632,1179,2.0,cups,sour cream
+119632,1017,8.0,ounces,cream cheese
+119632,10123,1.0,pounds,bacon
+119632,1009,4.0,cups,cheddar cheese
+380745,2047,1.0,teaspoons,salt
+380745,11362,3.0,cups,potatoes
+380745,1179,1.0,cups,sour cream
+380745,2030,1.0,teaspoons,black pepper
+380745,1009,10.75,ounces,condensed cheddar cheese soup
+115383,1020,0.5,,fontina cheese
+115383,1033,1.0,cups,parmesan cheese
+115383,2047,1.0,teaspoons,salt
+115383,2030,1.0,teaspoons,fresh ground black pepper
+115383,1077,1.0,cups,whole milk
+115383,6931,1.0,,marinara sauce
+115383,1145,2.0,tablespoons,unsalted butter
+115383,1161,0.5,,mozzarella cheese
+115383,2044,1.0,cups,fresh basil leaf
+27271,1033,1.0,cups,parmesan cheese
+27271,28384,1.0,,sourdough bread
+27271,43598,1.0,cups,mayonnaise
+27271,1025,1.0,cups,monterey jack cheese
+27271,11215,1.0,,garlic
+27271,11007,1.0,,artichoke
+27271,1009,1.0,cups,cheddar cheese
+392612,6094,1.25,ounces,dry onion soup mix
+392612,6043,10.5,ounces,cream of mushroom soup
+392612,4542,4.0,,chicken
+392612,4073,1.0,cups,margarine
+393579,2047,1.0,teaspoons,salt
+393579,2028,1.0,tablespoons,paprika
+393579,32020,6.0,,chicken thighs
+393579,2020,1.0,teaspoons,garlic powder
+393579,11355,1.0,pounds,red potatoes
+393579,4053,2.0,tablespoons,olive oil
+393579,2036,1.0,teaspoons,rosemary
+199636,16124,4.0,teaspoons,soy sauce
+199636,2020,,,garlic powder
+199636,32020,8.0,,chicken thighs
+446975,2025,1.0,,nutmeg
+446975,9152,2.0,teaspoons,lemon juice
+446975,2047,1.0,,salt
+446975,19334,1.0,cups,brown sugar
+446975,9502,10.0,grams,granny smith apples
+446975,2010,2.0,teaspoons,cinnamon
+326385,19334,4.0,tablespoons,brown sugar
+326385,2010,1.0,teaspoons,cinnamon
+326385,9299,4.0,tablespoons,raisins
+155956,4679,,,cooking spray
+155956,18027,6.0,,bread
+155956,19018,,,fruit
+155956,2050,1.0,teaspoons,vanilla extract
+155956,2010,1.0,teaspoons,ground cinnamon
+155956,19911,1.0,cups,maple syrup
+102048,18029,1.0,,french bread
+102048,2050,1.0,teaspoons,vanilla
+355510,2025,1.0,,nutmeg
+355510,9299,3.0,ounces,raisins
+355510,9156,1.0,,lemon
+355510,9252,2.0,,pears
+355510,9202,1.0,,oranges
+355510,2010,1.0,,cinnamon
+382940,9152,1.0,tablespoons,lemon juice
+382940,9206,1.0,cups,orange juice
+382940,6963,1.0,pounds,fish
+382940,2047,,,salt
+382940,9160,2.0,tablespoons,lime juice
+492503,2047,1.0,teaspoons,salt
+492503,1093,1.0,cups,nonfat milk
+492503,19419,1.0,quarts,corn
+492503,2030,1.0,teaspoons,black pepper
+197091,18027,0.5,,bread
+197091,22973,2.0,cups,frozen corn
+197091,4556,2.0,tablespoons,shortening
+197091,2047,1.0,teaspoons,salt
+102759,19419,12.0,ounces,corn
+102759,1017,4.0,ounces,cream cheese with chives
+102759,2047,1.0,teaspoons,salt
+102759,2030,,,fresh ground black pepper
+194303,9078,2.0,cups,cranberries
+296874,9526,15.0,ounces,jellied cranberry sauce
+296874,6094,1.0,ounces,dry onion soup mix
+296874,32020,6.0,,chicken thighs
+296874,4133,1.0,cups,french dressing
+166482,9152,2.0,tablespoons,fresh lemon juice
+166482,19303,1.0,cups,orange marmalade
+166482,12155,1.0,cups,walnuts
+166482,19334,1.0,cups,brown sugar
+166482,9078,12.0,ounces,fresh cranberries
+47096,9152,2.0,tablespoons,lemon juice
+47096,19303,1.0,cups,orange marmalade
+47096,9078,4.0,cups,fresh cranberries
+47096,12155,1.0,cups,walnuts
+338504,9152,3.0,tablespoons,fresh lemon juice
+338504,19303,13.0,ounces,orange marmalade
+338504,12155,1.0,,walnuts
+338504,2010,1.0,teaspoons,ground cinnamon
+338504,9078,4.0,cups,fresh cranberries
+118103,11457,300.0,,frozen spinach
+118103,11215,4.0,,garlic cloves
+118103,6169,1.0,teaspoons,tabasco sauce
+118103,1017,250.0,,cream cheese
+118103,1009,1.0,cups,cheddar cheese
+40114,11362,4.0,cups,potatoes
+40114,1033,1.0,cups,parmesan cheese
+40114,2047,1.0,teaspoons,salt
+40114,2030,1.0,teaspoons,black pepper
+41005,2015,1.0,teaspoons,curry powder
+41005,9206,3.0,tablespoons,frozen orange juice concentrate
+41005,9160,1.0,tablespoons,fresh lime juice
+41005,16162,16.0,ounces,firm tofu
+31013,2025,1.0,,nutmeg
+31013,2050,1.0,teaspoons,vanilla
+31013,2047,1.0,teaspoons,salt
+95611,11278,0.5,,okra
+95611,35131,1.0,cups,cornmeal
+95611,2047,1.0,teaspoons,salt
+95611,2030,1.0,teaspoons,black pepper
+199528,2048,2.0,teaspoons,cider vinegar
+199528,2047,1.0,teaspoons,salt
+199528,9421,48.0,,dates
+199528,1270,3.0,cups,sharp cheddar cheese
+199528,2063,1.0,tablespoons,fresh rosemary leaf
+199528,2031,1.0,teaspoons,cayenne
+269983,2025,1.0,teaspoons,nutmeg
+269983,2050,1.0,teaspoons,vanilla
+269983,2047,1.0,teaspoons,salt
+344793,2025,1.0,teaspoons,nutmeg
+344793,1077,1.0,cups,whole milk
+344793,1023,6.0,ounces,gruyere cheese
+344793,11156,1.0,cups,chives
+344793,1017,4.0,ounces,cream cheese
+476758,18027,6.0,,bread
+476758,2030,,,salt and black pepper
+476758,1053,6.0,tablespoons,heavy cream
+476758,19911,1.0,tablespoons,maple syrup
+476758,10123,6.0,,bacon
+476758,1009,6.0,tablespoons,cheddar cheese
+150765,2047,1.0,teaspoons,salt
+150765,10123,12.0,,bacon
+306862,2047,,,salt
+306862,2030,,,black pepper
+435687,18264,2.0,,english muffins
+435687,1053,4.0,tablespoons,heavy whipping cream
+435687,11457,5.0,ounces,baby spinach
+435687,10123,6.0,,bacon
+482455,11282,2.0,,green onions
+482455,2047,1.0,teaspoons,salt
+482455,18042,4.0,,whole wheat bread
+482455,11156,1.0,cups,chives
+482455,1019,1.0,cups,feta cheese
+270471,2030,,,salt & freshly ground black pepper
+270471,4053,4.0,tablespoons,olive oil
+270471,2044,2.0,tablespoons,fresh basil
+18861,9152,1.0,tablespoons,fresh lemon juice
+18861,2029,1.0,cups,parsley
+18861,4513,2.0,tablespoons,vegetable oil
+18861,12023,1.0,cups,sesame seeds
+18861,2020,1.0,teaspoons,garlic powder
+18861,2030,1.0,teaspoons,black pepper
+18861,16056,3.0,cups,chickpeas
+18861,4038,1.0,cups,wheat germ
+18861,20080,2.0,tablespoons,whole wheat flour
+359334,2047,1.0,teaspoons,salt
+39370,1040,2.0,cups,swiss cheese
+39370,1033,2.0,tablespoons,parmesan cheese
+39370,11282,2.0,cups,sweet onions
+39370,43598,2.0,cups,mayonnaise
+203615,18029,1.0,,french bread
+203615,2050,10.0,milliliters,vanilla extract
+203615,2010,5.0,grams,ground cinnamon
+203615,19334,195.0,grams,brown sugar
+203615,1049,355.0,milliliters,half-and-half cream
+203615,19350,45.0,milliliters,light corn syrup
+268642,18029,1.0,,french bread
+268642,2050,2.0,teaspoons,vanilla extract
+268642,19334,6.0,tablespoons,brown sugar
+268642,9050,1.0,cups,blueberries
+268642,2010,1.0,teaspoons,cinnamon
+496534,18029,0.5,,day-old french bread
+496534,1077,2.0,cups,whole milk
+496534,2050,1.0,teaspoons,vanilla extract
+496534,19334,6.0,tablespoons,brown sugar
+496534,9050,1.0,cups,blueberries
+496534,2010,1.0,teaspoons,cinnamon
+139471,19296,5.0,tablespoons,honey
+139471,9206,5.0,tablespoons,orange juice concentrate
+139471,9252,5.0,,pears
+139471,2025,,,ground nutmeg
+12660,2003,,,dried basil
+12660,11282,2.0,,green onions
+12660,11953,1.0,,zucchini
+12660,2047,,,salt
+12660,11297,1.0,cups,fresh parsley
+12660,2030,,,black pepper
+12660,11240,6.0,,mushrooms
+12660,11215,1.0,,garlic
+12660,11413,1.0,,potato
+12660,1009,1.0,cups,cheddar cheese
+132617,4053,,,olive oil
+132617,2042,,,dried thyme
+132617,11215,1.0,,bulb of garlic
+212191,2029,1.0,tablespoons,parsley
+212191,2047,,,salt
+212191,11011,1.0,pounds,fresh asparagus
+212191,2030,,,black pepper
+212191,4053,1.0,tablespoons,olive oil
+212191,11215,4.0,,garlic cloves
+114011,1033,2.0,tablespoons,parmesan cheese
+114011,11052,14.5,ounces,green beans
+114011,4053,1.0,tablespoons,olive oil
+114011,11282,2.0,tablespoons,onions
+114011,11215,2.0,,garlic clove
+114011,10123,2.0,tablespoons,bacon
+103529,5311,2.0,cups,chicken broth
+103529,2047,1.0,teaspoons,salt
+103529,2030,1.0,teaspoons,black pepper
+103529,20444,1.0,cups,long-grain white rice
+103529,11215,3.0,,garlic cloves
+372659,2047,1.0,teaspoons,salt
+372659,18029,1.0,,french bread
+372659,11215,4.0,,garlic heads
+372659,2030,1.0,teaspoons,black pepper
+372659,4053,2.0,tablespoons,olive oil
+372659,1017,0.5,cups,cream cheese
+85163,2049,,,thyme
+85163,18029,,,french bread
+85163,11215,3.0,,garlic
+85163,4053,,,olive oil
+85163,1006,4.0,ounces,brie cheese
+429928,2025,1.0,teaspoons,nutmeg
+429928,2047,1.0,teaspoons,salt
+429928,1156,3.0,tablespoons,goat cheese
+429928,11362,6.0,,potatoes
+429928,2020,1.0,teaspoons,garlic powder
+429928,1161,1.0,cups,mozzarella cheese
+429928,11291,3.0,,scallions
+429928,1009,1.0,cups,cheddar cheese
+332367,11527,0.25,pounds,green tomatoes
+332367,2047,1.0,teaspoons,salt
+332367,18029,2.0,cups,french bread
+332367,2030,1.0,teaspoons,black pepper
+332367,1270,1.0,cups,sharp cheddar cheese
+155017,9152,1.0,teaspoons,lemon juice
+155017,15033,2.0,pounds,haddock fillets
+155017,2029,1.0,teaspoons,parsley
+155017,2047,1.0,teaspoons,salt
+155017,2028,1.0,teaspoons,paprika
+155017,2041,3.0,teaspoons,tarragon
+155017,11215,2.0,,garlic cloves
+135545,2047,1.0,teaspoons,salt
+135545,2028,1.0,teaspoons,paprika
+135545,11362,4.0,cups,potatoes
+135545,2020,1.0,teaspoons,garlic powder
+135545,10123,12.0,,bacon
+156441,1033,1.0,cups,parmesan cheese
+156441,11297,1.0,cups,fresh parsley
+156441,4053,1.0,tablespoons,olive oil
+156441,43392,15.0,ounces,hearts of palm
+156441,11215,1.0,teaspoons,garlic salt
+150513,2025,1.0,teaspoons,nutmeg
+150513,9299,1.0,cups,raisins
+150513,2047,1.0,teaspoons,salt
+150513,35137,1.0,cups,yellow cornmeal
+150513,19304,1.0,cups,blackstrap molasses
+150513,2010,1.0,teaspoons,cinnamon
+150513,18372,1.0,teaspoons,baking soda
+173396,2029,2.0,teaspoons,parsley
+173396,1004,1.0,tablespoons,cheese
+173396,2047,1.0,teaspoons,salt
+173396,11362,2.0,,potatoes
+173396,1179,2.0,tablespoons,sour cream
+290218,1033,,,parmesan cheese
+290218,11297,1.0,teaspoons,fresh parsley
+290218,11362,2.0,,potatoes
+290218,11215,3.0,,garlic cloves
+290218,1161,1.0,cups,mozzarella cheese
+290218,4053,3.0,teaspoons,olive oil
+290218,2027,1.0,teaspoons,dried oregano
+290218,27048,1.0,cups,tomato sauce
+290218,11265,1.0,cups,baby portabella mushrooms
+290218,11291,2.0,tablespoons,scallions
+383728,2025,1.0,teaspoons,nutmeg
+383728,2028,1.0,,paprika
+383728,2047,,,salt
+383728,2030,,,black pepper
+383728,11246,4.0,,leeks
+102171,2010,1.0,teaspoons,ground cinnamon
+102171,19334,1.0,tablespoons,brown sugar
+102171,19911,2.0,tablespoons,maple syrup
+102171,4073,2.0,tablespoons,margarine
+102171,11485,1.0,,butternut squash
+49930,9152,1.0,tablespoons,lemon juice
+49930,19911,3.0,tablespoons,maple syrup
+49930,9040,4.0,,bananas
+290136,2047,1.0,,salt
+290136,18039,1.0,cups,oatmeal
+290136,12061,1.0,cups,almonds
+290136,2010,,,ground cinnamon
+290136,19911,2.0,tablespoons,maple syrup
+290136,19340,2.0,tablespoons,maple sugar
+67295,6152,1.0,cups,pizza sauce
+67295,1033,,,parmesan cheese
+67295,1161,2.0,cups,mozzarella cheese
+67295,43132,10.0,,meatballs
+67295,18029,11.0,,french bread dough
+119890,18069,12.0,,white bread
+119890,2047,,,salt
+119890,1145,4.0,tablespoons,unsalted butter
+419849,11278,1.0,pounds,okra
+419849,4053,1.0,tablespoons,olive oil
+419849,2047,,,salt
+124641,1004,1.0,cups,cheese
+124641,2047,1.0,teaspoons,salt
+477587,2029,1.0,cups,parsley
+477587,17224,1.0,pounds,ground lamb
+477587,20027,1.0,tablespoons,cornstarch
+477587,2047,1.0,teaspoons,salt
+445629,1004,1.0,cups,cheese
+445629,11282,2.0,cups,vidalia onions
+445629,2042,1.0,teaspoons,dried thyme
+445629,43598,1.0,cups,mayonnaise
+445629,1017,4.0,ounces,cream cheese
+445629,1009,2.0,cups,cheddar cheese
+127167,11282,4.0,grams,vidalia onions
+127167,42140,,,italian dressing
+270729,6971,1.0,teaspoons,worcestershire sauce
+270729,2047,3.0,teaspoons,salt
+270729,1009,1.0,cups,cheddar cheese
+150804,9152,2.0,tablespoons,lemon juice
+150804,11282,3.5,,vidalia onions
+150804,2029,2.0,tablespoons,parsley
+150804,2047,1.0,teaspoons,salt
+150804,1179,1.0,cups,sour cream
+150804,19334,2.0,tablespoons,brown sugar
+216446,1033,2.0,tablespoons,parmesan cheese
+216446,2047,1.0,teaspoons,salt
+216446,11297,1.0,tablespoons,fresh parsley
+216446,18376,1.0,cups,seasoned bread crumbs
+216446,2020,1.0,teaspoons,garlic powder
+216446,1038,1.0,tablespoons,romano cheese
+216446,15073,1.0,pounds,orange roughy fillet
+439078,19336,,,powdered sugar
+439078,2047,1.0,teaspoons,salt
+439078,18029,0.75,,french bread
+439078,2050,1.0,teaspoons,vanilla
+439078,19911,2.0,tablespoons,maple syrup
+86691,19336,,,powdered sugar
+53079,1033,1.0,cups,parmesan cheese
+53079,2047,1.0,teaspoons,salt
+53079,2028,1.0,teaspoons,paprika
+53079,15073,4.0,ounces,orange roughy fillets
+53079,20481,2.0,tablespoons,all-purpose flour
+329170,28162,3.0,cups,corn flakes
+329170,1033,1.0,cups,parmesan cheese
+329170,2047,1.0,teaspoons,salt
+329170,15073,2.0,pounds,orange roughy fillets
+482224,2025,1.0,teaspoons,nutmeg
+482224,6170,1.0,cups,beef stock
+482224,2047,1.0,teaspoons,salt
+482224,11298,2.0,pounds,parsnips
+149096,2025,1.0,teaspoons,nutmeg
+149096,12142,,,pecans
+149096,2050,1.0,tablespoons,vanilla
+149096,2010,2.0,tablespoons,cinnamon
+149096,9236,5.0,,peaches
+149096,18069,8.0,,white bread
+282240,9252,2.0,,pears
+282240,2025,1.0,,ground nutmeg
+18068,9252,6.0,,pears
+176911,9299,1.0,cups,raisins
+176911,2050,1.0,teaspoons,vanilla extract
+176911,9252,3.0,,pears
+176911,19911,12.0,tablespoons,maple syrup
+176911,2010,,,cinnamon
+71172,6152,1.0,cups,pizza sauce
+71172,1033,3.0,tablespoons,parmesan cheese
+71172,7057,,,pepperoni
+71172,11282,2.0,,green onions
+71172,1179,1.0,cups,sour cream
+71172,1161,1.0,cups,mozzarella cheese
+71172,11215,2.0,teaspoons,garlic
+71172,2027,1.0,teaspoons,dried oregano
+71172,1017,8.0,ounces,cream cheese
+392655,4053,,,extra virgin olive oil
+392655,2044,1.0,ounces,basil
+392655,11821,6.0,,red peppers
+392655,11215,2.0,,garlic cloves
+392655,1019,12.0,,feta cheese
+262714,6152,14.0,ounces,pizza sauce
+262714,28387,12.0,,hamburger buns
+262714,1009,3.0,cups,shredded cheddar cheese
+262714,13047,1.0,pounds,ground beef
+262714,2027,1.0,teaspoons,dried oregano
+92087,11265,4.0,,portabella mushrooms
+92087,4053,1.0,cups,olive oil
+92087,2069,1.0,cups,balsamic vinegar
+353855,11265,4.0,,portabella mushrooms
+353855,4053,2.0,tablespoons,olive oil
+261025,4053,1.0,cups,extra virgin olive oil
+261025,2047,,,salt
+261025,1179,1.0,cups,sour cream
+261025,11355,0.25,,red potatoes
+261025,11156,1.0,tablespoons,chives
+261025,1017,1.0,cups,cream cheese
+261025,10123,1.0,pounds,bacon
+122750,1179,16.0,ounces,sour cream
+122750,43212,8.0,ounces,bacon bits
+122750,43598,8.0,ounces,mayonnaise
+122750,1270,16.0,ounces,sharp cheddar cheese
+122614,11362,2.0,,potatoes
+122614,2009,2.0,cups,chili
+122614,1009,1.0,cups,cheddar cheese
+30399,11355,5.0,,red potatoes
+30399,1033,1.0,cups,parmesan cheese
+30399,2020,1.0,teaspoons,garlic powder
+30399,2047,1.0,teaspoons,salt
+69851,1033,1.0,tablespoons,parmesan cheese
+69851,11297,2.0,tablespoons,fresh parsley
+69851,11362,4.0,,potatoes
+69851,2030,,,black pepper
+69851,11215,1.0,teaspoons,garlic salt
+69851,1009,4.0,tablespoons,cheddar cheese
+129621,11282,4.0,,green onions
+129621,2047,1.0,teaspoons,salt
+129621,11362,4.0,,potatoes
+129621,1179,8.0,ounces,sour cream
+129621,1009,2.0,cups,shredded cheddar cheese
+129621,10123,12.0,,bacon
+54276,11282,2.0,tablespoons,green onions
+54276,2047,1.0,teaspoons,salt
+54276,1179,1.0,cups,sour cream
+54276,43212,1.0,cups,bacon bits
+54276,1009,2.0,cups,cheddar cheese
+63887,1179,1.0,cups,sour cream
+63887,11282,2.0,tablespoons,green onions
+63887,1009,1.0,cups,cheddar cheese
+129604,11362,4.0,,potatoes
+129604,11282,4.0,,onions
+246604,11362,2.0,,potatoes
+166749,11362,6.0,,potatoes
+166749,1179,1.0,cups,sour cream
+166749,11156,1.0,cups,fresh chives
+166749,2047,1.0,teaspoons,salt
+122935,6164,1.0,cups,salsa
+122935,11362,4.0,,potatoes
+122935,13047,1.0,pounds,ground beef
+122935,2009,1.0,tablespoons,chili powder
+122935,1009,1.0,cups,cheddar cheese
+66975,11353,6.0,,russet potatoes
+66975,11282,6.0,,onions
+66975,10123,6.0,,bacon
+101473,2047,1.0,teaspoons,salt
+101473,11362,4.0,,potatoes
+101473,2030,1.0,teaspoons,black pepper
+101473,11156,1.0,tablespoons,chives
+101473,2025,,,ground nutmeg
+101473,1125,1.0,,egg yolk
+101473,1006,1.0,,brie cheese
+104089,9152,2.0,tablespoons,lemon juice
+104089,2010,1.0,teaspoons,cinnamon
+104089,9287,3.0,,prickly pears
+191468,9152,2.0,tablespoons,fresh lemon juice
+191468,4582,1.0,tablespoons,canola oil
+191468,2010,1.0,teaspoons,ground cinnamon
+191468,19334,1.0,tablespoons,brown sugar
+191468,11422,2.0,pounds,pumpkin
+191468,16124,1.0,tablespoons,soy sauce
+191468,2021,1.0,teaspoons,ground ginger
+12715,20088,2.0,tablespoons,rice
+12715,2050,1.0,teaspoons,vanilla
+12715,2047,1.0,teaspoons,salt
+42992,9299,1.0,cups,raisins
+42992,2047,1.0,teaspoons,salt
+42992,2050,1.0,teaspoons,vanilla extract
+42992,2010,1.0,teaspoons,ground cinnamon
+42992,20089,1.0,cups,cooked rice
+88828,5311,4.0,cups,chicken broth
+88828,2047,3.0,teaspoons,salt
+88828,11297,3.0,tablespoons,fresh parsley
+88828,2034,1.0,teaspoons,poultry seasoning
+88828,11143,2.0,cups,celery
+88828,2030,1.0,teaspoons,black pepper
+88828,20036,1.0,cups,long grain rice
+88828,11240,8.0,ounces,mushrooms
+88828,11282,2.0,cups,onions
+65897,9299,1.0,cups,raisins
+65897,2050,1.0,teaspoons,vanilla
+65897,2010,1.0,teaspoons,ground cinnamon
+65897,2025,1.0,teaspoons,ground nutmeg
+65897,20089,1.0,cups,cooked rice
+522710,5311,1.0,cups,chicken broth
+522710,2004,1.0,,bay leaf
+522710,1033,3.0,tablespoons,parmesan cheese
+522710,2047,1.0,teaspoons,salt
+522710,2042,1.0,teaspoons,dried thyme
+522710,11282,3.0,,white onions
+522710,20088,1.0,cups,rice
+522710,1040,4.0,tablespoons,swiss cheese
+522710,11215,1.0,,garlic clove
+503314,2047,1.0,teaspoons,salt
+503314,1036,2.0,cups,whole milk ricotta cheese
+503314,9156,1.0,grams,lemon
+503314,2030,,,fresh ground black pepper
+503314,11156,0.5,cups,fresh chives
+503314,4053,,,olive oil
+503314,11215,2.0,grams,garlic cloves
+106707,19334,1.0,cups,brown sugar
+106707,7230,2.0,pounds,salami
+106707,18060,,,rye cocktail bread
+106707,6150,15.0,ounces,barbecue sauce
+342683,7005,2.0,pounds,sausage
+342683,2047,,,salt
+342683,1009,2.0,cups,cheddar cheese
+422394,19911,1.0,cups,maple syrup
+422394,18039,8.0,,oatmeal bread
+422394,21005,3.0,pounds,breakfast sausage
+422394,1270,12.0,,sharp cheddar cheese
+331946,2029,1.0,teaspoons,parsley
+331946,2001,1.0,teaspoons,allspice
+331946,2069,1.0,tablespoons,balsamic vinegar
+331946,2020,1.0,teaspoons,garlic powder
+331946,11080,3.0,grams,beets
+331946,2026,1.0,teaspoons,onion powder
+391349,11362,4.0,,potatoes
+391349,2047,,,salt
+391349,2030,,,black pepper
+391349,4058,1.0,tablespoons,sesame oil
+210942,18029,1.0,,french bread
+210942,42140,16.0,ounces,italian dressing
+210942,15152,1.0,pounds,shrimp
+184577,2025,,,nutmeg
+184577,2050,1.0,teaspoons,vanilla
+184577,4679,,,pam cooking spray
+184577,2047,1.0,,salt
+62370,2025,1.0,teaspoons,nutmeg
+62370,2047,1.0,teaspoons,salt
+62370,18376,1.0,cups,seasoned bread crumbs
+62370,11457,0.5,pounds,frozen spinach
+62370,1049,3.0,cups,half-and-half
+62370,1017,3.0,tablespoons,cream cheese
+62370,1009,3.0,cups,cheddar cheese
+65071,2025,1.0,teaspoons,nutmeg
+65071,2047,1.0,teaspoons,salt
+65071,19334,1.0,cups,brown sugar
+65071,2010,1.0,teaspoons,cinnamon
+65071,4073,1.0,cups,margarine
+65071,11485,2.0,pounds,butternut squash
+419672,19296,2.0,tablespoons,honey
+419672,2063,1.0,teaspoons,fresh rosemary
+419672,11485,6.0,,butternut squash
+78331,1033,2.0,tablespoons,parmesan cheese
+78331,2047,1.0,teaspoons,salt
+78331,2048,1.0,cups,cider vinegar
+78331,11098,10.0,,brussels sprouts
+78331,4679,2.0,tablespoons,cooking oil
+50432,1040,10.0,ounces,swiss cheese
+50432,1053,1.0,cups,heavy cream
+271186,16114,15.0,ounces,tempeh
+271186,4053,3.0,tablespoons,olive oil
+271186,2047,1.0,teaspoons,salt
+85201,11979,25.0,,jalapeno peppers
+85201,6971,1.0,teaspoons,worcestershire sauce
+85201,1017,8.0,ounces,cream cheese
+85201,10123,4.0,,bacon
+85201,1009,3.0,cups,cheddar cheese
+247058,35131,1.0,cups,cornmeal
+247058,2034,2.0,tablespoons,poultry seasoning
+247058,16162,12.0,ounces,firm tofu
+247058,16252,1.0,cups,plain yogurt
+247058,20027,1.0,cups,cornstarch
+56376,1033,2.0,tablespoons,parmesan cheese
+56376,2027,1.0,teaspoons,oregano
+56376,2020,1.0,teaspoons,garlic powder
+56376,2030,1.0,teaspoons,fresh ground black pepper
+19078,2047,,,salt
+19078,1179,1.0,cups,sour cream
+19078,11457,10.0,ounces,fresh spinach
+19078,1040,1.0,cups,swiss cheese
+19078,6168,2.0,,hot sauce
+19078,10123,4.0,,bacon
+107922,2014,1.0,teaspoons,cumin
+107922,18363,12.0,ounces,corn tortillas
+107922,9160,3.0,tablespoons,lime juice
+107922,2009,1.0,teaspoons,chili powder
+27076,11564,3.0,,turnips
+27076,1033,1.0,cups,parmesan cheese
+27076,1179,2.0,tablespoons,sour cream
+27076,2047,,,salt
+495987,1025,1.0,cups,monterey jack pepper cheese
+495987,2047,1.0,teaspoons,salt
+495987,11090,1.0,cups,broccoli florets
+48972,1004,4.0,cups,cheese
+48972,18363,6.0,,corn tortillas
+48972,19419,2.0,,corn
+48972,2047,1.0,teaspoons,salt
+48972,6164,2.0,cups,salsa
+48972,1179,,,sour cream
+48972,16162,1.0,cups,firm tofu
+48972,16014,2.0,,black beans
+48972,6599,2.0,,enchilada sauce
+52678,1040,8.0,ounces,swiss cheese
+52678,1033,2.0,tablespoons,parmesan cheese
+52678,11282,2.0,cups,vidalia onions
+52678,43598,2.0,cups,mayonnaise
+254360,19296,4.0,teaspoons,honey
+254360,2047,1.0,teaspoons,salt
+254360,11485,1.0,pounds,butternut squash
+244330,11953,3.0,,zucchini
+244330,2047,1.0,teaspoons,salt
+244330,1161,1.0,cups,mozzarella cheese
+244330,2028,3.0,teaspoons,paprika
+181524,1004,1.0,cups,cheese
+181524,11953,3.0,cups,zucchini
+181524,4513,1.0,cups,vegetable oil
+181524,2047,,,salt
+181524,2045,,,fresh dill
+421368,1033,1.0,cups,parmesan cheese
+421368,11953,4.0,,zucchini
+421368,2030,,,salt & freshly ground black pepper
+421368,4053,1.0,tablespoons,olive oil
+421368,11215,2.0,,garlic cloves
+443310,4615,2.0,cups,vegetable shortening
+118589,2047,1.0,,salt
+118589,19335,1.0,cups,granulated sugar
+118589,4615,1.0,cups,vegetable shortening
+118589,2050,1.0,teaspoons,vanilla extract
+118589,20027,2.0,tablespoons,cornstarch
+31558,18372,1.0,tablespoons,baking soda
+31558,20027,1.0,teaspoons,cornstarch
+31558,18373,1.0,tablespoons,cream of tartar
+45672,9216,1.0,tablespoons,dried orange peel
+45672,2011,1.0,teaspoons,ground cloves
+45672,2010,6.0,tablespoons,ground cinnamon
+45672,2025,2.0,teaspoons,ground nutmeg
+45672,2001,1.0,tablespoons,ground allspice
+45672,2021,1.0,teaspoons,ground ginger
+382447,18338,15.0,,phyllo dough
+382447,12155,1.0,cups,walnuts
+382447,19296,,,honey
+382447,12142,1.0,cups,pecans
+382447,2010,1.0,teaspoons,cinnamon
+160705,2047,,,salt
+160705,11209,1.0,grams,eggplant
+160705,4513,2.0,tablespoons,vegetable oil
+160705,2048,2.0,tablespoons,vinegar
+160705,11215,2.0,,garlic cloves
+318332,9152,1.0,cups,lemon juice
+318332,42063,3.0,ounces,liquid pectin
+318332,9236,4.0,quarts,peaches
+399719,11297,2.0,tablespoons,fresh parsley leaves
+399719,12061,2.0,tablespoons,almonds
+399719,2069,2.0,tablespoons,balsamic vinegar
+399719,11052,500.0,grams,green beans
+399719,4053,3.0,teaspoons,olive oil
+399719,11215,2.0,,garlic cloves
+215517,1019,1.0,pounds,feta cheese
+215517,4053,1.0,cups,extra virgin olive oil
+215517,2069,1.0,cups,balsamic vinegar
+442276,1033,1.0,cups,parmesan cheese
+442276,2047,1.0,teaspoons,salt
+442276,2069,2.0,tablespoons,balsamic vinegar
+442276,2023,1.0,teaspoons,dried marjoram
+442276,11135,1.0,,cauliflower florets
+442276,4053,2.0,tablespoons,olive oil
+12619,11011,1.0,,fresh asparagus
+12619,2069,1.0,tablespoons,balsamic vinegar
+12619,2030,,,black pepper
+97525,2047,1.0,teaspoons,salt
+97525,2069,1.0,cups,balsamic vinegar
+97525,11215,2.0,,garlic
+97525,4053,1.0,cups,olive oil
+97525,7007,2.0,,beef
+97525,2027,1.0,teaspoons,dried oregano
+33545,4053,2.0,teaspoons,extra virgin olive oil
+33545,1004,1.0,teaspoons,blue cheese
+33545,12155,1.0,cups,walnuts
+33545,2069,2.0,teaspoons,balsamic vinegar
+33545,11080,14.5,ounces,beets
+175540,18323,1.0,pounds,peach
+175540,2069,2.0,tablespoons,balsamic vinegar
+175540,9050,1.0,pounds,blueberries
+175540,2030,1.0,teaspoons,black pepper
+452173,6170,2.0,cups,beef stock
+452173,2069,2.0,tablespoons,balsamic vinegar
+452173,11282,2.0,pounds,onions
+452173,11297,2.0,tablespoons,fresh parsley
+298599,11215,1.0,,garlic clove
+298599,2069,1.0,cups,balsamic vinegar
+298599,4053,2.0,tablespoons,olive oil
+298599,11959,6.0,,arugula
+376293,1033,2.0,tablespoons,parmesan cheese
+376293,2047,1.0,teaspoons,salt
+376293,11011,1.0,pounds,asparagus
+376293,2069,1.0,cups,balsamic vinegar
+376293,4053,1.0,tablespoons,olive oil
+326176,2047,1.0,teaspoons,salt
+326176,11090,2.0,,broccoli
+326176,2069,1.0,cups,balsamic vinegar
+326176,19334,2.0,tablespoons,brown sugar
+326176,2030,1.0,teaspoons,ground black pepper
+125039,9152,1.0,tablespoons,lemon juice
+125039,4053,,,extra virgin olive oil
+125039,9279,4.0,,plums
+125039,2069,1.0,cups,balsamic vinegar
+125039,2050,1.0,teaspoons,vanilla extract
+125039,19334,1.0,tablespoons,brown sugar
+125039,2030,1.0,teaspoons,ground black pepper
+125039,19095,1.0,pints,vanilla ice cream
+106241,11282,2.0,grams,red onions
+106241,4053,3.0,tablespoons,extra virgin olive oil
+106241,2069,3.0,cups,balsamic vinegar
+194900,1033,1.0,cups,parmesan cheese
+194900,11052,1.0,pounds,green beans
+194900,2069,1.0,cups,balsamic vinegar
+135403,11282,2.0,,green onions
+135403,2030,1.0,teaspoons,fresh ground black pepper
+135403,10218,2.0,,pork tenderloin
+135403,4583,3.0,tablespoons,mustard
+135403,2069,3.0,tablespoons,balsamic vinegar
+135403,11215,2.0,tablespoons,fresh garlic
+135403,19296,3.0,tablespoons,liquid honey
+374082,4053,1.0,cups,extra virgin olive oil
+374082,2047,1.0,teaspoons,salt
+374082,2042,2.0,tablespoons,dried thyme
+374082,2030,1.0,teaspoons,fresh ground black pepper
+374082,2069,1.0,cups,balsamic vinegar
+374082,6971,1.0,teaspoons,worcestershire sauce
+374082,11215,2.0,,garlic cloves
+29483,19334,2.0,tablespoons,brown sugar
+29483,16124,1.0,cups,soy sauce
+29483,2069,1.0,cups,balsamic vinegar
+29483,2020,1.0,teaspoons,garlic powder
+39974,2029,1.0,cups,parsley
+39974,11209,0.25,,eggplant
+39974,2047,1.0,tablespoons,salt
+39974,2069,1.0,cups,balsamic vinegar
+39974,2030,1.0,teaspoons,ground black pepper
+39974,4053,1.0,cups,light olive oil
+39974,11156,1.0,cups,chives
+231004,2069,1.0,cups,balsamic vinegar
+231004,6971,1.0,tablespoons,worcestershire sauce
+231004,10220,1.0,cups,cooked pork
+231004,11215,1.0,tablespoons,roasted garlic
+231004,2068,1.0,cups,red wine
+318720,2069,1.0,cups,balsamic vinegar
+168979,19334,3.0,tablespoons,brown sugar
+168979,11215,2.0,,garlic cloves
+168979,2063,3.0,grams,fresh rosemary
+168979,2069,1.0,cups,balsamic vinegar
+492939,2069,1.0,cups,balsamic vinegar
+29184,4679,,,cooking spray
+29184,11011,2.0,pounds,asparagus spears
+29184,2047,1.0,teaspoons,salt
+29184,2069,1.0,teaspoons,balsamic vinegar
+29184,16124,2.0,teaspoons,soy sauce
+249683,11124,3.5,,carrots
+249683,4053,2.0,tablespoons,olive oil
+249683,2047,1.0,teaspoons,salt
+249683,2069,2.0,tablespoons,balsamic vinegar
+429085,2047,1.0,teaspoons,salt
+429085,32020,6.0,,chicken thighs
+429085,2069,3.0,tablespoons,balsamic vinegar
+429085,4053,1.0,cups,olive oil
+429085,11215,2.0,,garlic cloves
+59885,11282,4.0,pounds,red onions
+59885,2069,6.0,tablespoons,balsamic vinegar
+59885,4053,1.0,cups,olive oil
+59885,11297,1.0,tablespoons,fresh parsley
+20505,1156,4.0,ounces,goat cheese
+20505,19296,1.0,cups,honey
+20505,2069,3.0,tablespoons,balsamic vinegar
+20505,1145,2.0,tablespoons,unsalted butter
+20505,9414,2.0,,bosc pears
+253946,2047,1.0,teaspoons,salt
+253946,19296,2.0,tablespoons,honey
+253946,5311,1.0,cups,canned chicken broth
+253946,10218,0.5,,pork tenderloin
+253946,2069,1.0,cups,balsamic vinegar
+253946,2030,1.0,teaspoons,black pepper
+253946,4053,2.0,teaspoons,olive oil
+253946,2063,1.0,tablespoons,fresh rosemary leaf
+49477,11215,2.0,,garlic
+49477,2069,2.0,tablespoons,balsamic vinegar
+49477,4053,1.0,tablespoons,olive oil
+49477,11457,10.0,ounces,frozen spinach
+42515,2069,2.0,tablespoons,balsamic vinegar
+42515,11677,2.0,tablespoons,shallots
+456654,19296,2.0,teaspoons,honey
+456654,2069,1.0,tablespoons,balsamic vinegar
+456654,9316,1.0,cups,fresh strawberries
+456654,2044,,,fresh basil
+301252,9316,3.0,cups,strawberries
+301252,4053,1.0,tablespoons,extra virgin olive oil
+301252,2047,,,salt
+301252,2030,,,fresh ground black pepper
+301252,11959,4.0,cups,arugula leaves
+301252,2069,1.0,tablespoons,balsamic vinegar
+34584,9316,400.0,grams,strawberries
+34584,2069,1.0,tablespoons,balsamic vinegar
+122860,2069,1.0,cups,balsamic vinegar
+122860,2050,1.0,teaspoons,vanilla
+141881,2069,1.0,cups,balsamic vinegar
+141881,11156,1.0,cups,fresh chives
+141881,11960,1.0,,baby carrots
+459578,2069,1.0,cups,balsamic vinegar
+459578,2068,1.0,cups,red wine
+257888,19334,2.0,tablespoons,brown sugar
+257888,2069,1.0,cups,balsamic vinegar
+3149,11215,1.0,,garlic clove
+3149,2069,1.0,cups,balsamic vinegar
+3149,4053,1.0,cups,lite olive oil
+311786,2068,1.0,tablespoons,red wine vinegar
+359442,11215,1.0,,bulb of garlic
+359442,11362,3.0,pounds,potatoes
+359442,2069,1.0,cups,balsamic vinegar
+359442,2030,,,salt & freshly ground black pepper
+359442,2063,1.5,teaspoons,fresh rosemary
+359442,4053,,,olive oil
+359442,11282,5.0,,red onions
+504468,2030,,,cracked black pepper
+504468,2069,1.0,cups,balsamic vinegar
+504468,12117,1.0,cups,coconut milk
+504468,2047,,,salt
+369446,11282,2.0,pounds,baby onions
+369446,2069,2.0,tablespoons,balsamic vinegar
+369446,1145,4.0,tablespoons,unsalted butter
+369446,2049,2.0,teaspoons,fresh thyme leaves
+319082,2047,1.0,teaspoons,salt
+319082,2069,1.0,cups,balsamic vinegar
+319082,10218,1.0,pounds,pork tenderloin
+319082,2030,1.0,teaspoons,ground black pepper
+319082,11215,1.0,teaspoons,garlic
+319082,19334,2.0,tablespoons,brown sugar
+319082,4053,1.0,teaspoons,olive oil
+184633,19296,2.0,tablespoons,honey
+184633,11080,5.0,,beets
+184633,2069,4.0,tablespoons,balsamic vinegar
+127568,19296,1.0,cups,honey
+127568,1019,1.0,cups,feta cheese
+127568,2069,1.0,cups,balsamic vinegar
+127568,9236,4.0,,peaches
+110803,11677,1.0,grams,shallot
+110803,11052,1.0,pounds,green beans
+110803,2069,1.0,cups,balsamic vinegar
+125928,20082,1.0,cups,self rising flour
+125928,4513,3.0,tablespoons,vegetable oil
+122077,9152,1.0,cups,fresh lemon juice
+122077,19334,2.0,tablespoons,brown sugar
+122077,2025,1.0,teaspoons,ground nutmeg
+122077,9040,4.0,cups,bananas
+361001,9421,1.0,cups,dates
+361001,1053,1.0,cups,heavy whipping cream
+361001,2010,1.0,teaspoons,cinnamon
+361001,9040,4.0,,bananas
+166535,19400,1.0,,banana
+166535,9129,1.0,cups,grapes
+166535,9206,1.0,cups,orange juice
+55255,2050,1.0,teaspoons,vanilla extract
+55255,9040,2.0,,bananas
+515586,19400,1.0,,banana
+515586,18272,1.0,,ice cream cones
+515586,2050,1.0,teaspoons,vanilla extract
+267454,2025,1.0,teaspoons,nutmeg
+267454,18420,18.0,ounces,yellow cake mix
+267454,2010,1.0,teaspoons,cinnamon
+267454,9040,3.0,,bananas
+82433,19296,2.0,teaspoons,honey
+82433,18027,2.0,,bread
+82433,19400,1.0,,banana
+420376,19296,1.0,tablespoons,honey
+420376,4581,1.0,,avocado
+420376,19400,1.0,,banana
+420376,16223,2.0,tablespoons,soymilk
+25885,2047,1.0,teaspoons,salt
+25885,9040,2.0,cups,bananas
+25885,19334,3.0,cups,brown sugar
+25885,18372,1.0,teaspoons,baking soda
+25885,20481,2.0,cups,all-purpose flour
+512595,9040,2.0,,bananas
+512595,11457,2.0,cups,spinach
+512595,9302,1.0,cups,raspberries
+512595,9050,1.0,cups,blueberries
+512595,14054,2.0,cups,almond milk
+312656,9206,3.0,cups,orange juice
+312656,19400,1.0,,banana
+312656,9053,1.0,cups,frozen blueberries
+312656,16252,1.0,cups,plain yogurt
+312656,9320,1.0,cups,frozen sliced strawberries in syrup
+312656,9354,1.0,cups,pineapple juice
+60481,2047,1.0,teaspoons,salt
+60481,9040,3.0,,bananas
+60481,1295,1.0,cups,vanilla yogurt
+60481,2050,1.0,teaspoons,vanilla
+60481,9050,1.0,cups,blueberries
+60481,18372,1.0,teaspoons,baking soda
+60481,20481,2.0,cups,all-purpose flour
+412656,9053,1.0,cups,frozen blueberries
+412656,9206,1.0,cups,frozen orange juice concentrate
+412656,9040,2.0,ounces,bananas
+215826,19296,1.0,cups,honey
+215826,19400,1.0,,banana
+215826,9050,2.0,cups,blueberries
+215826,16252,2.0,cups,plain yogurt
+284630,16252,1.0,cups,plain yogurt
+284630,19400,1.0,grams,banana
+284630,9050,1.0,cups,blueberries
+17180,18372,1.0,teaspoons,baking soda
+17180,42291,1.0,cups,peanut butter
+17180,9040,2.0,,bananas
+7397,2047,1.0,teaspoons,salt
+7397,4513,1.0,cups,vegetable oil
+7397,9040,4.0,,bananas
+7397,2050,1.0,teaspoons,vanilla
+7397,18372,1.0,teaspoons,baking soda
+486453,19334,3.0,cups,brown sugar
+486453,18372,1.0,teaspoons,baking soda
+486453,2047,1.0,teaspoons,salt
+486453,9040,3.0,,bananas
+371783,19400,1.0,,banana
+371783,1094,1.0,cups,buttermilk
+173337,9299,1.0,cups,raisins
+173337,2047,3.0,teaspoons,salt
+173337,9040,1.0,cups,bananas
+173337,19296,1.0,tablespoons,honey
+173337,4513,2.0,tablespoons,vegetable oil
+173337,20080,2.0,cups,whole wheat flour
+173337,19334,1.0,tablespoons,brown sugar
+173337,20038,1.0,cups,quick oats
+173337,11683,1.0,cups,carrot
+173337,18372,1.0,teaspoons,baking soda
+262698,11134,1.0,pounds,cassava
+262698,9040,4.0,,mashed bananas
+262698,12115,1.0,cups,coconut cream
+135051,2047,1.0,,salt
+135051,9040,4.0,,bananas
+135051,4513,2.0,cups,vegetable oil
+160482,2047,1.0,,salt
+160482,12119,1.0,cups,coconut
+160482,19400,1.0,cups,banana
+160482,2050,1.0,teaspoons,vanilla
+160482,12117,1.0,cups,coconut milk
+160482,1049,1.0,cups,half-and-half
+116190,12023,,,sesame seeds
+116190,19400,1.0,,banana
+116190,12117,14.0,ounces,coconut milk
+134289,9206,1.0,cups,orange juice
+134289,9040,2.0,,bananas
+134289,19296,1.0,tablespoons,honey
+134289,12119,,,coconut
+134289,12117,1.0,cups,coconut milk
+134289,9152,1.0,grams,"lemon, juice of"
+467132,9152,1.0,teaspoons,lemon juice
+467132,9040,1.0,,bananas
+467132,19296,1.0,tablespoons,honey
+467132,12119,,,coconut
+467132,1179,1.0,pints,sour cream
+35669,12119,2.0,cups,coconut
+35669,9216,1.0,,orange
+35669,9040,2.0,,bananas
+354082,9160,2.0,tablespoons,lime juice
+354082,12117,1.0,cups,coconut milk
+354082,12179,1.0,cups,shredded coconut
+354082,9040,0.25,,bananas
+209247,19400,1.0,,banana
+209247,2050,1.0,teaspoons,vanilla
+209247,2047,1.0,teaspoons,salt
+209247,20481,1.0,cups,all-purpose flour
+70920,20038,1.0,cups,rolled oats
+70920,2047,1.0,teaspoons,salt
+70920,9040,4.0,,bananas
+70920,19334,1.0,cups,brown sugar
+70920,2010,1.0,teaspoons,cinnamon
+134557,20038,1.0,cups,rolled oats
+134557,18142,18.25,ounces,yellow cake mix with pudding
+134557,9040,1.0,cups,bananas
+134557,12119,1.0,cups,coconut
+134557,12142,1.0,cups,pecans
+134557,1179,1.0,cups,sour cream
+134557,19334,3.0,cups,brown sugar
+21112,9152,2.0,tablespoons,lemon juice
+21112,2047,,,salt
+21112,9040,12.0,ounces,bananas
+21112,2015,1.0,teaspoons,curry powder
+21112,4542,1.0,pints,low-fat chicken broth
+26534,9421,6.0,grams,dates
+26534,16223,1.0,cups,soymilk
+26534,9040,2.0,ounces,bananas
+452574,20088,2.0,tablespoons,wild rice
+452574,9421,2.0,,dates
+452574,19400,1.0,,banana
+452574,12155,1.0,cups,walnuts
+105681,19296,1.0,tablespoons,honey
+105681,12119,2.0,tablespoons,coconut
+105681,9040,3.0,,bananas
+105681,9152,1.0,,"lemon, juice of"
+458012,19336,,,powdered sugar
+458012,4513,,,vegetable oil
+458012,9040,10.0,,bananas
+182780,2010,1.0,teaspoons,cinnamon
+182780,19400,1.0,,banana
+182780,2047,1.0,,salt
+74386,18027,6.0,,bread
+74386,19400,1.0,,banana
+74386,2050,1.0,teaspoons,vanilla
+74386,2010,3.0,teaspoons,cinnamon
+135715,19400,1.0,,banana
+135715,18069,2.0,,white bread
+70858,9152,1.0,teaspoons,lemon juice
+70858,19400,1.0,,banana
+70858,19336,3.0,cups,powdered sugar
+161039,2025,1.0,teaspoons,nutmeg
+161039,9040,2.0,grams,bananas
+161039,2001,1.0,teaspoons,allspice
+161039,19296,1.0,cups,honey
+161039,1179,1.0,cups,sour cream
+161039,2011,1.0,teaspoons,ground cloves
+161039,19334,1.0,cups,brown sugar
+161039,19304,1.0,cups,molasses
+161039,20082,2.0,cups,self-rising flour
+161039,2010,1.0,teaspoons,cinnamon
+378142,9040,500.0,grams,bananas
+392122,2050,1.0,teaspoons,vanilla
+392122,9040,3.0,,bananas
+364083,9152,6.0,tablespoons,lemon juice
+364083,42063,3.0,ounces,pectin
+364083,1145,3.0,cups,unsalted butter
+364083,9040,4.0,cups,bananas
+92772,16252,1.0,,plain yogurt
+92772,19911,2.0,tablespoons,maple syrup
+92772,19400,1.0,,banana
+90648,18027,10.0,,bread
+90648,2047,,,salt
+90648,9040,2.0,,bananas
+90648,2050,1.0,teaspoons,vanilla
+90648,19911,2.0,teaspoons,maple syrup
+401,9152,1.0,teaspoons,fresh lemon juice
+401,1053,3.0,cups,heavy cream
+401,19116,30.0,,marshmallows
+401,9040,4.0,,bananas
+209346,19400,1.0,,banana
+209346,2050,1.0,teaspoons,vanilla extract
+209346,2010,1.0,,ground cinnamon
+513585,2050,0.25,,vanilla extract
+513585,9040,3.0,,bananas
+42242,19296,1.0,tablespoons,honey
+42242,9354,1.0,cups,pineapple juice
+42242,9040,2.0,,bananas
+42242,1295,2.0,cups,vanilla yogurt
+252419,19095,5.0,,vanilla ice cream
+252419,19400,1.0,,banana
+178128,19095,1.0,,vanilla ice cream
+178128,19400,1.0,,banana
+178128,2050,1.0,teaspoons,vanilla extract
+136093,9152,1.0,tablespoons,lemon juice
+136093,2025,1.0,teaspoons,nutmeg
+136093,9040,3.0,cups,bananas
+136093,12155,1.0,cups,walnuts
+136093,19335,4.0,cups,granulated sugar
+136093,42063,3.0,ounces,pectin
+136093,19334,1.0,cups,brown sugar
+136093,2010,1.0,teaspoons,cinnamon
+421603,2025,1.0,teaspoons,nutmeg
+421603,18027,3.0,,bread
+421603,19400,1.0,,banana
+421603,14639,1.0,cups,rice milk
+421603,19911,1.0,teaspoons,maple syrup
+421603,2010,1.0,teaspoons,cinnamon
+63529,9152,2.0,tablespoons,lemon juice
+63529,43598,0.25,cups,mayonnaise
+63529,9040,2.0,,bananas
+63529,19296,1.0,tablespoons,honey
+63529,42291,1.0,tablespoons,peanut butter
+63529,11252,2.0,cups,lettuce
+63529,16091,1.0,cups,peanuts
+29871,19296,1.0,tablespoons,honey
+29871,19400,1.0,,banana
+29871,2025,1.0,teaspoons,nutmeg
+290047,19400,1.0,,banana
+290047,20038,1.0,cups,oats
+376227,2047,1.0,teaspoons,salt
+376227,18039,4.0,cups,oatmeal
+376227,9040,3.0,,bananas
+376227,12155,1.0,cups,walnuts
+376227,9299,0.5,cups,raisins
+376227,19334,1.0,cups,brown sugar
+179066,18027,2.0,,bread
+179066,19400,1.0,,banana
+203230,9206,6.0,ounces,orange juice
+203230,19296,1.0,tablespoons,honey
+203230,19400,1.0,,banana
+203230,2050,3.0,teaspoons,vanilla extract
+203230,1256,3.0,cups,plain nonfat yogurt
+456850,1077,1.0,cups,whole milk
+456850,2050,1.0,teaspoons,vanilla extract
+456850,9040,0.75,cups,bananas
+110871,19911,,,maple syrup
+110871,19400,1.0,,banana
+110871,12195,6.0,tablespoons,almond butter
+110871,11672,4.0,,pancakes
+245429,2047,1.0,teaspoons,salt
+245429,9040,2.0,grams,bananas
+245429,19296,1.0,cups,honey
+245429,12023,1.0,cups,sesame seeds
+245429,16156,1.0,cups,chunky peanut butter
+245429,2050,1.0,teaspoons,vanilla extract
+245429,20080,1.0,cups,whole wheat flour
+245429,18372,1.0,teaspoons,baking soda
+367486,11976,3.0,cups,banana pepper ring
+367486,2028,1.0,teaspoons,paprika
+367486,43598,3.0,tablespoons,mayonnaise
+12478,2047,1.0,teaspoons,salt
+12478,11976,14.0,,banana peppers
+12478,2069,1.0,teaspoons,balsamic vinegar
+12478,11215,3.0,,garlic
+12478,4053,2.0,tablespoons,virgin olive oil
+189416,12115,3.0,tablespoons,coconut cream
+189416,9272,8.0,ounces,pineapple chunks
+189416,9040,2.0,,bananas
+264484,19095,2.0,tablespoons,vanilla ice cream
+264484,19400,1.0,,banana
+264484,9354,2.0,tablespoons,pineapple juice
+18901,9152,2.0,tablespoons,lemon juice
+18901,12115,1.0,cups,coconut cream
+18901,9040,2.0,cups,bananas
+275526,19400,1.0,,banana
+275526,16223,1.5,,soymilk
+275526,42291,3.0,tablespoons,peanut butter
+350896,16223,2.0,cups,soymilk
+350896,2047,1.0,,salt
+350896,9040,2.0,,bananas
+350896,2050,2.0,teaspoons,vanilla extract
+350896,20027,2.0,tablespoons,cornstarch
+47629,2047,1.0,teaspoons,salt
+47629,9040,4.0,,bananas
+47629,12155,1.5,cups,walnuts
+47629,2001,1.0,teaspoons,allspice
+47629,2050,1.0,teaspoons,vanilla
+47629,11422,1.0,cups,pumpkin
+47629,2010,1.0,teaspoons,cinnamon
+47629,18372,1.0,tablespoons,baking soda
+47629,20481,4.0,cups,all-purpose flour
+81917,9040,3.0,,bananas
+81917,19335,1.0,tablespoons,granulated sugar
+81917,2010,1.0,teaspoons,ground cinnamon
+81917,19911,1.0,cups,maple syrup
+81917,18337,2.0,,frozen puff pastry
+38556,2048,1.0,teaspoons,vinegar
+38556,2047,1.0,,salt
+38556,9040,6.0,,bananas
+38556,16091,1.0,cups,peanuts
+490280,2048,1.0,tablespoons,vinegar
+490280,9040,6.0,,bananas
+490280,16091,1.0,cups,peanuts
+458492,19296,,,honey
+458492,19400,1.0,,banana
+327904,19400,1.0,,banana
+327904,9040,2.0,,bananas
+174553,2025,1.0,teaspoons,nutmeg
+174553,1053,1.0,cups,heavy cream
+174553,9152,1.0,tablespoons,lemon juice
+174553,9040,2.0,,bananas
+416068,19400,1.0,,banana
+416068,1286,1.0,cups,nonfat vanilla yogurt
+416068,9354,0.5,,pineapple juice
+416068,16161,1.0,cups,soft tofu
+150534,19400,1.0,,banana
+150534,16223,1.0,cups,soymilk
+150534,9206,1.0,cups,orange juice
+514820,19400,16.0,,banana
+514820,1256,0.25,,greek yogurt
+514820,16091,2.0,teaspoons,peanuts
+211234,16253,6.0,ounces,strawberry yogurt
+211234,19400,,,banana
+97010,19400,2.0,cups,banana
+97010,18372,1.0,teaspoons,baking soda
+97010,2050,1.0,teaspoons,vanilla
+97010,2047,1.0,teaspoons,salt
+415952,19400,1.0,grams,banana
+415952,9206,1.0,cups,orange juice
+415952,9050,1.0,cups,blueberries
+415952,9302,1.0,cups,raspberries
+291207,1295,1.0,cups,vanilla yogurt
+291207,19400,1.0,,banana
+291207,9318,1.0,cups,frozen strawberries
+291207,9206,0.5,cups,orange juice
+40854,9152,1.0,teaspoons,lemon juice
+40854,18042,2.0,,whole wheat bread
+40854,9299,1.0,cups,raisins
+40854,19296,1.0,teaspoons,honey
+40854,19400,1.0,,banana
+40854,1017,4.0,ounces,cream cheese
+275540,19095,5.0,,vanilla ice cream
+275540,19400,1.0,,banana
+392690,19400,1.0,,banana
+392690,12155,1.0,cups,walnuts
+57419,20630,1.0,cups,unbleached flour
+57419,9040,4.0,,bananas
+57419,12155,1.0,cups,walnuts
+57419,2050,1.0,teaspoons,vanilla
+57419,1145,1.0,cups,unsalted butter
+57419,1094,1.0,cups,buttermilk
+57419,18372,1.0,teaspoons,baking soda
+109327,19911,1.0,cups,maple syrup
+109327,9040,2.0,,bananas
+109327,12155,1.0,cups,walnuts
+117477,19400,1.0,,banana
+117477,16399,2.0,tablespoons,creamy peanut butter
+117477,20086,6.0,,flour tortilla
+147289,19911,2.0,tablespoons,maple syrup
+147289,9053,1.0,cups,frozen blueberries
+147289,19095,4.0,,vanilla ice cream
+147289,9040,2.0,,bananas
+61182,9152,2.0,tablespoons,lemon juice
+61182,9040,2.0,,bananas
+61182,19334,2.0,cups,brown sugar
+61182,42135,1.0,cups,whipped topping
+61182,1017,8.0,ounces,cream cheese
+61182,18131,18.25,ounces,white cake mix
+32486,9152,1.0,tablespoons,lemon juice
+32486,2047,1.0,teaspoons,salt
+32486,9040,2.0,,bananas
+32486,12155,1.0,cups,walnuts
+32486,20132,1.0,cups,oat flour
+32486,2025,1.0,teaspoons,ground nutmeg
+32486,2010,1.0,teaspoons,cinnamon
+32486,18372,1.0,teaspoons,baking soda
+407385,19400,0.5,cups,banana
+407385,2050,1.0,teaspoons,vanilla extract
+407385,19334,1.0,cups,brown sugar
+407385,42291,1.0,cups,peanut butter
+407385,18372,1.0,teaspoons,baking soda
+407385,20481,1.0,cups,all-purpose flour
+422998,9152,2.0,tablespoons,fresh lemon juice
+422998,9040,2.0,,bananas
+422998,19296,2.0,tablespoons,honey
+422998,16392,1.0,cups,unsalted peanuts
+422998,9272,14.0,ounces,pineapple chunks
+422998,2010,1.0,teaspoons,cinnamon
+92656,2047,1.0,teaspoons,salt
+92656,9040,2.0,,bananas
+92656,1179,3.0,cups,sour cream
+92656,2050,1.0,teaspoons,vanilla extract
+92656,18372,1.0,teaspoons,baking soda
+92656,20481,2.0,cups,all-purpose flour
+64291,9316,2.0,cups,strawberries
+64291,16161,1.0,,soft tofu
+64291,9040,1.0,,bananas
+64291,19296,1.0,cups,honey
+64291,2050,1.0,tablespoons,vanilla
+64291,9206,3.0,tablespoons,frozen orange juice concentrate
+218022,2047,1.0,teaspoons,salt
+218022,12155,1.0,cups,walnuts
+218022,19400,1.0,cups,banana
+218022,2010,1.0,teaspoons,cinnamon
+218022,20083,2.0,cups,bread flour
+218022,18375,1.0,teaspoons,active dry yeast
+57572,2047,1.0,teaspoons,salt
+57572,9040,3.0,,bananas
+57572,1094,1.0,cups,buttermilk
+57572,9050,1.0,cups,blueberries
+57572,18372,1.0,teaspoons,baking soda
+122366,9316,2.0,ounces,strawberries
+122366,19296,1.0,teaspoons,honey
+122366,19400,1.0,,banana
+122366,16252,2.0,ounces,plain yogurt
+122366,43382,2.0,ounces,cranberry juice
+391878,9040,2.0,,bananas
+91544,19400,1.0,,banana
+91544,1179,8.0,ounces,sour cream
+91544,9318,10.0,ounces,frozen strawberries
+503317,1238,,,ice cream
+503317,12117,1.0,cups,coconut milk
+503317,2047,,,salt
+503317,9040,0.75,,bananas
+287259,9040,2.0,,bananas
+170567,9206,1.0,cups,orange juice
+170567,9040,3.0,,bananas
+170567,1179,3.0,cups,sour cream
+170567,2010,1.0,teaspoons,ground cinnamon
+170567,19334,6.0,tablespoons,brown sugar
+170567,9159,2.0,tablespoons,limes
+484223,19296,1.0,tablespoons,honey
+484223,9160,2.0,tablespoons,lime juice
+484223,4679,,,cooking spray
+484223,9040,4.0,,bananas
+109267,18027,2.0,,bread
+109267,19400,1.0,,banana
+362340,19911,4.0,tablespoons,maple syrup
+362340,12117,1.0,cups,coconut milk
+362340,9040,2.0,,bananas
+362340,2010,,,ground cinnamon
+447174,19336,,,powdered sugar
+447174,18368,24.0,,wonton wrappers
+447174,9040,2.0,,bananas
+447174,19335,1.0,tablespoons,granulated sugar
+447174,2010,1.0,teaspoons,ground cinnamon
+177644,9316,2.0,cups,strawberries
+177644,9152,2.0,tablespoons,bottled lemon juice
+177644,9040,1.0,cups,bananas
+177644,1145,1.0,teaspoons,unsalted butter
+177644,42063,3.0,ounces,liquid pectin
+187508,7059,8.0,,pork sausage
+187508,11304,1.0,cups,peas
+187508,11362,8.0,,potatoes
+187508,11215,1.0,teaspoons,garlic
+187508,4053,1.0,teaspoons,olive oil
+187508,11282,2.0,,onions
+276109,2047,1.0,teaspoons,salt
+276109,11362,2.0,pounds,potatoes
+276109,1179,1.0,cups,sour cream
+276109,1270,1.0,cups,sharp cheddar cheese
+276109,2026,0.25,teaspoons,onion powder
+276109,1017,3.0,ounces,cream cheese
+492961,2047,1.0,teaspoons,salt
+492961,2033,4.0,,poppy seed rolls
+492961,13047,1.0,pounds,ground beef
+492961,14180,2.0,tablespoons,brewed coffee
+492961,16124,2.0,tablespoons,soy sauce
+81024,11282,6.0,,green onions
+81024,43598,1.0,cups,mayonnaise
+81024,1025,2.0,cups,monterey jack cheese
+81024,11215,1.0,,garlic
+81024,9193,2.25,ounces,ripe olives
+81024,2009,1.0,teaspoons,chili powder
+81024,1009,2.0,cups,cheddar cheese
+197387,9078,2.0,cups,cranberries
+197387,12142,1.0,cups,pecans
+197387,4556,1.0,cups,shortening
+197387,20481,1.0,cups,all-purpose flour
+44980,2068,1.0,cups,red wine vinegar
+44980,2031,1.0,teaspoons,cayenne pepper
+44980,19349,1.0,cups,dark corn syrup
+44980,19334,1.0,cups,brown sugar
+44980,4053,1.0,tablespoons,olive oil
+44980,6971,2.0,tablespoons,worcestershire sauce
+44980,27048,15.0,ounces,tomato sauce
+44980,4542,1.0,,chicken
+24360,13023,5.0,,beef brisket
+24360,9206,18.0,ounces,orange juice
+24360,11282,0.5,,onions
+24360,6150,18.0,ounces,barbecue sauce
+423471,2047,1.0,teaspoons,salt
+423471,9085,0.6666666666666666,cups,dried currants
+423471,1094,2.0,cups,buttermilk
+423471,2011,1.0,teaspoons,ground cloves
+423471,2010,1.0,teaspoons,ground cinnamon
+423471,19334,1.0,cups,brown sugar
+423471,2025,1.0,teaspoons,ground nutmeg
+423471,18375,2.0,teaspoons,active dry yeast
+423471,20481,2.75,cups,all-purpose flour
+45392,11355,12.0,,red potatoes
+45392,2063,2.0,tablespoons,fresh rosemary
+45392,4513,6.0,tablespoons,vegetable oil
+45392,2047,1.0,teaspoons,salt
+103138,2047,1.0,teaspoons,salt
+103138,11935,3.0,cups,catsup
+103138,4583,2.0,teaspoons,mustard
+103138,19334,2.0,tablespoons,brown sugar
+103138,13047,1.0,,ground beef
+103138,6971,1.0,tablespoons,worcestershire sauce
+103138,4073,2.0,teaspoons,margarine
+374964,2046,1.0,cups,prepared mustard
+374964,11935,1.0,cups,catsup
+374964,2048,1.0,cups,vinegar
+374964,19304,1.0,cups,molasses
+374964,6971,2.0,tablespoons,worcestershire sauce
+374964,6168,1.0,teaspoons,hot pepper sauce
+291716,11935,1.0,cups,catsup
+291716,2048,1.0,tablespoons,vinegar
+291716,19334,1.0,teaspoons,brown sugar
+291716,7007,2.0,cups,beef
+291716,6168,10.0,,hot sauce
+386142,18364,10.0,,flour tortillas
+386142,1009,4.0,ounces,shredded cheddar cheese
+386142,4542,18.0,ounces,chicken
+386142,43016,1.0,cups,coleslaw
+386142,10123,2.0,,bacon
+185886,6150,,,barbecue sauce
+26027,9193,2.0,ounces,olives
+26027,5305,1.0,pounds,ground turkey
+26027,2030,,,black pepper
+26027,2027,2.0,teaspoons,dried oregano
+26027,1019,1.0,pounds,feta cheese
+146373,2047,2.0,teaspoons,salt
+146373,2028,1.0,teaspoons,paprika
+146373,2031,1.0,teaspoons,cayenne pepper
+146373,2020,3.0,teaspoons,garlic powder
+146373,2030,,,black pepper
+146373,11355,5.0,pounds,red potatoes
+146373,2009,1.0,tablespoons,chili powder
+146373,2026,2.0,teaspoons,onion powder
+376009,11297,1.0,tablespoons,fresh flat-leaf parsley
+376009,43598,3.0,cups,mayonnaise
+376009,2030,,,fresh black pepper
+376009,11156,1.0,tablespoons,fresh chives
+376009,1094,1.0,cups,buttermilk
+376009,2048,2.0,teaspoons,apple cider vinegar
+376009,2017,1.0,teaspoons,dried dill
+376009,2026,3.0,teaspoons,onion powder
+376009,11215,1.0,,garlic clove
+376009,6150,2.0,tablespoons,barbecue sauce
+294439,9152,1.0,cups,lemon juice
+294439,6971,1.0,cups,worcestershire sauce
+294439,4513,1.0,cups,vegetable oil
+294439,2030,,,salt & freshly ground black pepper
+30949,2047,1.0,cups,salt
+30949,2028,1.0,cups,paprika
+30949,2031,1.0,teaspoons,cayenne pepper
+30949,2020,1.0,teaspoons,garlic powder
+30949,2030,2.0,teaspoons,black pepper
+30949,2009,2.0,teaspoons,chili powder
+81808,9152,1.0,tablespoons,lemon juice
+81808,2047,1.0,teaspoons,salt
+81808,43598,1.0,cups,mayonnaise
+81808,6150,1.0,cups,barbecue sauce
+223423,2034,1.0,teaspoons,poultry seasoning
+223423,2048,2.0,cups,cider vinegar
+223423,2047,3.0,tablespoons,salt
+274370,2011,1.0,teaspoons,ground cloves
+274370,2010,1.0,teaspoons,cinnamon
+274370,6150,1.0,,barbecue sauce
+274370,18372,4.0,teaspoons,baking soda
+274370,2021,1.0,teaspoons,ground ginger
+274370,20481,4.0,cups,all-purpose flour
+29700,9160,1.0,teaspoons,lime juice
+29700,11011,1.0,pounds,fresh asparagus
+29700,4053,2.0,tablespoons,olive oil
+29700,2030,,,salt and black pepper
+231925,2047,1.0,teaspoons,salt
+231925,11215,1.0,teaspoons,garlic
+231925,11109,1.0,,green cabbage
+231925,10123,0.25,,bacon
+231925,6150,1.0,cups,barbecue sauce
+175214,2047,1.0,teaspoons,salt
+175214,19419,2.0,,corn
+175214,4053,,,olive oil
+175214,6971,1.0,,worcestershire sauce
+175214,11215,1.0,tablespoons,roasted garlic
+439791,2049,1.0,teaspoons,thyme
+439791,4053,2.0,tablespoons,extra virgin olive oil
+439791,9156,1.0,,lemon
+439791,11240,150.0,grams,mushrooms
+439791,11215,2.0,,garlic cloves
+439791,2036,1.0,teaspoons,rosemary
+258527,11935,1.0,cups,catsup
+258527,19334,1.0,cups,brown sugar
+258527,11052,1.0,pounds,green beans
+258527,6971,1.0,tablespoons,worcestershire sauce
+258527,10123,4.0,,bacon
+120791,4542,6.0,,chicken
+120791,6150,,,barbecue sauce
+240260,2020,1.0,teaspoons,garlic powder
+240260,1033,1.0,cups,parmesan cheese
+240260,2047,1.0,teaspoons,salt
+240260,11209,2.0,,eggplants
+318703,19296,1.0,cups,honey
+318703,19334,2.0,tablespoons,brown sugar
+318703,7074,1.0,pounds,smoked sausage
+318703,6150,1.0,cups,hickory flavored barbecue sauce
+439789,11505,700.0,grams,sweet potato
+439789,4053,2.0,tablespoons,olive oil
+439789,2034,2.0,teaspoons,seasoning
+34484,11953,8.0,,zucchini
+34484,42140,1.0,,italian dressing
+377082,43598,1.0,tablespoons,mayonnaise
+377082,4583,1.0,teaspoons,mustard
+377082,18222,2.0,,wheat toast
+377082,4581,1.0,,avocado
+377082,11252,3.0,,lettuce
+377082,10123,2.0,,bacon
+205904,9152,1.0,tablespoons,fresh lemon juice
+205904,28232,1.0,,vanilla sugar
+205904,9050,1.0,pints,fresh blueberries
+217445,11297,2.0,tablespoons,fresh parsley leaves
+217445,43598,1.0,cups,mayonnaise
+217445,1179,1.0,cups,sour cream
+217445,2045,1.0,tablespoons,fresh dill
+217445,11291,4.0,,scallions
+217445,1017,8.0,ounces,cream cheese
+208419,19400,1.0,,banana
+208419,9206,4.0,grams,fresh orange juice
+208419,9160,1.0,tablespoons,fresh lime juice
+24850,2003,1.0,teaspoons,dried basil
+24850,2047,1.0,teaspoons,salt
+24850,2042,1.0,teaspoons,dried thyme
+24850,11215,4.0,,garlic
+24850,11135,1.0,pounds,cauliflower
+24850,2023,1.0,teaspoons,dried marjoram
+24850,4053,1.0,tablespoons,olive oil
+24850,18069,1.0,,white bread
+138330,20005,1.0,cups,pearl barley
+138330,5311,3.0,cups,chicken broth
+138330,22973,2.0,cups,frozen corn
+138330,2038,1.0,teaspoons,sage
+138330,2047,1.0,teaspoons,salt
+138330,11297,1.0,cups,fresh parsley
+138330,11683,2.0,cups,carrot
+138330,11215,3.0,,garlic cloves
+138330,4679,1.0,tablespoons,cooking oil
+12276,6963,2.0,cups,broth
+12276,2029,1.0,tablespoons,dried parsley
+12276,20004,1.0,cups,barley
+12276,2020,1.0,teaspoons,garlic powder
+12276,11240,8.0,ounces,mushrooms
+12276,6971,1.0,tablespoons,worcestershire sauce
+171156,2025,1.0,teaspoons,nutmeg
+171156,10218,1.0,,pork tenderloin
+171156,1179,1.0,cups,sour cream
+171156,11439,16.0,ounces,sauerkraut
+171156,4073,1.0,cups,margarine
+51896,2029,1.0,tablespoons,parsley
+51896,9152,1.0,cups,lemon juice
+51896,20630,3.0,tablespoons,unbleached flour
+51896,4513,2.0,tablespoons,vegetable oil
+51896,6076,2.0,cups,beef broth
+51896,2030,1.0,teaspoons,salt & freshly ground black pepper
+51896,11018,2.0,,frozen asparagus
+51896,11683,1.0,cups,carrot
+51896,17099,2.0,pounds,veal
+179522,32016,2.0,cups,macaroni noodles
+179522,2028,1.0,teaspoons,paprika
+179522,1009,2.0,cups,cheddar cheese
+184280,1004,1.0,cups,cheese
+184280,2025,1.0,,nutmeg
+184280,2047,1.0,teaspoons,salt
+184280,43312,1.0,pounds,vegetables
+184280,20088,2.0,cups,rice
+184280,16124,1.0,teaspoons,soy sauce
+356257,16129,2.0,,tofu
+356257,4513,2.0,teaspoons,vegetable oil
+514038,2025,1.0,,nutmeg
+514038,2004,1.0,,bay leaf
+514038,2028,1.0,,paprika
+514038,2032,,,fresh ground white pepper
+514038,1145,3.0,tablespoons,unsalted butter
+514038,20481,3.0,tablespoons,all-purpose flour
+31230,18372,1.0,teaspoons,baking soda
+31230,12062,4.0,ounces,blanched almonds
+31230,2047,1.0,teaspoons,salt
+31230,19335,1.0,cups,granulated sugar
+506589,4556,1.0,tablespoons,shortening
+506589,20082,2.0,cups,self-rising flour
+506589,2047,1.0,teaspoons,salt
+506589,1094,1.0,cups,buttermilk
+4568,2047,1.0,,salt
+4568,18069,9.0,,day-old white bread
+4568,20027,3.0,tablespoons,cornstarch
+289570,18027,0.75,,bread
+289570,11215,1.0,,garlic clove
+289570,4053,2.0,tablespoons,olive oil
+438674,16223,1.0,cups,soymilk
+438674,2047,1.0,,salt
+438674,20061,1.0,cups,rice flour
+438674,20008,1.0,cups,buckwheat flour
+438674,4047,1.0,tablespoons,coconut oil
+438674,11697,2.0,teaspoons,arrowroot
+32843,2047,1.0,teaspoons,salt
+32843,4542,6.0,cups,chicken
+32843,11109,2.0,cups,green cabbage
+32843,1009,0.5,cups,cheddar cheese
+153185,11282,6.0,,green onions
+153185,2047,,,salt
+153185,2030,,,fresh ground black pepper
+153185,11109,1.0,,cabbage
+153185,11143,5.0,,celery
+153185,11821,2.0,,red peppers
+153185,11124,6.0,,carrots
+153185,20090,1.0,cups,brown rice
+153185,11282,6.0,,onions
+75366,11215,10.0,,garlic
+75366,4053,,,virgin olive oil
+193325,1017,8.0,ounces,cream cheese
+193325,1179,8.0,ounces,sour cream
+193325,18942,1.0,,graham cracker crust
+193325,2050,1.0,teaspoons,vanilla
+459,2047,1.0,,salt
+458,2047,1.0,teaspoons,salt
+336725,4583,1.0,tablespoons,mustard
+336725,2047,,,salt
+336725,43598,1.0,cups,mayonnaise
+336725,2028,1.0,,paprika
+79836,11215,5.0,,garlic
+79836,4053,1.0,cups,olive oil
+79836,16124,1.0,cups,soy sauce
+79836,2068,1.0,cups,red wine vinegar
+364186,19911,,,maple syrup
+364186,2047,1.0,teaspoons,salt
+364186,18069,10.0,,white bread
+284415,9152,1.0,teaspoons,lemon juice
+284415,19336,3.0,cups,powdered sugar
+284415,2050,1.0,teaspoons,vanilla
+311449,1017,8.0,ounces,cream cheese
+311449,1179,1.0,cups,sour cream
+311449,2050,1.0,teaspoons,vanilla
+31209,11215,3.0,,garlic
+31209,11098,7.0,,brussels sprouts
+31209,2047,,,salt
+194174,19296,1.0,cups,honey
+194174,2046,1.0,cups,prepared mustard
+194174,43598,1.0,cups,mayonnaise
+98800,2047,1.0,teaspoons,salt
+98800,9156,1.0,grams,lemon
+201097,2047,1.0,,salt
+441824,18027,3.0,,bread
+441824,1033,1.0,cups,parmesan cheese
+441824,2029,1.0,teaspoons,dried parsley
+441824,2003,1.0,teaspoons,dried basil
+441824,2047,1.0,teaspoons,salt
+441824,17338,1.0,pounds,ground meat
+441824,11215,2.0,,garlic cloves
+285716,1033,1.0,cups,parmesan cheese
+285716,2047,1.0,teaspoons,salt
+285716,12147,1.0,cups,pine nuts
+285716,4053,1.0,cups,olive oil
+285716,11215,1.0,,garlic clove
+285716,2044,1.0,cups,fresh basil
+155668,1033,1.0,cups,parmesan cheese
+155668,2044,2.0,cups,fresh basil leaves
+155668,4053,1.0,cups,olive oil
+195436,1033,1.0,cups,parmesan cheese
+195436,2047,1.0,teaspoons,salt
+195436,11362,6.0,,potatoes
+195436,2030,1.0,teaspoons,ground black pepper
+195436,4053,2.0,tablespoons,olive oil
+195436,11215,2.0,grams,garlic cloves
+195436,20481,1.0,cups,all-purpose flour
+235428,4679,,,cooking spray
+235428,2042,2.0,teaspoons,dried thyme
+235428,10218,2.0,pounds,pork tenderloin
+235428,2047,1.0,teaspoons,table salt
+235428,2020,1.0,teaspoons,garlic powder
+235428,2030,1.0,teaspoons,black pepper
+235428,4053,2.0,teaspoons,olive oil
+235428,2027,2.0,teaspoons,dried oregano
+235428,2026,1.0,teaspoons,onion powder
+247191,11257,1.0,,red leaf lettuce
+247191,11251,2.0,,romaine lettuce
+247191,11952,1.0,,radicchio
+247191,11683,3.0,cups,carrot
+144329,2050,3.0,teaspoons,pure vanilla extract
+144329,2047,3.0,teaspoons,salt
+144329,1145,2.0,tablespoons,unsalted butter
+144329,20481,3.0,cups,all-purpose flour
+154808,2050,1.0,teaspoons,vanilla
+154808,2047,1.0,teaspoons,salt
+154808,20481,2.0,cups,all-purpose flour
+126396,2050,1.0,teaspoons,vanilla extract
+126396,1179,1.0,cups,sour cream
+126396,4513,1.0,cups,vegetable oil
+126396,18131,18.25,ounces,white cake mix
+330290,2030,,,cracked black pepper
+330290,11215,1.0,,garlic clove
+330290,2047,,,salt
+330290,11233,2.0,,fresh kale
+146597,5311,1.0,cups,chicken broth
+146597,2047,1.0,teaspoons,salt
+146597,11297,1.0,cups,fresh parsley
+146597,2034,1.0,teaspoons,poultry seasoning
+146597,11143,1.0,cups,celery
+146597,18069,0.5,,soft white bread cubes
+273316,2047,1.0,teaspoons,salt
+273316,19335,3.0,cups,granulated sugar
+273316,2050,1.0,teaspoons,vanilla extract
+273316,18372,1.0,teaspoons,baking soda
+273316,20481,2.0,cups,all-purpose flour
+264564,2046,1.0,tablespoons,prepared yellow mustard
+264564,2047,1.0,teaspoons,salt
+264564,18069,2.0,,white bread
+74421,9152,6.0,tablespoons,lemon juice
+74421,2003,1.0,tablespoons,dried basil
+74421,2047,3.0,teaspoons,salt
+344870,2050,1.0,teaspoons,vanilla
+344870,20027,2.0,tablespoons,cornstarch
+140488,19336,1.0,cups,powdered sugar
+140488,2050,1.0,teaspoons,vanilla
+140486,19336,2.0,cups,powdered sugar
+140486,2050,1.0,teaspoons,vanilla
+140487,19336,1.0,cups,powdered sugar
+140487,2050,1.0,teaspoons,vanilla
+129305,2047,2.0,tablespoons,salt
+129305,18375,3.0,tablespoons,active dry yeast
+129305,4513,2.0,tablespoons,vegetable oil
+102058,2047,1.0,teaspoons,salt
+102058,20080,1.0,cups,whole wheat flour
+102058,1145,2.0,tablespoons,unsalted butter
+270912,1033,2.0,teaspoons,parmesan cheese
+270912,2044,6.0,,fresh basil leaves
+270912,18364,2.0,,flour tortillas
+270912,1161,1.0,cups,mozzarella cheese
+270912,42140,2.0,teaspoons,italian dressing
+270912,1017,3.0,tablespoons,cream cheese
+31191,1179,1.0,cups,light sour cream
+31191,2044,2.0,tablespoons,fresh basil
+31191,11955,1.0,tablespoons,sun-dried tomato
+307241,11215,4.0,,garlic cloves
+307241,2030,1.0,teaspoons,black pepper
+307241,2044,15.0,,fresh basil
+113216,2047,1.0,teaspoons,salt
+113216,43598,1.0,cups,mayonnaise
+113216,1094,2.0,cups,buttermilk
+113216,11215,1.0,,garlic
+113216,2044,2.0,tablespoons,fresh basil
+213279,11124,6.0,,carrots
+213279,2044,1.0,teaspoons,basil
+213279,2047,1.0,teaspoons,salt
+157925,5311,3.0,cups,chicken broth
+157925,2004,1.0,,bay leaf
+157925,1033,1.0,cups,parmesan cheese
+157925,35137,1.0,cups,stone-ground yellow cornmeal
+157925,4053,1.0,tablespoons,olive oil
+157925,2044,1.0,teaspoons,fresh basil
+279583,1033,1.0,tablespoons,parmesan cheese
+279583,2003,3.0,tablespoons,dried basil
+279583,18364,2.0,grams,flour tortillas
+279583,1161,1.0,cups,mozzarella cheese
+279583,42140,2.0,teaspoons,italian dressing
+279583,1017,3.0,tablespoons,cream cheese
+334434,2044,1.0,cups,fresh basil
+334434,11090,2.0,cups,broccoli
+334434,11215,2.0,teaspoons,garlic
+334434,4053,2.0,tablespoons,olive oil
+334434,5057,0.125,,chicken breast
+228709,2047,1.0,teaspoons,salt
+228709,19334,4.0,teaspoons,brown sugar
+228709,2048,4.0,tablespoons,apple cider vinegar
+228709,4053,2.0,cups,olive oil
+228709,11215,2.0,,garlic cloves
+228709,2044,4.0,teaspoons,fresh basil
+17427,1033,1.0,cups,parmesan cheese
+17427,2003,1.0,tablespoons,dried basil
+17427,2020,1.0,teaspoons,garlic powder
+17427,11355,4.0,,red potatoes
+17427,4053,1.0,tablespoons,olive oil
+32311,11215,2.0,,garlic cloves
+32311,2044,1.0,cups,fresh basil leaf
+296334,2044,1.0,cups,fresh basil leaves
+296334,18029,1.0,,french bread
+296334,1145,4.0,tablespoons,unsalted butter
+296334,1038,3.0,tablespoons,romano cheese
+296334,2030,,,salt & freshly ground black pepper
+296334,4053,2.0,tablespoons,olive oil
+296334,11215,2.0,grams,garlic cloves
+64709,11215,2.0,,garlic
+64709,2068,2.0,cups,wine vinegar
+64709,2044,1.0,cups,fresh basil leaf
+258574,9152,3.0,,lemon juice
+258574,1145,8.0,ounces,sweet unsalted butter
+258574,2028,1.0,teaspoons,paprika
+258574,11297,2.0,teaspoons,fresh parsley
+258574,2030,1.0,teaspoons,fresh ground black pepper
+258574,11677,1.0,,shallot
+258574,6168,3.0,,hot sauce
+258574,2044,1.0,tablespoons,fresh basil
+12951,4053,1.0,liters,virgin olive oil
+12951,2044,2.0,cups,fresh basil
+30118,1033,3.0,tablespoons,parmesan cheese
+30118,4513,3.0,tablespoons,vegetable oil
+30118,2047,1.0,teaspoons,salt
+30118,2028,1.0,teaspoons,paprika
+30118,11362,6.0,,potatoes
+30118,2044,1.0,teaspoons,basil
+273401,1033,1.0,cups,parmesan cheese
+273401,2047,1.0,teaspoons,salt
+273401,11297,1.0,cups,fresh parsley leaves
+273401,4053,0.5,cups,olive oil
+273401,11215,1.0,,garlic clove
+273401,2044,1.0,cups,fresh basil
+185672,4053,1.0,tablespoons,extra virgin olive oil
+185672,19296,1.0,teaspoons,honey
+185672,2044,1.0,tablespoons,basil
+185672,11143,1.0,teaspoons,celery salt
+185672,2048,2.0,tablespoons,apple cider vinegar
+185672,18323,1.0,,peach
+8650,9152,1.0,cups,lemon juice
+8650,1033,1.0,cups,parmesan cheese
+8650,12147,1.0,cups,pine nuts
+8650,2044,1.0,cups,basil
+8650,4053,1.0,cups,olive oil
+8650,11215,2.0,,garlic cloves
+63388,1033,1.0,cups,parmesan cheese
+63388,4053,3.0,tablespoons,extra virgin olive oil
+63388,2044,4.0,cups,fresh basil leaves
+63388,2047,1.0,teaspoons,salt
+63388,12147,2.0,tablespoons,pine nuts
+63388,11215,2.0,,garlic
+248015,9152,1.0,teaspoons,fresh lemon juice
+248015,1033,1.0,cups,parmesan cheese
+248015,4053,1.0,cups,extra virgin olive oil
+248015,2044,2.0,cups,fresh basil leaves
+248015,2047,1.0,teaspoons,salt
+248015,2030,1.0,teaspoons,fresh ground black pepper
+248015,12147,1.0,cups,pine nuts
+248015,11215,4.0,,garlic cloves
+138263,1033,1.0,cups,parmesan cheese
+138263,11297,1.0,cups,fresh parsley
+138263,18413,,,pita bread
+138263,11215,4.0,,garlic cloves
+138263,2044,1.0,cups,fresh basil
+182809,9152,1.0,tablespoons,lemon juice
+182809,2047,1.0,teaspoons,salt
+182809,43598,1.0,cups,mayonnaise
+182809,11215,2.0,grams,garlic cloves
+182809,2044,3.0,tablespoons,fresh basil
+10463,9152,,,bottled lemon juice
+10463,2044,6.0,teaspoons,fresh basil
+104823,1015,2.0,,2% fat cottage cheese
+104823,2047,1.0,teaspoons,salt
+104823,11143,3.0,,celery
+104823,11362,1.0,,potatoes
+104823,1094,1.0,cups,buttermilk
+104823,11215,12.0,,garlic
+104823,2044,3.0,tablespoons,fresh basil
+381963,9152,1.0,teaspoons,lemon juice
+381963,4053,1.0,tablespoons,extra virgin olive oil
+381963,2044,2.0,tablespoons,basil
+381963,1145,6.0,tablespoons,unsalted butter
+381963,2054,2.0,teaspoons,capers
+381963,2030,,,salt & freshly ground black pepper
+334452,9152,1.0,tablespoons,lemon juice
+334452,1033,2.0,tablespoons,parmesan cheese
+334452,18029,1.0,,french bread
+334452,2044,0.5,teaspoons,basil
+334452,11215,2.0,teaspoons,garlic
+334452,4053,2.0,tablespoons,olive oil
+457496,11362,2.0,pounds,potatoes
+457496,4002,2.0,tablespoons,lard
+457496,2047,1.0,teaspoons,salt
+457496,10123,50.0,grams,bacon
+367436,9152,2.0,tablespoons,lemon juice
+367436,2030,1.0,teaspoons,fresh ground black pepper
+367436,2031,1.0,,cayenne pepper
+367436,2020,2.0,,garlic powder
+367436,19334,1.0,cups,brown sugar
+367436,16124,1.0,tablespoons,soy sauce
+21332,19296,2.0,tablespoons,honey
+21332,11935,2.0,tablespoons,catsup
+21332,9152,1.0,teaspoons,lemon juice
+251766,20086,1.0,grams,flour tortilla
+251766,4053,1.0,cups,olive oil
+251766,2047,,,salt
+229028,2047,1.0,teaspoons,salt
+229028,1023,2.0,ounces,gruyere cheese
+229028,13047,1.0,pounds,ground beef
+229028,4053,2.0,teaspoons,olive oil
+229028,11413,1.0,pounds,potato
+178075,2047,1.0,teaspoons,salt
+153891,1033,2.0,tablespoons,parmesan cheese
+153891,2047,1.0,teaspoons,salt
+153891,2042,1.0,teaspoons,dried thyme
+153891,2028,1.0,teaspoons,paprika
+153891,2031,1.0,,cayenne pepper
+153891,2020,1.0,teaspoons,garlic powder
+153891,2030,1.0,teaspoons,black pepper
+153891,11135,1.0,,cauliflower
+153891,2027,1.0,teaspoons,dried oregano
+264786,20082,2.0,cups,self rising flour
+264786,1094,2.0,cups,buttermilk
+264786,2047,2.0,teaspoons,salt
+264786,2030,1.0,teaspoons,black pepper
+182863,18372,1.0,teaspoons,baking soda
+182863,1094,1.0,cups,buttermilk
+182863,2047,1.0,teaspoons,salt
+182863,4513,,,vegetable oil
+33676,4556,1.0,tablespoons,shortening
+33676,2047,1.0,teaspoons,salt
+33676,11282,0.25,,onions
+33676,4513,,,vegetable oil
+289665,11362,150.0,grams,potatoes
+289665,7974,100.0,grams,turkey bacon
+289665,2047,,,salt
+289665,11282,50.0,grams,onions
+343684,1004,1.0,cups,cheese
+343684,11362,2.0,,potatoes
+343684,10123,4.0,,bacon
+171150,11362,2.5,cups,potatoes
+171150,2047,1.0,teaspoons,salt
+171150,10123,6.0,,bacon
+171150,2030,,,fresh ground black pepper
+422978,11362,4.0,,potatoes
+422978,10123,6.0,,bacon
+422978,2047,1.0,teaspoons,salt
+422978,2030,,,black pepper
+333449,7207,1.0,pounds,braunschweiger sausage
+333449,1017,3.0,ounces,cream cheese
+333449,2030,1.0,teaspoons,black pepper
+189930,2047,1.0,teaspoons,salt
+189930,4513,2.0,tablespoons,vegetable oil
+508914,7207,1.0,pounds,braunschweiger sausage
+508914,4513,1.0,tablespoons,vegetable oil
+508914,18223,,,crackers
+508914,2030,1.0,teaspoons,black pepper
+508914,1017,4.0,ounces,cream cheese
+393658,6170,4.0,cups,beef stock
+393658,2047,1.0,tablespoons,salt
+393658,11362,8.0,cups,potatoes
+393658,11246,4.0,,leeks
+393658,2023,1.0,,marjoram
+393658,1053,1.0,cups,heavy cream
+393658,1049,2.0,cups,half-and-half cream
+393658,2032,1.0,,white pepper
+188440,11677,6.0,,shallots
+188440,4042,,,peanut oil
+43350,18420,18.25,ounces,yellow cake mix
+43350,1017,8.0,ounces,cream cheese
+43350,12142,1.0,cups,pecans
+43350,19336,16.0,ounces,powdered sugar
+7311,9152,2.0,tablespoons,lemon juice
+7311,5311,2.0,cups,chicken broth
+7311,2047,1.0,teaspoons,salt
+7311,4513,1.0,cups,vegetable oil
+7311,11362,0.25,,potatoes
+51551,2047,1.0,teaspoons,salt
+51551,35131,1.0,cups,cornmeal
+51551,1179,1.0,cups,sour cream
+51551,1017,1.0,pounds,cream-style cottage cheese
+51551,1145,4.0,tablespoons,unsalted butter
+51551,19334,1.0,cups,brown sugar
+51551,20581,1.0,cups,unbleached all-purpose flour
+51551,18372,1.0,teaspoons,baking soda
+305766,19334,1.0,teaspoons,brown sugar
+305766,16124,1.0,tablespoons,soy sauce
+305766,2021,1.0,teaspoons,ground ginger
+305766,4058,1.0,tablespoons,sesame oil
+199155,19334,1.0,cups,brown sugar
+199155,16024,15.0,ounces,great northern beans
+199155,16014,15.0,ounces,black beans
+199155,2024,1.0,tablespoons,ground mustard
+199155,6971,1.0,tablespoons,worcestershire sauce
+199155,2009,2.0,teaspoons,chili powder
+199155,7074,1.0,,smoked sausage
+199155,6150,1.0,cups,barbecue sauce
+466948,9152,3.0,tablespoons,lemon juice
+466948,19042,1.0,cups,barbecue potato chips
+466948,27049,,,tartar sauce
+466948,15073,6.0,ounces,orange roughy fillets
+181029,2030,1.0,teaspoons,black pepper
+181029,1015,4.0,tablespoons,cottage cheese
+181029,11240,2.0,,mushrooms
+10047,7010,1.0,pounds,pork
+10047,11362,3.0,,potatoes
+10047,11124,2.0,,carrots
+10047,4542,1.0,pounds,chicken
+167445,9040,2.0,,bananas
+167445,19296,4.0,teaspoons,honey
+167445,19095,2.0,ounces,vanilla ice cream
+167445,19334,1.0,teaspoons,brown sugar
+167445,2010,1.0,teaspoons,cinnamon
+33500,19334,1.0,tablespoons,brown sugar
+33500,2014,1.0,teaspoons,cumin
+33500,9160,1.0,tablespoons,lime juice
+33500,2031,1.0,teaspoons,cayenne
+33500,9266,8.0,,pineapple
+33500,4706,2.0,teaspoons,honey mustard
+264806,11362,6.0,,potatoes
+264806,2047,1.0,teaspoons,table salt
+264806,2030,1.0,teaspoons,black pepper
+39977,2047,2.0,tablespoons,salt
+39977,2028,4.0,tablespoons,paprika
+39977,2031,1.0,tablespoons,cayenne pepper
+39977,2030,2.0,tablespoons,black pepper
+39977,19334,2.0,tablespoons,brown sugar
+39977,2014,2.0,tablespoons,cumin
+39977,2009,2.0,tablespoons,chili powder
+53235,27064,1.0,teaspoons,wasabi
+37056,2029,1.0,teaspoons,parsley
+37056,9152,1.0,,lemon juice
+37056,2041,1.0,teaspoons,tarragon
+37056,11124,6.0,,carrots
+37056,4073,2.0,tablespoons,margarine
+65732,6981,6.0,,bouillon cubes
+65732,11282,6.0,grams,vidalia onions
+65732,11215,2.0,tablespoons,garlic
+349598,43598,1.0,cups,mayonnaise
+349598,18372,1.0,teaspoons,baking soda
+349598,9040,3.0,,bananas
+436590,2029,2.0,tablespoons,parsley
+436590,43021,1.0,cups,caesar salad dressing
+436590,11362,2.0,pounds,potatoes
+436590,1017,1.0,cups,cream cheese
+436590,43212,1.0,cups,bacon bits
+425464,9152,2.0,tablespoons,lemon juice
+425464,27066,1.0,teaspoons,horseradish
+425464,43598,1.0,tablespoons,mayonnaise
+425464,2046,1.0,teaspoons,prepared mustard
+425464,11935,3.0,tablespoons,catsup
+425464,6971,1.0,teaspoons,worcestershire sauce
+425464,6169,1.0,,tabasco sauce
+418544,2017,1.0,tablespoons,dill weed
+418544,1179,250.0,grams,sour cream
+418544,11947,2.0,,dill pickles
+418544,1017,250.0,,cream cheese
+418544,11215,1.0,tablespoons,garlic salt
+434069,2047,2.0,tablespoons,salt
+434069,35131,3.0,cups,cornmeal
+434069,2020,2.0,tablespoons,garlic powder
+434069,1038,3.0,cups,romano cheese
+434069,2027,2.0,tablespoons,oregano
+434069,20481,3.0,cups,all-purpose flour
+415873,6175,2.0,tablespoons,hoisin sauce
+415873,6176,1.0,cups,oyster sauce
+415873,2020,1.0,teaspoons,garlic powder
+415873,4542,0.5,cups,chicken
+415873,2021,1.0,teaspoons,ground ginger
+415873,4058,1.0,tablespoons,sesame oil
+105811,2075,1.0,,taco seasoning mix
+105811,1179,8.0,ounces,sour cream
+105811,6731,10.5,ounces,bean with bacon soup
+105811,1270,1.0,cups,sharp cheddar cheese
+214064,1009,1.0,cups,cheddar cheese
+214064,13047,1.0,pounds,ground beef
+214064,16005,28.0,ounces,baked beans
+214064,6150,1.0,cups,barbecue sauce
+311714,2047,1.0,teaspoons,salt
+311714,11143,1.0,cups,celery
+311714,2014,1.0,teaspoons,cumin
+311714,13047,1.0,pounds,ground beef
+311714,16042,41.5,ounces,pinto beans
+311714,6168,1.0,teaspoons,hot sauce
+311714,11693,4.0,cups,canned tomatoes
+311714,6971,1.0,teaspoons,worcestershire sauce
+417125,1004,2.0,tablespoons,cheese
+417125,2047,1.0,teaspoons,salt
+417125,11362,4.0,,potatoes
+417125,1179,,,sour cream
+417125,16059,1.0,,chili beans
+417125,2009,1.0,teaspoons,chili powder
+12361,6164,16.0,ounces,salsa
+12361,20036,1.0,cups,long grain rice
+12361,2014,1.0,teaspoons,cumin
+12361,16014,2.0,cups,black beans
+12361,11182,1.0,cups,frozen whole kernel corn
+12361,31012,8.0,,v8 vegetable juice
+12361,2027,1.0,teaspoons,oregano
+182806,1004,1.0,cups,cheese
+182806,28387,4.0,,hamburger buns
+182806,16005,1.0,cups,baked beans
+182806,11282,4.0,,onions
+182806,6006,4.0,,frankfurters
+182806,6150,2.0,tablespoons,barbecue sauce
+31988,5311,2.0,cups,chicken broth
+31988,1033,,,parmesan cheese
+31988,2047,1.0,teaspoons,salt
+31988,11251,1.0,,romaine lettuce
+31988,2030,1.0,teaspoons,black pepper
+31988,16024,15.0,,great northern beans
+31988,11215,3.0,,garlic cloves
+274637,2047,1.0,teaspoons,salt
+419992,2010,1.0,teaspoons,cinnamon
+419992,9250,13.0,ounces,frozen peaches
+419992,20082,1.0,cups,self-rising flour
+397642,2029,,,parsley
+397642,1033,1.0,cups,parmesan cheese
+397642,2028,,,paprika
+397642,18029,0.75,,french bread
+397642,2020,3.0,teaspoons,garlic powder
+397642,4073,1.0,cups,margarine
+131648,18029,1.0,,french bread
+131648,2020,,,garlic powder
+492759,2047,1.0,teaspoons,salt
+492759,1145,1.0,cups,unsalted butter
+492759,2027,1.0,teaspoons,dried oregano
+492759,2030,1.0,teaspoons,ground black pepper
+492759,11215,2.0,,garlic cloves
+492759,20481,1.0,cups,all-purpose flour
+102185,35135,1.0,pounds,white corn
+102185,2030,1.0,teaspoons,black pepper
+53324,9152,1.0,tablespoons,lemon juice
+53324,1033,3.0,tablespoons,parmesan cheese
+53324,27066,1.0,teaspoons,horseradish
+53324,11979,1.0,,jalapeno pepper
+53324,2028,,,paprika
+53324,2047,,,salt
+53324,4706,1.0,tablespoons,honey mustard
+53324,11362,3.0,,potatoes
+53324,2030,,,black pepper
+53324,11090,10.0,ounces,fresh broccoli
+53324,1015,1.0,cups,cottage cheese
+348917,4513,1.0,tablespoons,vegetable oil
+348917,1015,1.0,cups,cottage cheese
+348917,4038,1.0,tablespoons,wheat germ
+223742,43598,1.0,tablespoons,mayonnaise
+223742,18069,1.0,,white bread
+223742,2010,1.0,tablespoons,cinnamon
+223742,1017,12.0,ounces,cream cheese
+223742,4073,0.5,,margarine
+405481,9421,7.0,,dates
+405481,20061,3.5,tablespoons,rice flour
+405481,2006,2.0,,cardamom
+307536,2047,1.0,teaspoons,salt
+307536,11297,1.0,cups,fresh parsley leaves
+307536,2068,3.0,tablespoons,red wine vinegar
+307536,2030,1.0,teaspoons,black pepper
+307536,11677,1.0,,shallot
+307536,4053,1.0,cups,olive oil
+307536,11215,3.0,,garlic cloves
+307536,23584,1.0,pounds,top sirloin steak
+182042,5311,10.75,ounces,chicken broth
+182042,2047,2.0,teaspoons,salt
+182042,20036,1.0,,long-grain rice
+182042,13047,1.0,pounds,ground beef
+182042,11109,1.0,,head of cabbage
+182042,11124,4.0,,carrots
