@@ -19,7 +19,7 @@ CREATE TABLE Recipe (
     minutes    INTEGER,
     user_id INTEGER NOT NULL,
     date DATETIME,
-    description VARCHAR(255),
+    description VARCHAR(6000),
     calories INTEGER,
     PRIMARY KEY (recipe_id),
     FOREIGN KEY (user_id) REFERENCES User(user_id)
