@@ -35,7 +35,7 @@ CREATE TABLE Ingredient (
     Magnesium FLOAT,
     Sodium FLOAT,
     Cholestrl FLOAT,
-    description VARCHAR(25) NOT NULL,
+    description VARCHAR(100) NOT NULL,
     unit INTEGER,
     volume_quantity INTEGER,
     volume_desc VARCHAR(25),
