@@ -85,21 +85,21 @@ CREATE TABLE Allergens (
     FOREIGN KEY (ingredient_id) REFERENCES Ingredient(ingredient_id)
 );
 
-DROP TABLE IF EXISTS TagLink;
-
-CREATE TABLE TagLink (
-    recipe_id INTEGER NOT NULL,
-    tag_id INTEGER,
-    FOREIGN KEY (recipe_id) REFERENCES Recipe(recipe_id),
-		FOREIGN KEY (tag_id) REFERENCES Tag(tag_id)
-);
-
 DROP TABLE IF EXISTS Tag;
 
 CREATE TABLE Tag (
     tag_id INTEGER NOT NULL,
     tag_name VARCHAR(255),
     PRIMARY KEY (tag_id)
+);
+
+DROP TABLE IF EXISTS TagLink;
+
+CREATE TABLE TagLink (
+    recipe_id INTEGER NOT NULL,
+    tag_id INTEGER,
+    FOREIGN KEY (recipe_id) REFERENCES Recipe(recipe_id),
+    FOREIGN KEY (tag_id) REFERENCES Tag(tag_id)
 );
 
 DROP TABLE IF EXISTS Steps;
