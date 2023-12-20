@@ -1,362 +1,362 @@
-tag_id,tag_name
-0,
-1, 1 day or more
-2, 15 minutes or less
-3, 3 steps or less
-4, 30 minutes or less
-5, 4 hours or less
-6, 5 ingredients or less
-7, 60 minutes or less
-8, african
-9, american
-10, amish mennonite
-11, appetizers
-12, apples
-13, argentine
-14, asian
-15, asparagus
-16, australian
-17, avocado
-18, bacon
-19, baja
-20, baking
-21, bananas
-22, bar cookies
-23, barbecue
-24, bass
-25, beans
-26, beef
-27, beef ribs
-28, beef sausage
-29, beginner cook
-30, berries
-31, beverages
-32, birthday
-33, biscotti
-34, bisques cream soups
-35, black beans
-36, blueberries
-37, bread machine
-38, breads
-39, breakfast
-40, broccoli
-41, broil
-42, brown bag
-43, brown rice
-44, brownies
-45, brunch
-46, burgers
-47, cajun
-48, cake fillings and frostings
-49, cakes
-50, californian
-51, camping
-52, canadian
-53, candy
-54, canning
-55, caribbean
-56, carrots
-57, casseroles
-58, catfish
-59, cauliflower
-60, central american
-61, chard
-62, cheese
-63, cheesecake
-64, cherries
-65, chick peas garbanzos
-66, chicken
-67, chicken breasts
-68, chicken thighs legs
-69, chili
-70, chinese
-71, chocolate
-72, chowders
-73, christmas
-74, chutneys
-75, cinco de mayo
-76, citrus
-77, cobblers and crisps
-78, cocktails
-79, coconut
-80, coffee cakes
-81, colombian
-82, comfort food
-83, condiments etc
-84, cookies and brownies
-85, cooking mixes
-86, copycat
-87, corn
-88, course
-89, crab
-90, crock pot slow cooker
-91, crusts pastry dough 2
-92, cuisine
-93, cupcakes
-94, deep fry
-95, desserts
-96, diabetic
-97, dietary
-98, dinner party
-99, dips
-100, drop cookies
-101, easter
-102, easy
-103, egg free
-104, eggs
-105, eggs dairy
-106, elbow macaroni
-107, english
-108, equipment
-109, ethiopian
-110, european
-111, fall
-112, filipino
-113, finger food
-114, finnish
-115, fish
-116, food processor blender
-117, for 1 or 2
-118, for large groups
-119, free of something
-120, freezer
-121, french
-122, freshwater fish
-123, from scratch
-124, frozen desserts
-125, fruit
-126, garnishes
-127, german
-128, gifts
-129, gluten free
-130, grains
-131, granola and porridge
-132, grapes
-133, greek
-134, green yellow beans
-135, greens
-136, grilling
-137, ground beef
-138, halloween
-139, hand formed cookies
-140, hanukkah
-141, hawaiian
-142, healthy
-143, healthy 2
-144, heirloom historical
-145, herb and spice mixes
-146, high calcium
-147, high fiber
-148, high in something
-149, high protein
-150, holiday event
-151, ice cream
-152, independence day
-153, indian
-154, indonesian
-155, inexpensive
-156, infant baby friendly
-157, iranian persian
-158, irish
-159, italian
-160, jams and preserves
-161, japanese
-162, jellies
-163, jewish ashkenazi
-164, kid friendly
-165, kosher
-166, kwanzaa
-167, lamb sheep
-168, lemon
-169, lettuces
-170, lime
-171, long grain rice
-172, low calorie
-173, low carb
-174, low cholesterol
-175, low fat
-176, low in something
-177, low protein
-178, low saturated fat
-179, low sodium
-180, lunch
-181, main dish
-182, main ingredient
-183, mango
-184, mardi gras carnival
-185, marinades and rubs
-186, mashed potatoes
-187, meat
-188, meatballs
-189, melons
-190, mexican
-191, microwave
-192, middle eastern
-193, midwestern
-194, mixer
-195, moroccan
-196, muffins
-197, mushrooms
-198, native american
-199, new years
-200, new zealand
-201, no cook
-202, non alcoholic
-203, north american
-204, northeastern united states
-205, novelty
-206, number of servings
-207, nut free
-208, nuts
-209, oamc freezer make ahead
-210, occasion
-211, omelets and frittatas
-212, one dish meal
-213, onions
-214, ontario
-215, orange roughy
-216, oranges
-217, oven
-218, pacific northwest
-219, pancakes and waffles
-220, papaya
-221, passover
-222, pasta
-223, pasta rice and grains
-224, peaches
-225, pears
-226, pennsylvania dutch
-227, peppers
-228, pickeral
-229, picnic
-230, pies
-231, pies and tarts
-232, pineapple
-233, pitted fruit
-234, pizza
-235, plums
-236, polynesian
-237, pork
-238, pork chops
-239, pork loins
-240, pork ribs
-241, pork sausage
-242, potatoes
-243, potluck
-244, poultry
-245, preparation
-246, presentation
-247, puddings and mousses
-248, puerto rican
-249, punch
-250, quick breads
-251, ramadan
-252, raspberries
-253, ravioli tortellini
-254, refrigerator
-255, rice
-256, roast
-257, roast beef
-258, rolled cookies
-259, rolls biscuits
-260, romantic
-261, rosh hashana
-262, russian
-263, salad dressings
-264, salads
-265, salmon
-266, saltwater fish
-267, sandwiches
-268, sauces
-269, saudi arabian
-270, savory
-271, savory pies
-272, savory sauces
-273, scandinavian
-274, scottish
-275, seafood
-276, seasonal
-277, served cold
-278, served hot
-279, shakes
-280, shellfish
-281, short grain rice
-282, shrimp
-283, side dishes
-284, small appliance
-285, smoothies
-286, snacks
-287, soul
-288, soups stews
-289, sourdough
-290, south african
-291, south american
-292, south west pacific
-293, southern united states
-294, southwestern united states
-295, soy tofu
-296, spaghetti
-297, spanish
-298, spicy
-299, spinach
-300, spreads
-301, spring
-302, squash
-303, st patricks day
-304, steak
-305, steam
-306, stews
-307, stir fry
-308, stocks
-309, stove top
-310, strawberries
-311, stuffings dressings
-312, summer
-313, super bowl
-314, superbowl
-315, swedish
-316, sweet
-317, sweet sauces
-318, swiss
-319, tarts
-320, taste mood
-321, technique
-322, tempeh
-323, tex mex
-324, thanksgiving
-325, time to make
-326, to go
-327, toddler friendly
-328, tomatoes
-329, tropical fruit
-330, tuna
-331, turkey
-332, turkey burgers
-333, valentines day
-334, veal
-335, vegan
-336, vegetables
-337, vegetarian
-338, very low carbs
-339, vietnamese
-340, water bath
-341, wedding
-342, weeknight
-343, welsh
-344, white rice
-345, whole chicken
-346, whole turkey
-347, winter
-348, yams sweet potatoes
-349, yeast
-350,15 minutes or less
-351,30 minutes or less
-352,60 minutes or less
-353,bacon
-354,course
-355,curries
-356,danish
-357,lactose
-358,nan
-359,time to make
-360,weeknight
+tag_name,tag_id
+,1
+ 1 day or more,2
+ 15 minutes or less,3
+ 3 steps or less,4
+ 30 minutes or less,5
+ 4 hours or less,6
+ 5 ingredients or less,7
+ 60 minutes or less,8
+ african,9
+ american,10
+ amish mennonite,11
+ appetizers,12
+ apples,13
+ argentine,14
+ asian,15
+ asparagus,16
+ australian,17
+ avocado,18
+ bacon,19
+ baja,20
+ baking,21
+ bananas,22
+ bar cookies,23
+ barbecue,24
+ bass,25
+ beans,26
+ beef,27
+ beef ribs,28
+ beef sausage,29
+ beginner cook,30
+ berries,31
+ beverages,32
+ birthday,33
+ biscotti,34
+ bisques cream soups,35
+ black beans,36
+ blueberries,37
+ bread machine,38
+ breads,39
+ breakfast,40
+ broccoli,41
+ broil,42
+ brown bag,43
+ brown rice,44
+ brownies,45
+ brunch,46
+ burgers,47
+ cajun,48
+ cake fillings and frostings,49
+ cakes,50
+ californian,51
+ camping,52
+ canadian,53
+ candy,54
+ canning,55
+ caribbean,56
+ carrots,57
+ casseroles,58
+ catfish,59
+ cauliflower,60
+ central american,61
+ chard,62
+ cheese,63
+ cheesecake,64
+ cherries,65
+ chick peas garbanzos,66
+ chicken,67
+ chicken breasts,68
+ chicken thighs legs,69
+ chili,70
+ chinese,71
+ chocolate,72
+ chowders,73
+ christmas,74
+ chutneys,75
+ cinco de mayo,76
+ citrus,77
+ cobblers and crisps,78
+ cocktails,79
+ coconut,80
+ coffee cakes,81
+ colombian,82
+ comfort food,83
+ condiments etc,84
+ cookies and brownies,85
+ cooking mixes,86
+ copycat,87
+ corn,88
+ course,89
+ crab,90
+ crock pot slow cooker,91
+ crusts pastry dough 2,92
+ cuisine,93
+ cupcakes,94
+ deep fry,95
+ desserts,96
+ diabetic,97
+ dietary,98
+ dinner party,99
+ dips,100
+ drop cookies,101
+ easter,102
+ easy,103
+ egg free,104
+ eggs,105
+ eggs dairy,106
+ elbow macaroni,107
+ english,108
+ equipment,109
+ ethiopian,110
+ european,111
+ fall,112
+ filipino,113
+ finger food,114
+ finnish,115
+ fish,116
+ food processor blender,117
+ for 1 or 2,118
+ for large groups,119
+ free of something,120
+ freezer,121
+ french,122
+ freshwater fish,123
+ from scratch,124
+ frozen desserts,125
+ fruit,126
+ garnishes,127
+ german,128
+ gifts,129
+ gluten free,130
+ grains,131
+ granola and porridge,132
+ grapes,133
+ greek,134
+ green yellow beans,135
+ greens,136
+ grilling,137
+ ground beef,138
+ halloween,139
+ hand formed cookies,140
+ hanukkah,141
+ hawaiian,142
+ healthy,143
+ healthy 2,144
+ heirloom historical,145
+ herb and spice mixes,146
+ high calcium,147
+ high fiber,148
+ high in something,149
+ high protein,150
+ holiday event,151
+ ice cream,152
+ independence day,153
+ indian,154
+ indonesian,155
+ inexpensive,156
+ infant baby friendly,157
+ iranian persian,158
+ irish,159
+ italian,160
+ jams and preserves,161
+ japanese,162
+ jellies,163
+ jewish ashkenazi,164
+ kid friendly,165
+ kosher,166
+ kwanzaa,167
+ lamb sheep,168
+ lemon,169
+ lettuces,170
+ lime,171
+ long grain rice,172
+ low calorie,173
+ low carb,174
+ low cholesterol,175
+ low fat,176
+ low in something,177
+ low protein,178
+ low saturated fat,179
+ low sodium,180
+ lunch,181
+ main dish,182
+ main ingredient,183
+ mango,184
+ mardi gras carnival,185
+ marinades and rubs,186
+ mashed potatoes,187
+ meat,188
+ meatballs,189
+ melons,190
+ mexican,191
+ microwave,192
+ middle eastern,193
+ midwestern,194
+ mixer,195
+ moroccan,196
+ muffins,197
+ mushrooms,198
+ native american,199
+ new years,200
+ new zealand,201
+ no cook,202
+ non alcoholic,203
+ north american,204
+ northeastern united states,205
+ novelty,206
+ number of servings,207
+ nut free,208
+ nuts,209
+ oamc freezer make ahead,210
+ occasion,211
+ omelets and frittatas,212
+ one dish meal,213
+ onions,214
+ ontario,215
+ orange roughy,216
+ oranges,217
+ oven,218
+ pacific northwest,219
+ pancakes and waffles,220
+ papaya,221
+ passover,222
+ pasta,223
+ pasta rice and grains,224
+ peaches,225
+ pears,226
+ pennsylvania dutch,227
+ peppers,228
+ pickeral,229
+ picnic,230
+ pies,231
+ pies and tarts,232
+ pineapple,233
+ pitted fruit,234
+ pizza,235
+ plums,236
+ polynesian,237
+ pork,238
+ pork chops,239
+ pork loins,240
+ pork ribs,241
+ pork sausage,242
+ potatoes,243
+ potluck,244
+ poultry,245
+ preparation,246
+ presentation,247
+ puddings and mousses,248
+ puerto rican,249
+ punch,250
+ quick breads,251
+ ramadan,252
+ raspberries,253
+ ravioli tortellini,254
+ refrigerator,255
+ rice,256
+ roast,257
+ roast beef,258
+ rolled cookies,259
+ rolls biscuits,260
+ romantic,261
+ rosh hashana,262
+ russian,263
+ salad dressings,264
+ salads,265
+ salmon,266
+ saltwater fish,267
+ sandwiches,268
+ sauces,269
+ saudi arabian,270
+ savory,271
+ savory pies,272
+ savory sauces,273
+ scandinavian,274
+ scottish,275
+ seafood,276
+ seasonal,277
+ served cold,278
+ served hot,279
+ shakes,280
+ shellfish,281
+ short grain rice,282
+ shrimp,283
+ side dishes,284
+ small appliance,285
+ smoothies,286
+ snacks,287
+ soul,288
+ soups stews,289
+ sourdough,290
+ south african,291
+ south american,292
+ south west pacific,293
+ southern united states,294
+ southwestern united states,295
+ soy tofu,296
+ spaghetti,297
+ spanish,298
+ spicy,299
+ spinach,300
+ spreads,301
+ spring,302
+ squash,303
+ st patricks day,304
+ steak,305
+ steam,306
+ stews,307
+ stir fry,308
+ stocks,309
+ stove top,310
+ strawberries,311
+ stuffings dressings,312
+ summer,313
+ super bowl,314
+ superbowl,315
+ swedish,316
+ sweet,317
+ sweet sauces,318
+ swiss,319
+ tarts,320
+ taste mood,321
+ technique,322
+ tempeh,323
+ tex mex,324
+ thanksgiving,325
+ time to make,326
+ to go,327
+ toddler friendly,328
+ tomatoes,329
+ tropical fruit,330
+ tuna,331
+ turkey,332
+ turkey burgers,333
+ valentines day,334
+ veal,335
+ vegan,336
+ vegetables,337
+ vegetarian,338
+ very low carbs,339
+ vietnamese,340
+ water bath,341
+ wedding,342
+ weeknight,343
+ welsh,344
+ white rice,345
+ whole chicken,346
+ whole turkey,347
+ winter,348
+ yams sweet potatoes,349
+ yeast,350
+15 minutes or less,351
+30 minutes or less,352
+60 minutes or less,353
+bacon,354
+course,355
+curries,356
+danish,357
+lactose,358
+nan,359
+time to make,360
+weeknight,361
