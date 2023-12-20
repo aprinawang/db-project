@@ -6,18 +6,13 @@ create table User (
 	PRIMARY KEY (UserID)
 );
 
-
-Drop table Ingredient;
-create table Ingredient (
-	ingredient_id	INTEGER NOT NULL,
-	PRIMARY KEY (IngredientID),
-);
-
 drop table RecipeIngredientLink;
 Create table RecipeIngredientLink (
-	recipe_id	INTEGER,
+	recipe_id		INTEGER,
 	ingredient_id	INTEGER,
-	variant		VARCHAR(25)
+	quantity		DECIMAL(4,2),
+	quantity_desc	VARCHAR(25),
+	variant		VARCHAR(25),
 	FOREIGN KEY (recipe_id) REFERENCES Recipe(recipe_id),
 	FOREIGN KEY (ingredient_id) REFERENCES Ingredient(ingredient_id)
 );
@@ -26,11 +21,10 @@ Drop table Recipe;
 create table Recipe (
 	recipe_name	VARCHAR(255) NOT NULL,
       	recipe_id	INTEGER NOT NULL,
-	minutes   	INTEGER,
-	user_id		INTEGER,
+	user_id	INTEGER,
       	date		DATETIME,
-      	num_steps	INTEGER,
-	num_ingredients INTEGER,
+	description	VARCHAR(255),
+	calories	INTEGER,
 	PRIMARY KEY (recipe_id),
 	FOREIGN KEY (user_id) REFERENCES User(user_id),
 );
@@ -48,14 +42,14 @@ create table Interaction (
 
 Drop table Allergy;
 create table Allergy (
-	allergy		VARCHAR(25),
+	allergy	VARCHAR(25),
 	allergy_id	INTEGER,
 	PRIMARY KEY (allergy_id)
 );
 
 Drop table Allergens;
 create table Allergens (
-	allergy_id	INTEGER,
+	allergy_id		INTEGER,
 	ingredient_id	INTEGER,
 );
 
@@ -71,4 +65,41 @@ Create table Tag (
 	tag_id		INTEGER,
 	tag_name 	VARCHAR(255),
 	FOREIGN KEY (recipe_id) REFERENCES Recipe(recipe_id),
+);
+
+Drop table Steps:
+Create table Steps (
+	recipe_id		INTEGER,
+	steps 			VARCHAR(255),
+	order			INTEGER,
+	FOREIGN KEY (recipe_id) REFERENCES Recipe(recipe_id),
+);
+
+Drop table Conversions:
+Create table Conversions (
+	from		VARCHAR(25),
+	to 		VARCHAR(25),
+	factor		Decimal (5,2),
+);
+
+Drop table Ingredient;
+create table Ingredient (
+    ingredient_id INTEGER,
+    Energy_Kcal INTEGER,
+    Protein FLOAT,
+    Carbohydrate FLOAT,
+    Fiber FLOAT,
+    Sugar FLOAT,
+    Calcium FLOAT,
+    Iron FLOAT,
+    Magnesium FLOAT,
+    Sodium FLOAT,
+    Cholestrl FLOAT,
+    Cleaned_Desc VARCHAR(25),
+    unit INTEGER,
+    volume_quantity INTEGER,
+    volume_desc VARCHAR(25),
+    weight_quantity INTEGER,
+    weight_desc VARCHAR(25),
+	PRIMARY KEY (ingredient_id)
 );
