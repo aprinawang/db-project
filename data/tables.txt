@@ -81,8 +81,8 @@ DROP TABLE IF EXISTS Allergens;
 CREATE TABLE Allergens (
     allergy_id INTEGER NOT NULL,
     ingredient_id INTEGER NOT NULL,
-		FOREIGN KEY (allergy_id) REFERENCES Allergy(allergy_id)
-		FOREIGN KEY (ingredient_id) REFERENCES Ingredient(ingredient_id)
+    FOREIGN KEY (allergy_id) REFERENCES Allergy(allergy_id),
+    FOREIGN KEY (ingredient_id) REFERENCES Ingredient(ingredient_id)
 );
 
 DROP TABLE IF EXISTS TagLink;
