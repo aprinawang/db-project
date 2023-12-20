@@ -21,7 +21,6 @@ Drop table Recipe;
 create table Recipe (
 	recipe_name	VARCHAR(255) NOT NULL,
       	recipe_id	INTEGER NOT NULL,
-	minutes		INTEGER,
 	user_id	INTEGER,
       	date		DATETIME,
 	description	VARCHAR(255),
