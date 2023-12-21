@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Recipe Finder</title>
+    <style>
+        body { font-family: Arial, sans-serif; background-color: #f0f8ff; }
+        .container { width: 80%; margin: auto; padding: 20px; }
+        .form-group { margin-bottom: 20px; }
+        .recipe { margin-bottom: 30px; padding: 10px; border: 1px solid #ddd; background-color: #fff; }
+        h1 { color: #333366; }
+        button { background-color: #333366; color: white; padding: 10px 15px; border: none; border-radius: 5px; cursor: pointer; }
+        button:hover { background-color: #555588; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Recipe Finder</h1>
+
+        <h2>Recipe Search</h2>
+    <form method="post" action="index.php">
+        <div class="form-group">
+            <label for="searchInput">Search by Recipe Name:</label>
+            <input type="text" id="searchInput" name="searchInput" required>
+        </div>
+        <button type="submit" name="search">Search</button>
+    </form>
+        <h2>Making the Most of Your Leftovers!</h2>
+
+        <div class="box">
+            <p>Have a bunch of ingredients sitting in your fridge, and not sure how to put them to good use? We've got
+                you covered! 🍽️</p>
+
+            <h3>How it Works:</h3>
+            <ol>
+                <li><strong>Tell Us What You Have:</strong> Drop your list in the box provided, and let us know what's
+                    available. The more details, the better!</li>
+                <li><strong>Get Personalized Recipes:</strong> Once you've listed your ingredients, our system will
+                    work its magic and generate personalized recipes tailored to what you've got. No more wasting
+                    food—turn those leftovers into something delicious!</li>
+                <li><strong>Explore and Enjoy:</strong> Browse through the recipes we provide, pick your favorite, and
+                    get ready to turn your leftovers into a culinary masterpiece.</li>
+            </ol>
+
+            <p>Ready to transform your ingredients? List them below, and let's get cooking! 🌟</p>
+            
+            <form method="post" action="index.php">
+            <div class="form-group">
+                <label for="ingredients">Enter Ingredients (comma-separated):</label>
+                <input type="text" id="ingredients" name="ingredients" required>
+            </div>
+            <button type="submit" name="searchRecipes">Search Recipes</button>
+        </form>
+        <div>
+          <p> ------- </p>
+          <!-- Additional forms for highest rating, least time, and tag filtering -->
+
+          <h2>Discover Recipes at Your Preferred Pace</h2>
+        <p>Welcome to our Recipe Finder! Tailor your culinary journey by setting your preferred cooking time range. Whether you're in a hurry or have a 
+          leisurely evening, find recipes that fit your schedule perfectly. Simply enter your desired minimum and maximum cooking times below, and 
+          let the delicious possibilities unfold. Explore a world of flavors at your own pace!</p>
+          <form method="post" action="index.php">
+              <div class="form-group">
+                  <label for="minMinutes">Minimum Cooking Time (in minutes):</label>
+                  <input type="number" id="minMinutes" name="minMinutes" required>
+              </div>
+              <div class="form-group">
+                  <label for="maxMinutes">Maximum Cooking Time (in minutes):</label>
+                  <input type="number" id="maxMinutes" name="maxMinutes" required>
+              </div>
+              <button type="submit" name="filterByTimeRange">Filter by Time Range</button>
+          </form>
+      </div>
+      
+
+        <!-- Placeholder for Graphs -->
+        <!-- ... -->
+    </div>
+
+    <!-- JavaScript for dynamic content and graphs -->
+    <!-- <script src="path_to_chart.js"></script> -->
+    <!-- <script>JavaScript code for graphs</script> -->
+
+</body>
+</html>
